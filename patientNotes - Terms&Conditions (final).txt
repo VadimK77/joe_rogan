@@ -1,0 +1,351 @@
+﻿Updated: 11.05.2023
+
+
+Imprint
+PatientNotes Limited
+Kemp House 152-160 City Road, 
+London, England, 
+EC1V 2NX
+
+
+
+
+Dienstleistungen
+
+
+1.1. Der Anbieter gewährt den Zugang zur Software und stellt die im Vertrag festgelegten Dienstleistungen in seinem Zuständigkeitsbereich (ab der Schnittstelle zwischen Rechenzentrum und Internet) zur Verfügung. Der Umfang, die Eigenschaften, der Verwendungszweck und die Nutzungsbedingungen der im Vertrag festgelegten Dienstleistungen werden in der jeweiligen Leistungsbeschreibung und zusätzlich in der Bedienungsanleitung der Software dargelegt.
+
+
+1.2. Weitergehende Dienstleistungen, wie die Entwicklung von kundenspezifischen Lösungen oder notwendige Anpassungen, erfordern einen gesonderten Vertrag.
+
+
+1.3. Der Anbieter kann aktualisierte Versionen der Software zur Verfügung stellen. Über diese Aktualisierungen und die dazugehörigen Nutzungshinweise wird der Kunde vom Anbieter elektronisch informiert und die Aktualisierungen entsprechend bereitgestellt.
+
+
+
+
+Nutzungsbereich
+
+
+2.1. Die im Vertrag festgelegten Dienstleistungen dürfen nur vom Kunden und nur für die im Vertrag vereinbarten Zwecke genutzt werden. Der Kunde hat während der Vertragslaufzeit die Möglichkeit, über Telekommunikation (Internet) auf die im Vertrag festgelegten Dienstleistungen zuzugreifen und die mit der Software verbundenen Funktionen mit einem Browser oder einer anderen geeigneten Anwendung (z.B. "App") vertragsgemäß zu nutzen. Weitere Rechte, insbesondere an der Software oder den gegebenenfalls bereitgestellten Infrastrukturleistungen im jeweiligen Rechenzentrum, werden dem Kunden nicht eingeräumt. Jede darüber hinausgehende Nutzung bedarf der vorherigen schriftlichen Zustimmung des Anbieters.
+
+
+2.2. Der Kunde darf die Software nicht über den vereinbarten Nutzungsbereich hinaus beanspruchen, durch Dritte nutzen lassen oder Dritten zugänglich machen. Insbesondere ist es dem Kunden nicht gestattet, die Software oder Teile davon zu kopieren, zu verkaufen oder zeitlich begrenzt zu überlassen, zu vermieten oder zu verleihen.
+
+
+2.3. Der Anbieter ist berechtigt, angemessene technische Schutzmaßnahmen gegen eine vertragswidrige Nutzung zu ergreifen. Die vertragsgemäße Nutzung der Dienstleistungen darf dadurch nicht mehr als unerheblich beeinträchtigt werden.
+
+
+2.4. Bei einer vertragswidrigen Überschreitung des Nutzungsbereichs durch einen Nutzer oder bei einer unberechtigten Überlassung der Nutzung muss der Kunde dem Anbieter auf Anforderung unverzüglich alle verfügbaren Informationen zur Geltendmachung der Ansprüche aufgrund der vertragswidrigen Nutzung zur Verfügung stellen, insbesondere Name und Anschrift des Nutzers.
+
+
+2.5. Der Anbieter kann das Zugangsrecht des Kunden widerrufen und/oder den Vertrag kündigen, wenn der Kunde den ihm gestatteten Nutzungsbereich erheblich überschreitet oder gegen Regelungen zum Schutz vor unberechtigter Nutzung verstößt. In diesem Zusammenhang kann der Anbieter den Zugriff auf die vertraglichen Dienstleistungen unterbrechen oder sperren. Der Anbieter muss dem Kunden vorher grundsätzlich eine angemessene Frist zur Abhilfe setzen. Der alleinige Widerruf des Zugangsrechts gilt nicht gleichzeitig als Kündigung des Vertrags. Der Widerruf des Zugangsrechts ohne Kündigung kann vom Anbieter nur für einen angemessenen Zeitraum, maximal 3 Monate, aufrechterhalten werden.
+
+
+2.6. Der Anspruch des Anbieters auf eine Vergütung für die Nutzung über den vereinbarten Nutzungsbereich hinaus bleibt unberührt.
+
+
+2.7. Der Kunde hat Anspruch auf Wiederherstellung des Zugangsrechts und der Zugriffsmöglichkeit, nachdem er nachgewiesen hat, dass er die vertragswidrige Nutzung beendet hat und zukünftige vertragswidrige Nutzungen unterbunden hat.
+
+
+
+
+Verfügbarkeit und Leistungsstörungen
+
+
+3.1. Die Verfügbarkeit der bereitgestellten Dienstleistungen wird in der Leistungsbeschreibung definiert.
+
+
+3.2. Im Falle einer nur geringfügigen Beeinträchtigung der Eignung der Dienstleistungen für den vertragsgemäßen Gebrauch bestehen keine Ansprüche des Kunden aufgrund von Leistungsstörungen. Die Haftung des Anbieters für Mängel, die unabhängig von Verschulden bereits zum Zeitpunkt des Vertragsabschlusses vorhanden waren, ist ausgeschlossen.
+
+
+Datenschutz und Datensicherheit
+
+
+4.1. Insofern PatientNotes Zugriff auf personenbezogene Daten des Kunden oder aus dessen Bereich hat, agiert es ausschließlich als Auftragsverarbeiter und verarbeitet diese Daten nur zur Vertragserfüllung. PatientNotes wird die Weisungen des Kunden bezüglich der Handhabung dieser Daten befolgen. Der Kunde trägt mögliche nachteilige Folgen solcher Weisungen für die Vertragserfüllung. Der Kunde wird mit PatientNotes die Details der Handhabung der Kundendaten gemäß den datenschutzrechtlichen Anforderungen vereinbaren.
+
+
+4.2. Der Kunde bleibt sowohl im allgemeinen Auftragsverhältnis als auch im datenschutzrechtlichen Sinne der Verantwortliche. Verarbeitet der Kunde im Zusammenhang mit dem Vertrag personenbezogene Daten (einschließlich Erhebung und Nutzung), so sichert er zu, dass er dazu nach den geltenden, insbesondere datenschutzrechtlichen Bestimmungen berechtigt ist, und stellt PatientNotes im Falle eines Verstoßes von Ansprüchen Dritter frei.
+
+
+4.3. Im Verhältnis zwischen PatientNotes und dem Kunden gilt: Die Verantwortung für die Verarbeitung (einschließlich Erhebung und Nutzung) personenbezogener Daten liegt beim Kunden, es sei denn, PatientNotes muss mögliche Ansprüche der betroffenen Person wegen einer ihm zurechenbaren Pflichtverletzung vertreten. Der Kunde wird mögliche Anfragen, Anträge und Ansprüche der betroffenen Person verantwortungsbewusst prüfen, bearbeiten und beantworten. Dies gilt auch, wenn PatientNotes von der betroffenen Person in Anspruch genommen wird. PatientNotes wird den Kunden im Rahmen seiner Pflichten unterstützen.
+
+
+4.4. PatientNotes gewährleistet, dass Kundendaten ausschließlich in einem Mitgliedstaat der Europäischen Union gespeichert werden, sofern nichts anderes vereinbart ist.
+
+
+4.5. PatientNotes ist eine in Großbritannien eingetragene Gesellschaft, jedoch sind die Serverstandorte und die gesamte Datenspeicherung innerhalb der Europäischen Union angesiedelt. PatientNotes hält die Bestimmungen der DSGVO (Datenschutz-Grundverordnung) ein. Für weitere Informationen kann die Datenschutzrichtlinie von PatientNotes herangezogen werden.
+
+
+Pflichten und Sicherheit des Kunden
+
+
+5.1. Der Kunde ist verpflichtet, seine Zugangsberechtigungen sowie Identifikations- und Authentifizierungsdaten, die ihm oder den Nutzern zugewiesen sind, vor dem Zugriff Dritter zu schützen und sie nicht an Unberechtigte weiterzugeben. PatientNotes implementiert höchste Sicherheitsstandards, um den Zugriff auf Kundenkonten durch Unbefugte zu verhindern.
+
+
+5.2. Der Kunde ist verpflichtet, PatientNotes von allen Ansprüchen Dritter freizustellen, die aufgrund von Rechtsverletzungen entstehen, die auf eine rechtswidrige Nutzung der Dienstleistungen durch den Kunden oder mit seiner Zustimmung erfolgen. Wenn der Kunde erkennt oder erkennen muss, dass eine solche Rechtsverletzung droht, muss er PatientNotes unverzüglich darüber informieren.
+
+
+5.3. Der Kunde ist verpflichtet, die von PatientNotes bereitgestellten Möglichkeiten zur Sicherung seiner Daten in seinem eigenen Verantwortungsbereich zu nutzen.
+
+
+
+
+Vertragswidrige Nutzung und Schadensersatz
+
+
+6.1 Für jeden Fall, in dem eine Dienstleistung von PatientNotes unberechtigt im Verantwortungsbereich des Kunden genutzt wird, ist der Kunde verpflichtet, Schadenersatz in Höhe der Vergütung zu leisten, die für die vertragsgemäße Nutzung über die Mindestvertragslaufzeit dieser Dienstleistung angefallen wäre. Der Kunde behält sich das Recht vor, nachzuweisen, dass er die unberechtigte Nutzung nicht zu vertreten hat oder dass kein Schaden oder nur ein wesentlich geringerer Schaden entstanden ist. PatientNotes bleibt das Recht vorbehalten, einen höheren Schaden geltend zu machen.
+
+
+Störungsmanagement
+
+
+7.1. PatientNotes nimmt Störungsmeldungen des Kunden entgegen, ordnet sie den vereinbarten Störungskategorien (Abschnitt 7.3) zu und leitet auf dieser Grundlage die vereinbarten Maßnahmen zur Analyse und Behebung der Störungen ein.
+
+
+7.2. PatientNotes nimmt während der regulären Geschäftszeiten ordnungsgemäße Störungsmeldungen des Kunden entgegen und kennzeichnet sie jeweils. Auf Kundenanforderung bestätigt PatientNotes den Eingang einer Störungsmeldung unter Mitteilung der vergebenen Kennung.
+
+
+7.3. Sofern nichts anderes vereinbart ist, ordnet PatientNotes nach erster Sichtung einer der folgenden Kategorien zu:
+
+
+a) Kritische Störung: Die Störung beruht auf einem Fehler der von PatientNotes erbrachten Dienstleistungen, der die Nutzung der Leistungen, insbesondere der Software, unmöglich macht oder nur mit erheblichen Einschränkungen zulässt. Der Kunde kann dieses Problem nicht auf zumutbare Weise umgehen und daher dringende Aufgaben nicht erfüllen.
+
+
+b) Allgemeine Störung: Die Störung beruht auf einem Fehler der von PatientNotes erbrachten Dienstleistungen, der die Nutzung der Leistungen, insbesondere der Software, durch den Kunden mehr als nur unerheblich einschränkt, ohne dass eine kritische Störung vorliegt.
+
+
+c) Andere Meldungen: Störungsmeldungen, die nicht in die Kategorien a) und b) fallen, werden den sonstigen Meldungen zugeordnet. Andere Meldungen werden von PatientNotes nur nach den dafür getroffenen Vereinbarungen behandelt.
+
+
+7.4. Bei Meldungen über kritische und allgemeine Störungen leitet PatientNotes unverzüglich auf der Grundlage der vom Kunden mitgeteilten Umstände entsprechende Maßnahmen ein, um zunächst die Ursache der Störung zu ermitteln.
+
+
+Stellt sich die gemeldete Störung nach erster Analyse nicht als Fehler der von PatientNotes erbrachten Dienstleistungen, insbesondere der bereitgestellten Software, heraus, informiert PatientNotes den Kunden unverzüglich.
+
+
+Andernfalls veranlasst PatientNotes entsprechende Maßnahmen zur weitergehenden Analyse und Behebung der gemeldeten Störung oder - bei Drittsoftware - übermittelt die Störungsmeldung zusammen mit den Analyseergebnissen dem Vertreiber oder Hersteller der Drittsoftware mit der Bitte um Abhilfe.
+
+
+PatientNotes stellt dem Kunden unverzüglich zur Verfügung, ihm vorliegende Maßnahmen zur Umgehung oder Behebung eines Fehlers der von PatientNotes erbrachten Dienstleistungen, insbesondere der bereitgestellten Software, wie Handlungsanweisungen oder Korrekturen der bereitgestellten Software. Der Kunde wird solche Maßnahmen zur Umgehung oder Behebung von Störungen unverzüglich übernehmen und bei deren Einsatz eventuell verbleibende Störungen unverzüglich erneut an PatientNotes melden.
+
+
+Vertragslaufzeit und Vertragsbeendigung
+
+
+8.1. Die vereinbarten Leistungen gemäß dem Vertrag werden ab dem im Vertrag angegebenen Datum zunächst für die Dauer der vereinbarten Vertragslaufzeit erbracht. Während dieser Mindestlaufzeit ist eine vorzeitige ordentliche Kündigung von beiden Seiten ausgeschlossen.
+
+
+8.2. Der Vertrag kann mit einer Kündigungsfrist von drei Monaten, frühestens zum Ablauf der Mindestlaufzeit, gekündigt werden. Erfolgt dies nicht, verlängert sich der Vertrag jeweils um ein weiteres Jahr, sofern er nicht mit einer Kündigungsfrist von 3 Monaten zum Ende des jeweiligen Verlängerungszeitraums ordentlich gekündigt wurde.
+
+
+8.3. Das Recht jedes Vertragspartners zur außerordentlichen Kündigung aus wichtigem Grund bleibt unberührt.
+
+
+8.4. Für die Wirksamkeit jeder Kündigungserklärung ist die Schriftform erforderlich. Es gelten die Bestimmungen in Abschnitt 16.4.
+
+
+8.5. Vor Vertragsende ist der Kunde verpflichtet, seine Datenbestände eigenverantwortlich zu sichern (z.B. durch Herunterladen). Auf Wunsch wird der Anbieter den Kunden dabei unterstützen; diesbezüglich gelten die Bestimmungen in Abschnitt 12.3. Nach Vertragsende wird dem Kunden aus datenschutzrechtlichen Gründen in der Regel kein Zugriff mehr auf diese Datenbestände gewährt.
+
+
+Vergütung, Zahlung, Leistungsschutz, Termine
+
+
+9.1. Sofern nicht anders vereinbart, wird die Vergütung gemäß dem Vertrag auf Basis des Aufwands zu den zum Zeitpunkt des Vertragsabschlusses geltenden Standardpreisen des Anbieters berechnet. Die Vergütungen verstehen sich grundsätzlich als Nettopreise zuzüglich der gesetzlich anfallenden Umsatzsteuer.
+
+
+Der Anbieter kann monatliche Abrechnungen erstellen. Bei vergüteten Leistungen auf Basis des Aufwands dokumentiert der Anbieter Art und Dauer der Tätigkeiten und übermittelt diese Dokumentation zusammen mit der Rechnung.
+
+
+9.2. Alle Rechnungen sind grundsätzlich innerhalb von 14 Kalendertagen nach Erhalt, zahlbar ohne Abzug, an die angegebene Zahlungsstelle zu begleichen.
+
+
+9.3. Der Kunde kann Zahlungen wegen Mängeln nur verrechnen oder zurückhalten, soweit ihm tatsächlich Zahlungsansprüche aufgrund von Sach- oder Rechtsmängeln der Leistung zustehen. In Bezug auf andere Mängelansprüche kann der Kunde Zahlungen nur in einem angemessenen Verhältnis zum Mangel zurückhalten. Abschnitt 4.1 gilt entsprechend. Der Kunde hat kein Recht zur Zurückbehaltung, wenn sein Mängelanspruch verjährt ist. Darüber hinaus kann der Kunde nur mit unbestrittenen oder rechtskräftig festgestellten Forderungen aufrechnen oder ein Zurückbehaltungsrecht ausüben.
+
+
+9.4. Der Anbieter behält sich das Eigentum an den Leistungen sowie die darin eingeräumten Rechte bis zur vollständigen Bezahlung der geschuldeten Vergütung vor, unter Berücksichtigung berechtigter Mängelrügen gemäß Abschnitt 1.3, Satz 2. Des Weiteren behält sich der Anbieter das Eigentum vor bis zur Erfüllung aller Ansprüche aus der Geschäftsbeziehung mit dem Kunden.
+
+
+Der Anbieter ist berechtigt, dem Kunden die weitere Nutzung der Leistungen während eines Zahlungsverzugs zu untersagen. Dieses Recht kann der Anbieter für einen angemessenen Zeitraum geltend machen, normalerweise jedoch nicht länger als 6 Monate. Dies stellt keinen Vertragsrücktritt dar. § 449 Abs. 2 BGB bleibt unberührt.
+
+
+Wenn der Kunde oder seine Abnehmer die Leistungen zurückgeben, liegt darin kein Rücktritt des Anbieters, es sei denn, dieser hat den Rücktritt ausdrücklich erklärt. Gleiches gilt für die Pfändung der Vorbehaltsware oder der Rechte an der Vorbehaltsware durch den Anbieter.
+
+
+Der Kunde darf Gegenstände unter Eigentums- oder Rechtsvorbehalt weder verpfänden noch anderweitig belasten. Dem Kunden als Wiederverkäufer ist nur unter der Bedingung gestattet, die Gegenstände im gewöhnlichen Geschäftsverkehr weiterzuverkaufen, dass der Kunde dem Anbieter seine Ansprüche gegenüber seinen Abnehmern im Zusammenhang mit dem Weiterverkauf wirksam abtritt
+
+
+Zusammenarbeit, Mitwirkungspflichten, Vertraulichkeit
+
+
+10.1. Der Kunde und der Anbieter benennen jeweils einen verantwortlichen Ansprechpartner. Die Kommunikation zwischen dem Kunden und dem Anbieter erfolgt, sofern nicht anders vereinbart, über diese Ansprechpartner. Die Ansprechpartner treffen unverzüglich alle Entscheidungen im Zusammenhang mit der Vertragsdurchführung. Diese Entscheidungen sind verbindlich zu dokumentieren.
+
+
+10.2. Der Kunde ist verpflichtet, den Anbieter bei Bedarf zu unterstützen und in seinem Betriebsumfeld alle erforderlichen Voraussetzungen für eine ordnungsgemäße Auftragsausführung zu schaffen. Dies umfasst insbesondere die Bereitstellung notwendiger Informationen und, soweit möglich, einen Remote-Zugang zum Kundensystem. Falls aus Sicherheits- oder anderen Gründen ein Remote-Zugang nicht möglich ist, werden die betroffenen Fristen angemessen verlängert; die Vertragspartner werden eine angemessene Regelung für weitere Auswirkungen treffen. Der Kunde stellt sicher, dass qualifiziertes Personal zur Unterstützung des Anbieters zur Verfügung steht.
+
+
+Sofern im Vertrag vereinbart, dass Leistungen beim Kunden vor Ort erbracht werden können, stellt der Kunde auf Wunsch des Anbieters ausreichende Arbeitsplätze und Arbeitsmittel kostenlos zur Verfügung.
+
+
+10.3. Sofern nichts anderes vereinbart ist, ist der Kunde für eine angemessene Datensicherung und Ausfallvorsorge für Daten und Komponenten (z. B. Hardware, Software) verantwortlich, entsprechend ihrer Art und Bedeutung.
+
+
+10.4. Der Kunde ist verpflichtet, Mängel unverzüglich schriftlich in nachvollziehbarer und detaillierter Form zu melden und alle für die Mängelerkennung und -analyse relevanten Informationen anzugeben. Dies umfasst insbesondere die beschriebenen Arbeitsschritte, die zum Auftreten des Mangels geführt haben, die Erscheinungsform und die Auswirkungen des Mangels. Sofern nichts anderes vereinbart ist, werden dafür die entsprechenden Formulare und Verfahren des Anbieters verwendet.
+
+
+10.5. Der Kunde unterstützt den Anbieter angemessen auf Anforderung bei der Prüfung und Durchsetzung von Ansprüchen gegenüber anderen Beteiligten im Zusammenhang mit der Leistungserbringung. Dies gilt insbesondere für Rückgriffsansprüche des Anbieters gegenüber Vorlieferanten.
+
+
+10.6. Die Vertragspartner verpflichten sich zur Vertraulichkeit bezüglich Geschäfts- und Betriebsgeheimnissen sowie anderer als vertraulich bezeichneter Informationen, die im Zusammenhang mit der Vertragsdurchführung bekannt werden. Eine Weitergabe solcher Informationen an Personen, die nicht am Vertragsabschluss, der Durchführung oder Abwicklung beteiligt sind, ist nur mit schriftlicher Einwilligung des jeweils anderen Vertragspartners gestattet. Sofern nichts anderes vereinbart ist, endet diese Verpflichtung fünf Jahre nach Kenntnisnahme der jeweiligen Informationen, jedoch nicht vor Beendigung von Dauerschuldverhältnissen.
+
+
+Störungen bei der Leistungserbringung
+
+
+11.1. Falls eine nicht vom Anbieter zu vertretende Ursache, einschließlich Streik oder Aussperrung, die Einhaltung von Terminen beeinträchtigt („Störung“), verschieben sich die Termine um die Dauer der Störung, einschließlich einer angemessenen Wiederanlaufphase, sofern erforderlich. Ein Vertragspartner hat den anderen Vertragspartner unverzüglich über die Ursache einer in seinem Verantwortungsbereich auftretenden Störung und die Dauer der Verschiebung zu informieren.
+
+
+11.2. Falls eine Störung zu einem erhöhten Aufwand führt, kann der Anbieter eine zusätzliche Vergütung für den Mehraufwand verlangen, sofern der Kunde nicht für die Störung verantwortlich ist und deren Ursache außerhalb seines Verantwortungsbereichs liegt.
+
+
+11.3. Wenn der Kunde aufgrund einer nicht ordnungsgemäßen Leistung des Anbieters vom Vertrag zurücktreten und/oder Schadensersatz anstelle der Leistung verlangen kann oder dies behauptet, wird der Kunde auf Anforderung des Anbieters innerhalb einer angemessen gesetzten Frist schriftlich erklären, ob er diese Rechte geltend macht oder weiterhin die Leistungserbringung wünscht. Im Falle eines Rücktritts hat der Kunde dem Anbieter den Wert der bisherigen Nutzungsmöglichkeiten zu erstatten; dasselbe gilt für Verschlechterungen durch bestimmungsgemäßen Gebrauch.
+
+
+Falls der Anbieter in Verzug gerät, ist der Schadensersatz des Kunden aufgrund des Verzugs für jede vollendete Woche des Verzugs auf 0,5 % des Preises für den Teil der vertraglichen Leistung beschränkt, der aufgrund des Verzugs nicht genutzt werden kann. Die Gesamthaftung des Anbieters aufgrund des Verzugs ist auf maximal 5 % der Vergütung für alle vom Verzug betroffenen vertraglichen Leistungen begrenzt, bezogen auf die Vergütung für die betroffenen Leistungen für das gesamte Kalenderjahr bei Dauerschuldverhältnissen. Zusätzlich gilt ein bei Vertragsabschluss vereinbarter Prozentsatz der vereinbarten Vergütung vorrangig. Diese Beschränkung gilt nicht, sofern der Verzug auf grober Fahrlässigkeit oder Vorsatz des Anbieters beruht.
+
+
+11.4. Bei einer Verzögerung der Leistung hat der Kunde gemäß den gesetzlichen Bestimmungen nur dann ein Rücktrittsrecht, wenn die Verzögerung vom Anbieter zu vertreten ist. Wenn der Kunde aufgrund der Verzögerung berechtigterweise Schadensersatz anstelle der Leistung verlangt, hat er das Recht, für jede vollendete Woche der Verzögerung 1 % des Preises für den Teil der vertraglichen Leistung zu fordern, der aufgrund der Verzögerung nicht genutzt werden kann, jedoch insgesamt höchstens 10 % dieses Preises, bezogen auf die Vergütung für die betroffenen Leistungen.
+
+
+
+
+Sachmängel und Aufwendungsersatz
+
+
+12.1. Der Anbieter gewährleistet die vertraglich vereinbarte Beschaffenheit der Leistungen. Bei geringfügigen Abweichungen der Leistungen von der vertraglich festgelegten Beschaffenheit bestehen keine Ansprüche wegen Sachmängeln.
+
+
+Ansprüche wegen Mängeln bestehen auch nicht bei übermäßiger oder unsachgemäßer Nutzung, natürlicher Abnutzung, Versagen von Komponenten der Systemumgebung, nicht reproduzierbaren oder anderweitig durch den Kunden nachweisbaren Softwarefehlern oder Schäden, die auf besondere äußere Einflüsse zurückzuführen sind, die nicht im Vertrag vorgesehen sind. Dies gilt auch für Veränderungen oder Reparaturen, die vom Kunden oder Dritten vorgenommen wurden, sofern sie die Analyse und Behebung eines Sachmangels nicht erschweren.
+
+
+Für Schadensersatz- und Aufwendungsersatzansprüche gelten die Bestimmungen in Abschnitt 6 ergänzend.
+
+
+12.2. Die Verjährungsfrist für Ansprüche wegen Sachmängeln beträgt ein Jahr ab dem gesetzlichen Beginn der Verjährung. Die gesetzlichen Fristen für den Rückgriff gemäß § 478 BGB bleiben unberührt. Gleiches gilt, wenn das Gesetz gemäß § 438 Abs. 1 Nr. 2 oder § 634a Abs. 1 Nr. 2 BGB längere Fristen vorschreibt, bei vorsätzlicher oder grob fahrlässiger Pflichtverletzung des Anbieters, arglistigem Verschweigen eines Mangels sowie bei Verletzung von Leben, Körper oder Gesundheit sowie bei Ansprüchen aus dem Produkthaftungsgesetz.
+
+
+Die Bearbeitung einer Sachmängelanzeige durch den Anbieter führt nur zur Hemmung der Verjährung, sofern die gesetzlichen Voraussetzungen dafür vorliegen. Dadurch wird jedoch keine neue Verjährungsfrist in Gang gesetzt.
+
+
+Eine Nacherfüllung (Neulieferung oder Nachbesserung) kann sich nur auf die Verjährung des Sachmangels auswirken, der die Nacherfüllung ausgelöst hat.
+
+
+12.3. Der Anbieter kann einen angemessenen Aufwand in Rechnung stellen, wenn
+
+
+a) er aufgrund einer Meldung tätig wird, obwohl kein Mangel vorliegt, es sei denn, der Kunde konnte mit zumutbarem Aufwand nicht erkennen, dass kein Mangel vorlag, oder
+
+
+b) eine gemeldete Störung nicht reproduzierbar ist oder anderweitig vom Kunden als Mangel nachweisbar ist, oder
+
+
+c) zusätzlicher Aufwand aufgrund der nicht ordnungsgemäßen Erfüllung der Pflichten des Kunden anfällt (siehe auch Abschnitte 2.2, 2.3, 2.4 und 5.2).
+
+
+Rechtsmängel
+
+
+13.1. Der Anbieter haftet nur für Verletzungen von Rechten Dritter durch seine Leistung, sofern die Leistung vertragsgemäß erbracht wird und insbesondere in der vertraglich vereinbarten, unveränderten Einsatzumgebung verwendet wird.
+
+
+Die Haftung des Anbieters für Verletzungen von Rechten Dritter beschränkt sich auf das Gebiet der Europäischen Union und des Europäischen Wirtschaftsraums sowie auf den Ort der vertragsgemäßen Nutzung der Leistung. Ziffer 4.1 Satz 1 gilt entsprechend.
+
+
+13.2. Wenn ein Dritter gegenüber dem Kunden geltend macht, dass eine Leistung des Anbieters dessen Rechte verletzt, informiert der Kunde den Anbieter unverzüglich. Der Anbieter und gegebenenfalls seine Vorlieferanten sind berechtigt, aber nicht verpflichtet, die geltend gemachten Ansprüche auf eigene Kosten abzuwehren, soweit dies rechtlich zulässig ist.
+
+
+Der Kunde ist nicht berechtigt, Ansprüche Dritter anzuerkennen, bevor er dem Anbieter angemessene Gelegenheit gegeben hat, die Rechte Dritter auf andere Weise abzuwehren.
+
+
+13.3. Falls eine Leistung des Anbieters Rechte Dritter verletzt, hat der Anbieter nach eigenem Ermessen und auf eigene Kosten folgende Möglichkeiten:
+
+
+a) dem Kunden das Recht zur Nutzung der Leistung zu verschaffen, oder
+
+
+b) die Leistung so anzupassen, dass sie keine Rechtsverletzung mehr darstellt, oder
+
+
+c) die Leistung unter Erstattung der vom Kunden geleisteten Vergütung (abzüglich einer angemessenen Nutzungsentschädigung) zurückzunehmen, wenn der Anbieter keine andere Lösung mit angemessenem Aufwand erzielen kann.
+
+
+Die Interessen des Kunden werden dabei angemessen berücksichtigt.
+
+
+13.4. Ansprüche des Kunden wegen Rechtsmängeln unterliegen der Verjährung gemäß Ziffer 4.2. Für Schadensersatz- und Aufwendungsersatzansprüche des Kunden gelten ergänzend die Bestimmungen in Abschnitt 6, und für zusätzlichen Aufwand des Anbieters gilt Ziffer 4.3 entsprechend.
+
+
+Allgemeine Haftung des Anbieters
+14.1. Der Anbieter haftet dem Kunden in folgenden Fällen:
+
+
+a) für Schäden, die vorsätzlich oder grob fahrlässig von ihm, seinen gesetzlichen Vertretern oder Erfüllungsgehilfen verursacht werden,
+
+
+b) gemäß dem Produkthaftungsgesetz, und
+
+
+c) für Schäden, die aus der Verletzung von Leben, Körper oder Gesundheit resultieren und die der Anbieter, seine gesetzlichen Vertreter oder Erfüllungsgehilfen zu verantworten haben.
+
+
+14.2. Der Anbieter haftet nicht für leichte Fahrlässigkeit, es sei denn, er verletzt eine wesentliche Vertragspflicht, deren Erfüllung die ordnungsgemäße Durchführung des Vertrags überhaupt erst ermöglicht oder deren Verletzung die Erreichung des Vertragszwecks gefährdet und auf die der Kunde regelmäßig vertrauen darf.
+
+
+Diese Haftung ist auf den vertragstypischen und vorhersehbaren Schaden bei Sach- und Vermögensschäden beschränkt. Dies umfasst auch entgangenen Gewinn und ausgebliebene Einsparungen. Die Haftung für mittelbare Folgeschäden ist ausgeschlossen.
+
+
+Die Haftung ist für jeden einzelnen Schadensfall auf den Wert des Vertrags begrenzt. Bei laufender Vergütung gilt die Haftungshöhe pro Vertragsjahr. Die Verjährung unterliegt den Bestimmungen in Abschnitt 4.2. Die Vertragspartner können bei Vertragsabschluss eine erweiterte Haftung, in der Regel gegen separate Vergütung, schriftlich vereinbaren. Eine individuell vereinbarte Haftungssumme hat Vorrang. Die Haftung gemäß Abschnitt 6.1 bleibt von diesem Absatz unberührt.
+
+
+Ergänzend und vorrangig wird die Haftung des Anbieters für leichte Fahrlässigkeit aus dem jeweiligen Vertrag und seiner Durchführung für Schadensersatz- und Aufwendungsersatzansprüche - unabhängig vom Rechtsgrund - insgesamt auf den vereinbarten Prozentsatz der bei Vertragsabschluss festgelegten Vergütung begrenzt. Die Haftung gemäß Abschnitt 6.1 b) bleibt von diesem Absatz unberührt.
+
+
+14.3. Im Rahmen einer Garantieerklärung haftet der Anbieter nur für Schadensersatz, wenn dies ausdrücklich in der Garantie vereinbart wurde. Diese Haftung unterliegt bei leichter Fahrlässigkeit den Beschränkungen gemäß Abschnitt 6.2.
+
+
+14.4. Bei der notwendigen Wiederherstellung von Daten oder Komponenten (z. B. Hardware, Software) haftet der Anbieter nur für den Aufwand, der für eine ordnungsgemäße Datensicherung und Ausfallvorsorge seitens des Kunden erforderlich ist. Bei leichter Fahrlässigkeit des Anbieters tritt diese Haftung nur ein, wenn der Kunde vor einem Störfall eine angemessene Datensicherung und Ausfallvorsorge entsprechend der Art der Daten und Komponenten durchgeführt hat. Dies gilt nicht, sofern dies als Leistung des Anbieters vereinbart ist.
+
+
+14.5. Für Ansprüche auf Aufwendungsersatz und sonstige Haftungsansprüche des Kunden gegenüber dem Anbieter gelten die Bestimmungen in Abschnitt 6.1 bis 6.4 entsprechend. Die Bestimmungen in Abschnitt 3.3 und 3.4 bleiben unberührt.
+
+
+
+
+Datenschutz
+
+
+Der Kunde wird mit dem Anbieter datenschutzrechtlich notwendige Vereinbarungen für den Umgang mit personenbezogenen Daten gemäß PatientNotes abschließen.
+
+
+Sonstiges
+
+
+16.1. Der Kunde wird eigenverantwortlich die für die Lieferungen oder Leistungen anzuwendenden Import- und Exportvorschriften beachten, insbesondere solche der USA. Bei grenzüberschreitender Lieferung oder Leistung trägt der Kunde alle anfallenden Zölle, Gebühren und sonstigen Abgaben. Der Kunde wird gesetzliche oder behördliche Verfahren im Zusammenhang mit grenzüberschreitenden Lieferungen oder Leistungen eigenverantwortlich abwickeln, sofern nicht ausdrücklich anders vereinbart.
+
+
+16.2. Dieser Vertrag unterliegt dem deutschen Recht. Die Anwendung des UN-Kaufrechts ist ausgeschlossen.
+
+
+16.3. Der Anbieter erbringt seine Leistungen gemäß seinen Allgemeinen Geschäftsbedingungen (AGB). Die AGB des Kunden finden keine Anwendung, selbst wenn der Anbieter ihnen nicht ausdrücklich widersprochen hat.
+
+
+Die Annahme der Leistungen durch den Kunden gilt als Anerkennung der AGB des Anbieters unter Verzicht auf die AGB des Kunden.
+
+
+Andere Bedingungen sind nur verbindlich, wenn der Anbieter ihnen schriftlich zugestimmt hat; in diesem Fall gelten die AGB des Anbieters ergänzend.
+
+
+16.4. Änderungen und Ergänzungen dieses Vertrages bedürfen der schriftlichen Vereinbarung. Soweit die Schriftform vereinbart ist (z. B. für Kündigungen, Rücktritt), genügt die Textform nicht.
+
+
+16.5. Gerichtsstand gegenüber einem Kaufmann, einer juristischen Person des öffentlichen Rechts oder einem öffentlich-rechtlichen Sondervermögen ist der Sitz des Anbieters. Der Anbieter kann den Kunden auch an dessen Sitz verklagen.
