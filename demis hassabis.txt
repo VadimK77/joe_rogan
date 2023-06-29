@@ -1,0 +1,1245 @@
+0:00
+you know when you have a rock star in the room when you see the room filled and busy and excited and definitely
+0:07
+Dennis is a rock star as you all know I made a few talking points it's always a
+0:13
+lesson in humility when reading a CV likes of one of them is he started he
+0:18
+was a child prodigy in Chess at age four he started by age 13 he was at a master
+0:24
+standard okay so that's a good start in life I guess he completed a levels and
+0:30
+scholarship level exams two years early age 15 and 16. that's in the British
+0:35
+system but it's also telling and Cambridge told him you're too young to
+0:41
+come to Cambridge go do some video gaming okay now that's you can see how forward-looking Cambridge is I'm not
+0:48
+sure I'm not sure Cambridge told them is to go into video gaming but anyway he took a sabbatical before starting to
+0:55
+study that's another message please remember so he in the video gaming company bullfrog
+1:01
+Productions then he went to Queen's College Cambridge completed computer science triples and graduated
+1:09
+1997 with a double first another specialty from Dennis and University of
+1:15
+Cambridge Zen okay you would expect you would have stayed there you know worked with you
+1:21
+know some uh uh fundamental scientists but no he went back into video gaming
+1:27
+okay now that's that's a carrier you know that I'm sort of thinking why did I do only one thing with my life uh so and
+1:36
+not only did you go back to video gaming he founded a video gaming company at xcr
+1:41
+Studios and then he actually returned to Academia to obtain a PhD in cognitive
+1:48
+neuroscience at UCL one of the top plays for neurosciences in the world
+1:53
+supervised by enero Maguire and he was trying to find inspiration in
+2:01
+the human brain for new AI algorithms I think this is extremely interesting because there is still something to be
+2:07
+learned from the human brain and he wrote a landmark paper it's the first one he wrote which established a link
+2:14
+between the constructive process of imagination and the reconstructive process of episodic memory Recall now
+2:21
+this is very interesting because the process of imagination is I think what chat GPT doesn't quite do creativity is
+2:29
+not there yet but maybe Dennis will show it to us today after his PhD founded deepmind with two
+2:38
+colleagues deepmind which is uh you know the top AI company in the world
+2:44
+and it started very quickly making headlines in 2016 after alphago the
+2:51
+program they developed the Deep mines at Dennis was a Chief Architect beat a human professional goal player uh in a
+2:58
+five-game match Now goal was considered to be much harder than chess chess was done you know years ago as you probably
+3:05
+know and people didn't believe that actually AI based algorithms would be able to beat go and that means sure
+3:13
+enough proved the rest of the community wrong um then he went on
+3:19
+to several other developments of that sort I think the one that probably we
+3:25
+are most interested in as scientist is Alpha fold Alpha fold protein folding
+3:30
+prediction uh this is I quote Demis this is a lighthouse project our first major
+3:37
+investment in terms of people and resources into a fundamental very important real world scientific problem
+3:45
+and that's one of the reasons I'm so glad that epfl is giving uh doctoral
+3:51
+noise goes out to Dennis because he's true calling in life is to solve fundamental scientific problems so
+3:58
+mother of the other companies you can think of that are active in AI mostly
+4:03
+want to generate more clicks on ads or something else of that sort even though they pay your bills right uh but I think
+4:12
+if I may say but I think what I find extremely exciting at Deep Mind and also
+4:18
+the next company that he founded isomorphic Labs is that Dennis is really interested to
+4:26
+solve fundamental science problems and that's I think what we are all here to listen to
+4:33
+um he has so many prizes I tried to go through your Wikipedia page you know it took several of my screens so I decided
+4:40
+not to list all these prices but simply to say that um his work and the work of deepmind got
+4:47
+four times the Breakthrough of the year uh mentioned in Science magazine and
+4:53
+that's interesting because essentially it's computer science applied to science problems that essentially transform
+5:00
+science and I think that's also something very important I think computer science has a key role to play
+5:06
+in the 21st century to really attack fundamental science problems outside of
+5:11
+computer science okay those of you at epfl and who know me I have said this
+5:17
+many times computer science plays a central role it's potentially the physics of the 21st century and the
+5:23
+demonstration is done by Dennis hassabis and his team and other people working at
+5:30
+the Forefront of artificial intelligence now I'm going to finish by
+5:35
+something that is very unusual okay which is uh the British novelist Ian
+5:41
+mcaven in a book that you may have read which is called machines like me
+5:46
+which is an alternative history so it rewrites history from the 60s to now and
+5:52
+you have Alan Turing who is alive and works with his colleague Denis hasabis to really change the face of the World
+5:59
+by using Ai and computer science for the good of humanity I could make a court
+6:05
+here I I went up and looked a book but in the interest of time I suggest you read the book
+6:11
+so very good so this being said as I said there is a small formal part here
+6:19
+which is the delivery of the Dr Hal Roy scosa of epfl to Denisa sibis so I'll
+6:27
+read the lodesho I'll read it in English so
+6:32
+equal Polytechnic Federal confers the doctoral noise causal in to Dennis
+6:38
+hasebis in recognition of his Visionary leadership in artificial intelligence
+6:43
+and Neuroscience advancing the frontiers of science through his groundbreaking Innovations in AI driven scientific
+6:51
+research with this I would like to hand over and congratulate Dennis thank you
+6:58
+very much and we are going to thank you
+7:13
+thank you very much thank you very much thank you and with this I let you
+7:20
+take over using AI to accelerate scientific discovery I have to excuse myself unfortunately but I will watch
+7:26
+the video thank you all right enjoy the show Thanks Martin thanks says I'm fantastic
+7:31
+to be here and it's amazing honor to to receive the honorary doctorate and uh I've always um it's it's epfl I've
+7:39
+always admired epfl and we have many collaborations uh with the fusion lab here and also such an intellectual
+7:45
+environment here I've visited CERN nearby and it's an amazing place to do science so it's a real pleasure to be
+7:52
+here to to accept this award and give this talk so I'm going to talk today about how I
+7:58
+see using AI to accelerate scientific discovery itself and I'll also give just a quick preview of how we got to the
+8:05
+point we are now with working on things like Alpha fold and then I'm going to talk a little bit about how I see things
+8:10
+going into the future uh using AI to accelerate science
+8:15
+so we found it uh deepmind back in 2010 it's almost like another age now it
+8:21
+feels in terms of AI time uh but it was only you know of course 13 years ago and
+8:26
+back in 2010 nobody was using um uh no one was really thinking about working in AI certainly in in Industry
+8:34
+um and it's kind of amazing to see what's happened uh just in a few years uh going from 2010 where it was very
+8:41
+difficult to raise any money to work on AI uh in Industry to to now with billions of dollars going into AI
+8:48
+projects and it's been an incredible uh process to watch and be part of and we
+8:54
+found a deep mind at the end 2010 because we thought a lot of progress could be made if we brought together
+8:59
+Hardware advancements algorithm advancements and some knowledge about how the brain worked and get some
+9:06
+inspiration from from the brain for certain types of algorithms and systems and bring that all together with amazing
+9:12
+engineering and we felt back in 2010 that some very fast progress could be made the kind of progress that we've
+9:18
+seen although even that I think has been surprising to even those of us in the industry
+9:24
+so we tried to kind of form this Apollo program like effort a deepmind to make
+9:29
+bring together multi-disciplinary groups of amazing researchers and Engineers to make the most progress we could as fast
+9:36
+as possible our mission statement was to try and solve intelligence and then use it to
+9:43
+advance science and benefit Humanity by solving intelligence what we meant was
+9:48
+trying to understand the nature of intelligence and then recreate that uh in an artificial construct that I think
+9:54
+is the science of AI so we've started off our first big
+10:01
+result was with um classic Atari games from from the 1970s and uh our first
+10:08
+system called dqn Atari dqn was our first sort of successful big system
+10:13
+really back in around 2013 we got this working and what I was able to do is demonstrated I think the power of
+10:20
+learning systems it was the first uh really big system that was an end-to-end
+10:25
+learn system so um The Innovation here was that we didn't give the rules of the
+10:31
+game or the criteria of how to get points or anything to the system all we gave the system was the raw pixels on
+10:36
+the screen and it had to figure out everything else from first principles and being told the goal was to maximize
+10:43
+the score and that's it had to figure out the controls and the and how to get points and so on and so at the time uh
+10:51
+this was pretty astounding because no one had ever sort of done something at this kind of scale uh you know 100 by
+10:56
+200 pixels so the inputs was 20 000 pixel tools and that was pretty huge for any kind of neural net or or Learning
+11:03
+System this dqn system went on to kind of learn any to play any Atari game to better
+11:10
+than the best humans can play and get them to sort of maximize the score so for us this was a watershed moment I
+11:16
+think quite a watershed moment in the in in the field uh in terms of what what these Learning Systems might be able to
+11:23
+do if we train them in the right way so then as multi mentioned
+11:30
+um probably one of our biggest results starting the biggest one we had in gaming uh was alphago which was our
+11:35
+system in around 2015 2016 that we built to learn how to play go uh through a
+11:42
+self-learning process that I'll describe and kind of famously managed to beat uh the world champion at go the legendary
+11:49
+Lisa doll the South Korean uh Grand Master and why is go so much tougher
+11:55
+than chess and and other games to play well partly it's the complexity of go
+12:00
+um we've played humans have played go for thousands of years now has invented two three thousand years ago still as
+12:07
+popular as ever today over 40 million active players and one measure of the complexity of it is that there are
+12:13
+around 10 to the power 170 possible board positions uh in go Which is far
+12:19
+more than there are atoms in the observable universe so there's no way to kind of uh Brute Force
+12:26
+search through this incredibly complex uh combinatorial space in order to figure out uh what the Right Moves are
+12:34
+and the other extra thing that's hard about go is then you'll see a go board on the right there is that um it's quite
+12:39
+a esoteric aesthetic game it's one of the things that makes it beautiful and it's very difficult to write heuristics
+12:46
+or rules down about how to evaluate how a machine might evaluate a position and
+12:51
+and evaluate who's winning um so-called evaluation function which is critical to machines playing these
+12:58
+types of games and in chess it's a lot it's um it's because it's a material game it's a lot easier and a calculation
+13:04
+game it's a lot easier to actually specify what these heuristics are um but in go that's kind of impossible
+13:10
+so people have spent 20 years prior to alphago trying to hand craft these
+13:16
+heuristic systems to kind of describe um uh the aspects of a go position and
+13:22
+one of the issues is that because go is such an intuitive game even the top human players Grand Masters like Lisa
+13:29
+doll they don't really think about it in terms of calculations and rules it's much more about feeling uh and intuition
+13:35
+which are traditionally two things that you would say um are difficult for computers to do
+13:42
+so um alphago went on to win the match 4-1 in Seoul in 2016. um pretty famous
+13:48
+match it became over 200 million people watched the match around the world uh and there's a fantastic uh YouTube
+13:54
+documentary on it award-winning documentary on if you're interested to to see um how that played out
+14:01
+um but the interesting thing was not only the fact that it won the match of course but it was also how it won that
+14:07
+was pretty surprising and actually alphago created new strategies in go that had never been seen before even
+14:14
+though we've played this game for thousands of years and um and the most famous one of that was move 37 uh uh in
+14:22
+game two of the five game match which astounded the go world and still being sort of studied today and move 37 is
+14:29
+that um that Blackstone uh circled by the red there on the board and um and
+14:35
+this early in the game it's sort of Unthinkable to play uh that near to the center of the board it's sort of not
+14:41
+considered to be uh a a good strategy at all and in fact when the professional commentators were commentating live on
+14:48
+this game um they they thought there was an error in the computer system uh in order for it to play there so there was such a
+14:55
+surprising move um and it's interesting actually just to touch on and maybe we can touch on this in the Q a is what does um this mean
+15:02
+about creativity uh and intuition these sorts of um aspects that we think are very cognitive
+15:08
+um and I think when I reflect back on this I I would say that there are at least three levels of creativity and
+15:14
+perhaps alphago and systems like that the current systems we have exhibit the first two so if we think about
+15:20
+interpolation um that's you know if you imagine you ask us one of these genitive systems to
+15:26
+imagine you know show a picture of a cat um maybe uh it will have seen millions
+15:32
+of pictures of cats before and then it does some kind of interpolation or averaging of all the cats that it's seen
+15:38
+and then it produces a sort of prototypical cat and outputs that as an image
+15:43
+um so you know that's an original cat it doesn't exist in the training set but it's a simple sort of matter relatively
+15:50
+simple matter of kind of averaging across the exemplars that it's seen the second type of creatives and the
+15:56
+higher level is extrapolation where you you sort of sample the distribution uh
+16:02
+and so in alphago's case you know maybe you look at all the human games that have been played online and you start
+16:07
+building up patterns of what are reasonable things to do and go reasonable positions but actually you
+16:14
+then not just simply average uh what you've seen but you actually extrapolate these motifs into new parts of the
+16:20
+distribution that perhaps um uh that are not in the training set beyond the training set and I think this
+16:27
+is what move 37 is an alphago has clearly and systems like this have
+16:32
+clearly demonstrated and I think that's very exciting if you think about the potential for that in science uh to
+16:38
+extrapolate Beyond uh make you know models of the current distribution we can see and then extrapolate to come to
+16:44
+New conclusions and new ideas that are beyond the boundaries of what we have data for and then finally and I think
+16:51
+today systems don't do this you know maybe we can call it invention or out of the box thinking which I think is an
+16:57
+even higher level of maybe abstract creativity that of course we as humans do effortlessly
+17:03
+um but so far I would say machines don't do and I think the easiest way I can give you an example of that is of course
+17:09
+alphago was able to make the these amazing creative strategies in go but it
+17:15
+couldn't invent go right or invent chess that's that to me would be a new level
+17:20
+of uh invention and I don't think that's impossible I think that's just partly actually the maybe the limitations of
+17:27
+the current systems but also the limitations of the way we're able to describe the goals to these systems
+17:33
+um so you know I think if you were to get a human game designer like the sorts of things I used to do to try and come
+17:40
+up with go from scratch you know you might say something like come up with a board game that is beautiful
+17:47
+aesthetically that takes five minutes to learn the rules there's only a couple of rules for Go but takes you know maybe
+17:53
+multiple lifetimes to master and you complete a game in you know maybe six
+17:58
+hours so within a human uh life afternoon so to be convenient so maybe
+18:03
+you would specify these kinds of goals and then go would be you know an answer
+18:09
+to to satisfy those goals but you you can see that would be very high level specification if one was to do that
+18:15
+which so far our systems wouldn't I don't think be able to cope with that
+18:21
+so just to explain a little bit about how alphago works and I'm actually combining several pieces of work here
+18:27
+together when I describe this this is sort of simplified description of how all of these types of systems work this
+18:32
+includes alphago and its successor programs alphago zero and Alpha zero and Alpha zero actually uh is a kind of
+18:40
+General games playing system that can play any two-player board game uh a perfect information game uh better than
+18:47
+uh world champion level and so the process is actually quite simple to describe so you start off with a neural
+18:53
+network initialize neural network that basically plays randomly and that's you can think of that as version one of the
+19:00
+system and it plays around a hundred thousand games of whatever board game is playing that creates a data set of these
+19:07
+hundred thousand games and all the positions in those games and then you train a second uh uh version of the
+19:13
+neural network on that data set and what you're trying to do here in the neural Network's got two jobs it's got to
+19:19
+predict the probability of who will win from that particular position and How likely they are to win which whether
+19:25
+it's the which of the two sides will win uh and also what are the what are the more probable moves that um might be
+19:32
+tried in a certain position so that's the the sort of two prediction jobs of the of the neural network
+19:37
+um then when you've trained version two on this version one data you have a little hundred game tournament uh and
+19:44
+you match off version two against his predecessor uh and um and you have this hundred Match Game and then if it wins a
+19:51
+significant amount of time uh we set the threshold to be 55 win rate then you replace the um the current uh system
+19:59
+with with the new one so you replace version one with version two and then
+20:04
+you you do this whole cycle again you play another hundred thousand games but this time version two playing against
+20:09
+itself you generate a new data set slightly higher quality because version
+20:14
+two is slightly better than version one and then you train a version three and and that that matches off against version two now if version 3 turns out
+20:23
+not to be better than version two statistically better then you continue to generate another hundred thousand
+20:29
+samples with the current version the current version two so you end up creating 200 000 games then for the new
+20:35
+version three to be trained and eventually uh the new version will be the old version and if you do this um
+20:42
+system in in in terms of go uh 17 times uh different games require different
+20:47
+amounts of Cycles you go from playing randomly to uh uh better than any entity
+20:53
+on the planet has ever played go and it's quite a thing to watch live especially in something like chess which
+20:58
+I I I know well you know you start the process off in the morning at breakfast
+21:04
+um you know around uh coffee time at 11AM you can still beat the system or you know and then by lunchtime it's
+21:10
+better than world champion it's actually quite amazing to actually watch that live uh as as you're sort of you know uh
+21:16
+going through your morning so it's quite a thing and it's it's very visceral if you play chess or play one of these
+21:21
+games games to see that live in front of you that whole process so um what what's going on here then
+21:28
+well effectively if one thinks of um a go tree as the tree of all possibilities
+21:33
+and you imagine each node in this tree is a go position so you're currently in this you know the current position is
+21:39
+the top of the tree and um you've got this enormous you know uh set of
+21:44
+possibilities from each position you know uh the 10 to the 170 possible positions and you've got to find this
+21:50
+sort of classic needle or Haystack how do we decide what the optimal strategy is the optimal move to play from this
+21:55
+kind of position in a very finite amount of time you know maybe one minute of thinking time so Canadian is not tractable to do this
+22:02
+in any kind of vaguely you know any kind of Brute Force way or exhaustive way so what we're basically doing is guiding
+22:09
+the search with the model so the model is coming up with uh uh most probable
+22:14
+moves uh the and the kind of most interesting moves to look at and therefore guiding the tree search to be
+22:20
+very efficient in the in the in the budget that it uses the the sort of Monte Carlo tree search maybe it can
+22:25
+only search around 10 000 moves per per decision and it's got to apply that very
+22:30
+limited budget of search budget to most appropriately to the entire uh to the
+22:36
+entire search tree and then when it runs out of time of course then it outputs
+22:42
+um the best uh uh plan the best tree that it's uh uh at the best sort of path that it's found up to that point
+22:50
+so we've been pretty lucky and using games and and we started with games I mean partly you've seen my background in
+22:56
+games and I try to utilize every single strand of the things I've experienced in my career to bring them together to
+23:03
+always make use of them uh and I always had in mind even though as Martin was describing all these different things I
+23:08
+I did earlier in my career um from probably around 14 15 years old I I had already decided that AI was
+23:16
+going to be my career and this is what I wanted to do with my life and then all the other things I picked to do from the
+23:21
+phds to writing AI for computer games was um was was sort of in preparation if
+23:27
+you like for doing something like deepmind and then we made use of this all this games knowledge and we have quite a lot of amazing games Engineers X
+23:34
+Games engineers at deepmind who who work on these simulations and work on these programs we worked on games because we
+23:41
+thought it would be the fastest way to make efficient progress with testing out algorithmic ideas
+23:47
+um and uh and that turned out to be a case I'm really fortunate to make a whole bunch of big breakthroughs I've
+23:52
+just talked about the eqn and alphago and Alpha zero and then we culminated in this program called Alpha star which um
+23:59
+uh beat a gram the grand Masters in the most complex computer game strategy game called Starcraft 2 which has all sorts
+24:06
+of other challenges from board games like partially observable um uh environment and it needs long-term
+24:12
+planning and other other big challenges so with that that you know games has
+24:17
+been phenomenal for uh for getting uh making progress over uh almost a decade
+24:23
+worth of work to get the algorithms to a point where they were sophisticated enough to be applied to challenging real
+24:29
+world problems and of course that's problems commercial problems and Industrial problems and pretty much
+24:35
+every uh system that you use now at Google has a piece of deepmind technology in it
+24:41
+from the the way the massive data centers are called to the voice on any
+24:47
+of the devices that you speak to uh the Google Device you speak to are use wavenet which is the world's best
+24:52
+text-to-speech most realistic test to speech system a piece of deepmind technology is is sort of in almost every
+24:59
+service but for me in my passion my personal passion as Martin was saying is to eventually was always the plan was to
+25:05
+use AI as this incredible tool almost like the ultimate tool for helping accelerate scientific discovery and and
+25:12
+I think in the last few years maybe two three four years I think that's because come possible and I think it's a really
+25:18
+exciting time now in AI uh to do this to bring over all of these Amazing Ideas that were developed in areas like games
+25:25
+and other theoretical domains and bring that to the to real world important problems
+25:31
+so for me I always had my eye on and I learned about the protein folding problem and I'll describe that very
+25:37
+briefly for those of you don't know what it is uh in my undergraduate in the 90s at Cambridge I had a I had quite a lot
+25:44
+of biologist friends there and one of them was particularly obsessed with this protein voting problem and
+25:49
+um and still works on protein structure today in Cambridge as a as a as an academic and um and always sort of
+25:56
+thought first of all that it would be tractable one day but also that it would be enormously important if one could
+26:01
+solve this problem and I and I I really I've always loved this problem I've always thought it would have sort of
+26:06
+filed it away in the back recesses of my mind as one day to come back to as we progress with AI because I thought it'd
+26:13
+be very suitable for AI for a number of reasons so the protein folding problem is quite simple to explain proteins for those who
+26:19
+don't know obviously the workhorses of biology they're essential to all life everything in your body is is pretty
+26:25
+much supported by proteins and of course we'd like to know their function uh and
+26:30
+their function uh is partially specified by their 3D structure so if you imagine the protein is
+26:36
+um is is is specified by its amino acid sequence which you can Loosely think of as this genetic sequence and then
+26:43
+um in the in the in nature it folds up into this 3D structure and that's what kind of governs its function
+26:50
+now determining the structure of of these of these proteins often takes many many years if you're going to do this
+26:56
+experimentally with a lot of painstaking work perhaps many of you in the in the in the audience work on these things and
+27:03
+um you know the rule of thumb that again biologist friend have always told me is it can take a whole PhD uh uh you know
+27:09
+four or five years to maybe even crystallize and figure out one protein structure so it's it's really a lot of
+27:15
+work and um and Christian and finson very famously in his 1972 uh uh lecture
+27:22
+for his Nobel lecture uh speculated that the 3D structure of protein should be
+27:27
+formally determinable uh by the amino acid sequence in other words we should be able to predict this 3D structure uh
+27:34
+immediately uh based just on solely on its sequence now of course that then triggered
+27:40
+literally a 50-year kind of Grand Challenge in biology um and um and people have been trying to
+27:47
+make progress on this uh ever since and it's obviously a whole field in itself
+27:53
+so why is this such a hard problem to solve uh this structure prediction problem the structure prediction problem
+27:59
+of the protein folding problem can it be solved computationally and why is this such a hard problem well again uh
+28:05
+according to a contemporary of events and uh Leventhal uh leventh house Paradox you know he sort of back of an
+28:10
+envelope calculated then maybe there's roughly 10 to the 300 possible uh confirmations that an average protein
+28:17
+can take and yet obviously the Paradox is that in nature uh obviously
+28:22
+spontaneously you know within milliseconds uh in many cases so how is this possible how does physics solve
+28:29
+this then um you know is the big question and the other reason we picked this problem is
+28:34
+that there's a fantastic uh really well run competition called Casp that runs
+28:39
+every two years and has been running for nearly 30 years now and it's considered to be the gold standard Benchmark in in
+28:46
+protein folding to test the best computational systems and it's a blind test so
+28:51
+um experimentalists submit their their structures just prior to publishing uh
+28:57
+for the competition and computationally after you have to submit your prediction and then later on they reveal the um the
+29:04
+ground truth structure experimental structure and then you compare the ground truth against your prediction and
+29:09
+uh usually uh for every cycle of the competition they have around 100 proteins that they've collected uh like
+29:15
+that that they sort of withhold publication of
+29:21
+as many of you know now or did achieve Atomic accuracy so this is accuracy of
+29:27
+the computational prediction uh to within uh the width of an atom which is
+29:33
+um what we were told was that the tolerance for it to be useful for uh real world biology and chemistry and uh
+29:39
+and we we achieve this accuracy at cast 14 the 14th Edition of Casp in in November 2020. and if you look at um the
+29:47
+the progress of um Casp and the winning team this is the score of the winning team uh in in each
+29:54
+of the additions back the prior 10 years to we entered so from 2006 to 2016
+30:00
+there'd been almost no progress on the hardest category so-called free modeling category where there are no prior
+30:06
+templates for these proteins and um and and you know this score on the on the
+30:11
+y-axis is a you can think of it as roughly it's called gdt where you can think of it as roughly as the percentage of residues you've got accurately
+30:19
+positioned uh to within a our tolerance a very tight tolerance and um and so
+30:25
+they were stuck around 40 uh pretty much which is not useful uh in any way for
+30:31
+experimentalists it's it's far too large in errors and um and in 2018 we we
+30:36
+entered for the first time we started this work in 2016. the whole project is probably the most complex
+30:42
+project we've ever worked on and we started it literally pretty much the day after we came back from from Seoul from
+30:48
+Korea uh from the alphago match this was the next big project we took on and
+30:54
+Alpha fold one we entered into cast 13 and for the first time ever we sort of entered a A system that had cutting-edge
+31:01
+machine learning at the core of the system for the first time um and it improved accuracy immediately
+31:07
+from the previous sort of winning scores by around 50 as you can see here and then we totally re-architected Alpha
+31:14
+Fall 2 um with a whole bunch of new Innovations and taking the learnings from alpha fold one and then that finally reached Atomic
+31:21
+accuracy which had led the organizers of Casp um to declare that the problem had been
+31:27
+in inverted Commerce solved so how does this look well Alpha fold
+31:33
+um takes many iterative steps towards solving a protein structure and you can see this enormously complex protein on
+31:40
+the left here is just one example of one of the the structures that Alpha fold uh predicted
+31:46
+um and you can see the ground truth in in in in uh in green and and in blue is the is the prediction and you can see on
+31:53
+the right hand side how the different iterative steps are alpha fold sort of settles on a final prediction of the of
+32:01
+the structure and it's still amazing to me when I watch these things and and see the complexity of then the beautifulness
+32:08
+actually of of proteins uh how how this can you know be computationally predicted is still pretty astounding to
+32:14
+me so then we went on to um obviously publish all the methods we
+32:20
+open source the code and um and then we decided like how are we going to uh
+32:26
+share this with the world so that the biology Community could make best use of it and we actually decided that the best
+32:31
+way to do this was to create a database freely available database with free and unrestricted access to all the
+32:37
+structures that Alpha 4 predicted and we did this in a great collaboration with emble ebi European bioinformatics
+32:43
+Institute uh just up the road from us in Cambridge uh in the UK and normally when
+32:49
+you do these types of systems you set up a server and then people submit uh
+32:56
+experimentalists submit their structure they're interested in uh their sequence they're interested in and then you predict a structure and you send it back
+33:02
+maybe a few days later that's the normal way people used to do uh uh uh was to provide access to these systems but
+33:09
+because Alpha fold 2 was so fast as well as so accurate we realized that actually over the course of a year we could
+33:15
+actually just fold every protein known to science so that's around 200 million
+33:20
+depending how you count it obviously growing all the time and uh so we ended up over the course of a year folding
+33:26
+every protein um there was and uh that we could get our hands on in the uniprot data set uh
+33:32
+database and then we uh we put we made that available of course before we did that just as a as a as a side note and
+33:38
+I'll come back to this at the end um we always have safety and ethics at the Forefront of our mind of every work
+33:43
+that we do so before we release such a massive database we consulted actually with over 30 experts in many uh relevant
+33:50
+fields of course biology but also biosecurity bioethics Pharma and and uh
+33:56
+and also our human rights too and from that we actually made some slight modifications to what we were going to
+34:01
+to put out there but the overwhelming feedback from from all of them was that the the benefits far outweighed any any
+34:09
+perceived risk so since then so it's been out for you
+34:14
+know Alpha folds been sort of available for a couple of years now or maybe getting on to three years and um already
+34:20
+uh it's been incredibly uh uh um sort of gratifying to see how many uh things
+34:27
+that uh Alpha fold has been applied to and the wide range of important problems it's being used for and here's just a
+34:33
+small sample of those uh of those uh uh problems that have been tackled using Alpha full predictions and there are
+34:40
+many more on our website unfolded.deepmind.com uh where you can see many more sort of testimonies and
+34:46
+and examples case studies of of how alpha Falls being used and I'll just highlight a few here
+34:52
+um it's been used by the University of Portsmouth to do design sort of plastic eating enzymes to tackle plastic
+34:58
+pollution it's been used all over the place in big Pharma for drug Discovery from and also in Academia antibiotic
+35:05
+resistance and malaria vaccines and also neglected diseases which is very important part of our mission uh neglect
+35:11
+a tropical diseases is like leishmaniasis and Dengue that we think I
+35:16
+often don't have a lot of investment in from Pharma that the ngos that work on these types of diseases uh it was great
+35:24
+for them to get an immediate leg up by seeing the structures of the proteins that they were trying to Target and
+35:29
+obviously do get straight into drug Discovery and then it's also being used in fundamental research too for for
+35:36
+example helping with finding the structure of the nuclear poor complex and also designing things like molecular
+35:42
+protein syringes for delivering payloads uh into the body so incredible diversity
+35:48
+of of different things and this is always what we hope for for working on this problem of of protein structure
+35:55
+prediction was that if it could be done it would unlock uh if we were in this new world of sort of protein structure
+36:01
+abundance it could unlock that all these Downstream amazing pieces of research
+36:07
+we've been very lucky as well in the terms of it's being recognized after fold by very nice uh accolades like
+36:13
+Breakthrough of the Year from science method of the Year from nature but also the amount that is being used has been incredible so over a million researchers
+36:20
+and biologists have used Alpha fold in the databases from all around the world pretty much every country in the world
+36:26
+and the methods papers had over 10 000 citations already
+36:31
+so just in terms of the higher bigger picture then if I step out of bed now and start looking at where is all this
+36:37
+going um I like to use this phrase of science at digital speed and I think we're going
+36:44
+to start seeing this more and more now and what do I mean by that well I mean science at digital speed in two
+36:49
+different ways um first of all if you take Alpha fold um it's extremely fast solution of
+36:55
+course so you can fold uh get the structure of a protein in a matter of seconds instead of potentially you know
+37:02
+months or years if one will have to do that experimentally so the solution itself is very fast and that allows us
+37:09
+to scale up to you know 200 million proteins but also the dissemination of that information is also at digital
+37:15
+speed because it's a it's a it's a it's a technical solution so you know the
+37:21
+moment you've you've kind of built the algorithm and you folded all the proteins we can then put it on the database and everyone in the world can
+37:26
+then access it uh just with a simple keyword search so if you compare that to an experimental breakthrough you know
+37:33
+amazing ones and they go they still made me take a decade it can take or more to
+37:39
+propagate through training phds on those systems building the right Hardware uh
+37:44
+equipment in order for those to work and training people to use those new techniques
+37:50
+um and instead of you know something a science of digital speed is able to propagate almost immediately
+37:55
+um just like any other piece of software or technology so I think this is maybe the first example of that but I think
+38:02
+it's an interesting phenomenon that I think we'll start seeing a lot more of
+38:07
+and just following up on that theme then if I I I like to think of that maybe we're entering a new era of what we like
+38:14
+to call digital biology and um I think if you think about biology at its most fundamental level I think we
+38:20
+can think of it as an information processing system so um I'll be at a very complex emergent
+38:27
+one and um if we think of it in that way then in the same way that maths was the perfect
+38:33
+description language for physics and physics phenomena perhaps um I think you know AI could end up
+38:39
+being perfect for this type of complex emergent regime to describe and model uh
+38:46
+what's going on in biology I think it may turn out to be the perfect fit for AI
+38:52
+so I'm hoping that Alpha fold is a sort of proof of concept if you like and when we look back on it maybe 10 years from
+38:59
+now uh it won't just be this isolated uh success story but actually we'll see
+39:04
+that it heralded this new era uh of uh digital biology and we've actually followed up on this
+39:11
+ourselves by starting a new spin out company called isomorphic labs to try and reimagine the whole drug Discovery
+39:18
+process from first principles with AI um of course the pro to you know Alpha
+39:23
+fold and the protein structure is just one very small aspect of doing drug
+39:29
+Discovery right where one small piece of the whole puzzle an important piece but um nonetheless just one piece so we need
+39:36
+to fill in all of these other modules that that are required actually to do drug Discovery from Target Discovery to
+39:43
+uh designing chemical compounds and designing drugs
+39:48
+so ifosomorphics approaches to sort of try and Tackle these most fundamental problems in drug design with this AI
+39:54
+first or computational first approach and then we combine several advantages from different areas we have the new
+40:00
+company has close collaborations with uh with deepmind and they are Ai and science teams there it also has huge
+40:07
+resources and funding from alphabet the parent company of all of these companies uh to allow us to kind of think long
+40:13
+term and ambitiously which um and so we can really try and go after the fundamental research to begin with to
+40:20
+build this platform uh this general purpose platform a bit like we did I showed you with games uh at the early
+40:26
+part of the talk and we also get to utilize of course all of Google's uh enormous sort of infrastructure which of
+40:32
+course is incredibly important for computational and AI approaches and we get to do all of that so sort of take
+40:38
+advantage of a big company backing but within the context of a fast-paced and
+40:43
+Nimble startup environment we pulled together this world-class multidisciplinary team I'm a real
+40:49
+believer in multi-disciplinary research work we've always had that a deep mind and we have that also isomorphic
+40:55
+incredible team across AI chemistry bio physics and and engineering and we were
+41:01
+lucky enough to have this amazing scientific Advisory Board that's been set up with um several Nobel laureates
+41:07
+and uh excisely you know we have offices in London but we've also opened uh an
+41:12
+office here in lausanne actually in the Innovation Park uh just locally and I
+41:17
+have some of my colleagues here actually here today from from the lausanne office which is amazing so another great reason for me to be visiting
+41:25
+so that's where we're going now and I swear I see uh these types of techniques and I think we can you know isomorphic
+41:31
+in a deep mind we're trying to create maybe half a dozen more Alpha fold-like systems but in different parts of the of
+41:39
+of the chain that's required to do drug discovery so maybe if I finish Now by just taking
+41:45
+a further State back and looking at the holistically about all the work that we've done over the last decade plus and
+41:53
+I think it goes back to that search tree Irish I was showing you um I think a lot of AI can be kind of thought of in the
+42:01
+most General way in this way that you have these enormous combinatorial spaces
+42:06
+um you know whatever the problem is that you're trying to solve and there's huge numbers of combinations that can be uh
+42:12
+that need to be searched and what you do to make that tractable is you learn a model of that environment either
+42:18
+directly from data or from simulations uh in in some cases or ideally you have
+42:24
+both and then you use that model to guide the search in a tractable way according to some objective function
+42:31
+and I think it's pretty simple to describe but actually if you think about AI in this way
+42:36
+um I think there's and actually start looking for problems you can apply it to it turns out this is a very general solution and actually many problems can
+42:44
+be uh modified to fit this pattern so here's the go tree again
+42:51
+um with all the the search tree and and how it finds this optimal plan and the
+42:56
+optimal moves um and now if we replace um this is obviously a cartoon but it just gives you the idea if we replace go
+43:03
+positions now with chemical compounds you know one could imagine uh building
+43:09
+up uh new drugs or or new chemical compounds that are useful for things using a some kind of search uh I like
+43:16
+this but in this case the model will be modeling uh chemistry space and chemical
+43:21
+properties we've actually had a pretty amazing couple of years now in Sciences
+43:28
+um applying these types of systems and other systems to all sorts of scientific domains not just biology
+43:33
+we've done some great work in quantum chemistry in pure mathematics solving some important conjectures in
+43:39
+collaboration with some amazing uh field prize mathematicians Fusion here
+43:45
+collaborating with the Fantastic Team here epfl to control Plasma in a fusion
+43:52
+reactor and um and then work on genomics weather prediction all sorts of uh
+43:57
+domains and I think it's just the beginning of what we're gonna see this sort of real flourishing of applying AI
+44:04
+this kind of general purpose AI general purpose Learning Systems to pretty much every branch of science
+44:13
+so just then a word of it's on on pining responsibly and and how is one uh
+44:19
+undertake this work carefully and uh and ethically it's very very exciting time I
+44:25
+think AI has the incredible potential to to help with almost all of Humanity's greatest challenges from
+44:31
+um curing diseases to uh energy and sustainability in the environment
+44:37
+um I think AI has the potential to help with all of these problems but um of course it's an incredibly powerful
+44:43
+technology and um and it can be used uh it's a dual purpose technology depends
+44:48
+on what we as society decide we're going to deploy and use it for and and how we
+44:54
+build it and it needs to be built responsibly and safely and to be used for the benefit of everyone and as I mentioned from the beginning
+45:00
+even back in 2010 when we were little tiny little office space in an attic in in London
+45:06
+um we were planning for Success when we when we started in 2010 we imagined a world like we have we're in today and
+45:14
+actually even Beyond where we're going to be in the next 10 years and uh we imagined that and we so therefore if one
+45:19
+were to imagine this kind of world you would be thinking about ethics and safety from the beginning and that's what we were doing and it's been Central
+45:26
+to our mission from the start we've always had an Ethics Charter um and uh an Ethics Committee and that's
+45:33
+actually evolved now into the whole of Google having their published AI principles so now we're part of Google
+45:39
+uh we we help across the board now uh in across the whole company uh with
+45:44
+applying these principles uh correctly um everywhere where we deploy AI
+45:50
+and we continue to try and provide this thought leadership on AI strategy globally risks and ethics and safety for
+45:56
+the whole research community and Beyond so how should we Pioneer responsibly
+46:03
+this is what obviously I'm sure you all agree this is what we should do with this type of Technology um and my my view is that we actually
+46:09
+have a a way to approach this um and we call this artificial general intelligence you know when we get to
+46:16
+human level uh uh cognitive capabilities across the board with these systems and
+46:21
+I think we're approaching that pivotal moment in human history quite rapidly maybe it's a few years away
+46:27
+um and my view is that we should not move fast and break things which is the
+46:32
+kind of Silicon Valley Mantra that of course is very successful in building social media and huge companies and
+46:38
+getting uh very uh uh great growth for applications and Technologies and it
+46:45
+served us very well but I think when it comes to something as consequential as
+46:51
+AGI I think instead we should be sort of looking towards the scientific method
+46:56
+which of course you'll all be familiar with here and I think that's the approach that we should be taking talking with these kinds of systems so
+47:02
+thoughtful deliberation hypothesis generation and rigorous testing of those hypotheses then carefully controlled
+47:08
+environments and conditions detailed analysis updating rapidly on empirical data
+47:15
+perhaps with external review and all with the aim to get a better understanding of these systems before we
+47:22
+deploy them in the wild and I think the key thing here is sort of not so much
+47:28
+not to move fast because um you know I think we need to move at PACE with these systems because of the
+47:34
+enormous potential they have but ideally not to break things right or as far as possible not to do that with uh and and
+47:42
+use as much foresight as possible so I think a transformative technology like AGI requires exceptional care and
+47:49
+and our view at a deepminder Google is that we need to be bold and responsible
+47:54
+with this technology and it really is an ad and I think I think although those I think those two words
+48:00
+um there's some tension there I think it's a good tension to have so I'll just finish them by saying if we
+48:07
+realize the full potential of AGI and and build these types of systems I think there'll be the ultimate general purpose
+48:13
+tool to help us as scientists understand the universe and perhaps our place in it thank you very much
+48:20
+[Applause]
+48:28
+foreign [Applause]
+48:34
+for this impressive demonstration of the power of the tools you've uh you've built we have sometimes for a few
+48:40
+questions for the audience so the house rule is you need to come to the standing microphones that are situated here and
+48:46
+there make a line if you have uh if many of you wish to to ask a question and we'll take them one after the other in
+48:53
+the in the time that we have at our disposal I have maybe one first question yes white people can come into into the
+48:59
+line you've shown how it worked your your system on go on on video games and
+49:05
+then how what kind of mental shift did it take to someday say hey it would probably work on proteins as well
+49:12
+well um for me it's you know maybe it looks like that if you um
+49:18
+you know I think the missing piece of information if you if you look at my career is that I had already decided uh
+49:24
+and actually through chess originally it was games that got me to AI because um most of you too young in the audience
+49:30
+remember this but when I was playing chess in the 80s uh sort of semi-professionally when I was a kid I
+49:35
+was using chess computers to train on and they were the originally they were these physical boards that you would
+49:41
+actually press the squares on and they had little LED lights and uh and I was
+49:47
+fascinated I must have been about eight nine years old when I got my first one that that uh how were they programmed
+49:52
+you know this this machine this this bit of plastic in front of me you know how was it playing chess and helping me
+49:59
+train and I think that that was I kind of determined at that point that I wanted to learn actually how this how to
+50:05
+program machines to do that and in some ways that was more fascinating even than than the game itself was actually how
+50:11
+these systems were were programmed and so then I went into professional computer games development but if you
+50:17
+look at all the games that I made Park all of these things actually the Common Core theme was it had AI as the core
+50:23
+part of the gameplay and again that just reinforced I saw something my probably most famous camera was theme park when I
+50:29
+was around 17 years old and it was designing your own Disney World and then little people came into your Disney
+50:35
+World theme park and played on your rides and designed the park and they all had AI controlling them and when I saw
+50:41
+people enjoy that so much to how the game reacted to the player I sort of realized how much AI could bring to the
+50:48
+world so then everything else I've done and sort of collected was with this in mind where where what we see today in
+50:54
+mind thank you very much so we'll start on that side please make short questions hello uh thanks for an excellent talk uh
+51:01
+your body of work and the journey has been very inspiration to me so the my question is the following when you are
+51:08
+building for the first time these complex systems like Alpha zero I'm pretty sure many people have tried
+51:14
+before and fed so for what for you what was like the conviction or the inspiration that somehow will build
+51:19
+these systems that will turn out to be like a amazing breakthrough so can you give us a sneak peek into sure so so
+51:26
+back in um perhaps when I was when when I was doing my undergrad um one of my really good friends at
+51:32
+Cambridge was this guy called David Silva who ended up being he's one of the best reinforcement learning people in
+51:38
+the world but also he um ended up being the lead Project Lead on alphago and we
+51:43
+used to talk about and um he was also part of my first games company he was the CTO and um we always used to think
+51:49
+about go actually which I learned at Cambridge there was a lot of um there's a really good go Club there and we both
+51:55
+learned go there and we were always fascinated by how would we program that and we tried actually in in the early
+52:02
+2000s to do it in the way that the classical chess programs are being written with these heuristics and search
+52:07
+and it kind of gets you nowhere you can't even you know get to strong amateur like that so we sort of shelved
+52:14
+it for uh 10 years really and we decided then that actually you needed a learning approach that just confirmed our
+52:20
+intuition that there's no way that you can we can enumerate out all the heuristics for something complex like
+52:26
+that um even something like go let alone uh more General things than that
+52:32
+um I think that reinforced our opinion that you needed learning systems and that were General
+52:38
+thank you thanks thank you very much let's take a question from the other side of the room hello hello thanks for the great
+52:45
+presentation um fascinating to see what's going on in this in this domain especially uh I'm
+52:52
+glad to see that there's a progress in terms of drug Discovery and I can
+52:57
+imagine that investors are queuing up and so um we also know that in this particular
+53:03
+domain of Industry not all the well let's say some of the larger investors have proven that
+53:11
+um sometimes colossal profits are more important than any ethical consideration
+53:16
+so my question is how do you it is isomorphic Labs think about the monetization aspects and do you make any
+53:24
+promises in terms of um um enlarging access to medication for
+53:30
+the entire human population including the large part in the majority Who currently don't have it yeah well look I
+53:38
+I I I can't make any promises but I can definitely tell you the the intention is and the idea is that if this all works
+53:46
+out you know with this computational approaches which should be maybe even an order of magnitude faster to develop new
+53:54
+drugs you know maybe instead of 10 years one year you could imagine and therefore maybe an auto magnitude cheaper to
+54:00
+develop those things you know perhaps more perhaps even too old of magnitude as possible and then I think
+54:06
+um if you have both those two things it's far easier to distribute that and work on many many diseases not just
+54:13
+first world diseases in wealthy countries you know where I think farmer
+54:18
+traditionally has to make its sort of calculations and actually you can do a a
+54:24
+lot more and I think we've seen the beginnings of that with Alpha hold as I mentioned one of the places we collaborated with I think they're
+54:30
+actually based in Switzerland was the dndi drugs for neglected diseases Institute it's part of I think who and
+54:38
+um and uh we folded you know all of the proteins and all the the diseases that affect mostly the developing world and
+54:44
+the poorer parts of the world but affect millions of people there hundreds of millions actually but are generally
+54:49
+underserved by the current Pharma industry so I really hope that the work we're going to do is going to allow us
+54:55
+to uh uh uh um broaden that access and then maybe also make uh you know act as
+55:02
+a role model to Pharma to to do more of that too like open sourcing medication
+55:07
+yes for sure exactly for these for these um uh for these you know these uh these
+55:12
+these sort of diseases that affect the developing World more yeah that would be wonderful people are also queuing up to
+55:18
+ask questions so thank you very much uh so quick question so uh what happened what turned
+55:25
+out to be harder than your thoughts and would turn out to be easier than you thought over the last uh well 13 years
+55:32
+yeah so um you know in in a way there were so many
+55:38
+it's kind of hard to remember because there's so many different projects we've done and at all times there were difficult moments I think one of the
+55:44
+hardest moments was after Alpha fold one um trying to push Alpha fold one to
+55:51
+reach the atomic accuracy so that's the first thing we tried to do in roughly 2018 was push that first system and
+55:58
+after around six months we realized it couldn't go any further and we had to go back to the drawing board and use what
+56:05
+we learned but actually re-architect everything and for a long time probably another six months maybe even a year it
+56:12
+would the new system Alpha Fall 2 was worse than Alpha fold one and you have to you have to be very confident and
+56:18
+brave and persistent when you go through that those periods to you know just trust that it's going to come back and
+56:25
+then it has more potential to go further because of the way you've re-architected it so that was um that was with Alpha
+56:31
+Fall 2 and then maybe uh on what when what's gone easier I guess you could imagine language modeling has perhaps
+56:37
+surprised everyone I think on the whole research Community including us of how
+56:43
+um that may be relatively easy that was uh once Transformers and rlhf had been
+56:48
+invented you know five six years ago thank you thank you we have five more minutes to go so I'm afraid we won't be
+56:55
+able to take all questions time moves very fast but please next one okay so first off thank you very much for your
+57:00
+work amazing and I want to ask if there are any plans to address any quality in regards with the uh alums or students
+57:08
+from non-elite universities which usually have less funding less collaboration opportunities less visibility on their work so do you plan
+57:15
+to address that because it usually is also an indicator of socio-economic uh circumstances and usually most of the
+57:22
+inclusiveness work is regarding the individual circumstances and not so much the context of the person yes we we care
+57:30
+about that very much and actually we have very big uh uh diversity and inclusion efforts at deepmind and
+57:37
+um we we sponsor it's mostly in the UK currently but we're going to try and make it more International hundreds of
+57:43
+Masters students scholarships from underrepresented backgrounds both socioeconomic and other types of
+57:49
+underrepresented backgrounds and and um so and we've encouraged the UK government to do that so actually now
+57:54
+they provide thousands of scholarships to the Masters level for machine learning so the idea I think we picked
+58:00
+Masters level because that's a it's almost like a conversion course from stem undergrad you know science undergrad or math undergrad and then
+58:07
+getting them into machine learning and then either phds or into industry so that's worked really well we've also
+58:12
+sponsored um uh funded several chairs in machine learning at many of the universities uh
+58:18
+in different parts of the regions of the UK and also internationally and then recently we did a five million dollar
+58:24
+sponsorship to the African Institute mathematical site uh Sciences to kind of
+58:30
+train the best students in Africa who are already in the mathematical Society uh in machine learning uh with uh you
+58:38
+know and actually one of we've seconded one of our senior research scientists to be the director of that in in South
+58:43
+Africa of the whole Institute uh for the next I think five years so we're trying to do a lot of things around that but
+58:51
+all needs to be done thank you very much great thank you very much next question please yes thank you
+58:56
+so much and um more than 10 years ago you bet on something that few people believed in
+59:02
+and now ai is something that everybody is jumping in so um what do you imagine AI can do not
+59:11
+for science but also for Humanity in general in the future how far it can go
+59:16
+yeah I I think I've always imagined um there's almost no limits in some way
+59:22
+to AI because if you look around us in modern civilization how did we create
+59:27
+modern civilizers what we see all the amazing things we see around us um it was with intelligence right so
+59:35
+um and I think if you think back I do you know if you do thought experiments like you imagine going back to uh uh
+59:41
+pre-agricultural era and you you talk to a tribes person then about you know one
+59:47
+day we'll build Manhattan in New York and fly over in a 747 uh in 10 hours you
+59:53
+know it's it's would be Unthinkable and I think about intelligence human intelligence has done that and I think
+59:59
+that there'll be almost as big another Revolution with these tools and and helping us solve all incredible problems
+1:00:06
+uh that we think are quite intractable today maybe like energy sources material
+1:00:11
+design I'm thinking as well as biology and Drug design curing hundreds of diseases
+1:00:17
+um I think that's all within reach uh and then I hope we would have a much more
+1:00:22
+um you know obviously you can call it radical abundance much more uh equality in the world and lots of these huge
+1:00:29
+problems some of which we've created for ourselves as a society like climate uh we have we'll have really great
+1:00:34
+solutions to um with AI helping the best experts in the world to solve these problems thank
+1:00:40
+you thank you very much one here hello I'm Leon from open knowledge
+1:00:46
+Association and I have a question linked to the use case of infrastructure do you
+1:00:52
+intend to to use infrastructure AI in the infrastructure field for example for
+1:00:58
+Waste Management or like can be simulation for the buildings or stuff like this yeah great
+1:01:05
+question I'd love to do that I think there's huge potential in using AI to optimize existing infrastructure
+1:01:11
+transport and power grids and so on I think to get maybe even like 30 40 more
+1:01:16
+out of them that's what we found with the data centers we optimize these massive data centers that Google uses and Powers all search YouTube and so on
+1:01:23
+we save 30 of the energy uh from the cooling systems by using AI to control them and they already were quite
+1:01:30
+optimized systems but you can even imagine things like shipping shipping lanes I mean there's a huge amount of
+1:01:35
+pollution is caused by that and just being more optimal on Logistics as well as inventing new Solutions like the
+1:01:41
+plastic heating enzymes I mentioned or designing ways to deal with waste uh
+1:01:47
+recycling I think all of that AI could help that you know that entire uh industry actually if we if we embed it
+1:01:54
+in that thank you very inspiring thank you sorry to be the nasty timekeeper but this would be the last question
+1:02:01
+first thank you for the very nice presentation really looking forward to the progress of Science of our domestic
+1:02:06
+next decades my question is how do you see the role of Open Source in AI over the next decades and what do you see to
+1:02:13
+be the most the best approach to AI in terms of balancing the the risks of of
+1:02:19
+AI of course it's harder to maintain safety when everything is open but at the same time letting everyone
+1:02:25
+contribute and using all of the brains in the world for this amazing development yeah now fantastic question
+1:02:31
+and a complicated one right as you might expect you've actually said that you know you've explained that in your question so up till now uh you as you'll
+1:02:39
+know like deepmind's pretty much published everything we've done uh uh all our nature science papers and open
+1:02:45
+sourced Alpha fold and other things I think it's got to be on a case-by-case basis as the systems get more and more
+1:02:51
+powerful more and more General the problem is if you just open source naively these systems
+1:02:56
+um Bad actors can whether that's individuals or nation states even can obviously access it militaries and so on
+1:03:03
+the same as scientists so it's a complicated problem because obviously one would like to do open science and
+1:03:09
+and and of course things progress much more quickly like that and it's good to get external review of your systems
+1:03:16
+um but how do you also restrict access to to Bad actors who might want to use it for
+1:03:21
+um bad means so I don't really have a full solution for that maybe there will have to be more
+1:03:27
+um access to like individual departments or universities or academics that are
+1:03:34
+known to be working on the right things perhaps that's one way of doing it with the latest Frontier models or um but
+1:03:40
+it's not a it's you know this is a current debate that's going on as you're probably well aware of how to balance the risks with
+1:03:47
+um the benefits of doing that so um you know it's going to be a complicated question we're going to have to try and resolve going forwards the
+1:03:53
+ideal case I think would be to develop and I would encourage any of you in Academia to be working on this is like
+1:03:59
+more interpretability analysis of the current systems and we're not doing
+1:04:05
+enough of that research on that work I would say relative to capability development so that we could develop
+1:04:10
+evaluation tests for these systems so we can really rigorously know before we release them open source and other
+1:04:16
+things that they're safe in certain ways what the properties they have so um so they can be perhaps have some guard
+1:04:22
+rails around them that would be the best right and then you can put them out into the world for people to experiment but
+1:04:28
+there's a constraint around what can be done with them maybe something like that but the problem is we don't know yet
+1:04:34
+well enough what those robust evaluation systems should be yet thank you thank you thank you very much
+1:04:39
+thank you all for your questions as well and your attention today I think we can give them as another round of applause
+1:04:46
+thanks thank you
+1:05:04
