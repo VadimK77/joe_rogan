@@ -1,0 +1,2930 @@
+
+0:010:11
+Deep dive here on Smarter Every Day.
+0:12
+And today we're going to answer a question that I've always wanted to know.
+0:15
+Submarines are designed to stay underwater as long as possible.
+0:19
+And sometimes they can't even go to the surface if they want to. Like right now,
+0:22
+the USS Toledo is currently under the ice,
+0:25
+which makes it impossible to surface to get fresh air.
+0:27
+How do you create oxygen onboard a submarine? Because if you think about it,
+0:32
+if you're onboard with a lot of your crew mates and we're taking in oxygen and
+0:36
+we're breathing out carbon dioxide,
+0:37
+eventually the atmosphere on the inside of the submarine is going to become
+0:41
+soured. So today on Smarter Every Day,
+0:42
+we're going to investigate how to create oxygen onboard a submarine
+0:47
+and how to remove carbon dioxide from the atmosphere.
+0:50
+And we're going to have two ways to do both.
+0:52
+Let's get onboard the Toledo and let's understand how to create breathable air
+0:57
+on a submarine. Let's go get Smarter Every Day.
+1:03
+[Intro music]
+1:05
+[Sonar Ping]
+1:07
+Okay, so in order to keep people alive on the boat,
+1:10
+we have to have an atmosphere at each location where each body is
+1:15
+that can keep that one body alive. Right? So ventilation is key.
+1:19
+If you have different compartments that can be closed at different times on
+1:22
+boats, for different reasons.
+1:24
+For example, a huge pile up of people in the place where everybody sleeps,
+1:27
+you're going to be creating a lot more carbon dioxide in that location than
+1:30
+other places on the boat,
+1:32
+but we have to keep the entire atmosphere livable throughout the boat.
+1:35
+So in order to do this,
+1:36
+they monitor the atmosphere of every position in the boat.
+1:39
+That's important with a system called CAMS,
+1:41
+the central atmospheric monitoring system.
+1:44
+So the first thing we're to do is go figure out how to measure the atmosphere at
+1:48
+any place in the boat.
+1:49
+And then we'll address how we deal with it with carbon dioxide or oxygen or whatever.
+1:52
+Anyway, let's go check out CAMS.
+1:55
+I'm Destin - I'm DOW, How's it going?
+1:56
+Dow? How do you spell that?
+1:59
+D, O, W, Like Dow Jones
+1:59
+Dow, awesome, man. Where are you from? I'm from Ohio.
+2:03
+-Oh,
+2:04
+Fort Jefferson Ohio. -Cool, man. Nice to meet you.
+2:05
+So what, what do you do up here?
+2:09
+So, um... Machine Room... I'm a Machinist's Mate, Auxillary, or "A-ganger".
+2:14
+Basically a mechanic for the whole boat, or practically 90% of the boat.
+2:17
+So where are you monitoring the oxygen levels? So to monitor the oxygen levels,
+2:21
+It's up in the middle level, it's called CAMS,
+2:25
+Central Atmospheric Monitoring Station. And, uh,
+2:27
+we have a couple of watch standers that monitors, oxygen levels on there.
+2:30
+Can you show me that? Yes. Yep. Let me, let me get around you.
+2:36
+We're going to see where the oxygen gets. Oh, monitor. Yeah.
+2:50
+-Right Here So this is in the middle of the boat. -Yes.
+2:52
+And it has different stations. We can monitor, it takes samples of the air to monitor our atmospheres.
+2:59
+So right now.
+3:01
+If you're looking at how much O2 is on the boat. -Yes.
+3:04
+Carbon monoxide.I'm really glad that there's not any there.
+3:07
+R-114. So that's refrigerant. -Yes
+3:10
+Yeah. So you're monitoring that as well.
+3:13
+Basically we're monitoring the good gas and the bad gasses basically -Gotcha.
+3:16
+And so you got CO2, hydrogen, nitrogen water. That's cool.
+3:21
+And so this is the total pressure on the boat. -Yes, it is. -That's cool.
+3:25
+Well, in each department it is. Like I was saying we different. Can you show me? Yeah.
+3:31
+Like we take different,.... sampling...(see) Sampling Panel Index.
+3:35
+We can turn the dial to different stations.
+3:36
+So right now you're looking at the fan rooms. - Yes -
+3:39
+So if you wanted to go... what's okay to look at?
+3:42
+Let's go to Chief's Petty Officer's Quarters, and Crew's Mess - Crew's Mess? - Yep
+3:48
+And so this is updated. So it takes a second.
+3:50
+So this bar has to go there all the way across for update. Yeah. Kind of slow.
+3:54
+So clearly you have some type of....
+3:59
+you have some type of alarm that has to Oh yeah. Yeah.
+4:03
+If Oxygen gets too high or refrigerant gets too high or something gets too low.
+4:07
+It'll alarm. It'll make a beeping sound.
+4:10
+So in the event that we have a bad gas that, you know,
+4:13
+we have a leak of refrigerant, for example,
+4:15
+do you have a way of finding the leak?
+4:17
+Oh! I guess you could go to the panel and then you could select different sources
+4:22
+and you can see where it's high. Yes.
+4:24
+And so that isolates it to that section of the boat, right? Yes.
+4:27
+But then how do you find the actual leak? Like if it comes down to a pipe,
+4:30
+how do you find the leak on the pipe?
+4:32
+So for like, R-134, we have a call them sniffers and uh, they detect,
+4:38
+we're on 34 is coming out of the piping or the plant and it'll alarm when
+4:43
+it detects it. So is it like a,
+4:46
+it sounds like a Geiger counter when you get closer to it or something? -Yeah it does.
+4:50
+can I see one here? This is how the sausage gets made right here.
+4:55
+This is how you keep yourself alive on a sub. Okay.
+4:59
+They're like, "I guess we'll just show him the oxygen stuff" and then I'm really excited about this.
+5:09
+The what? Sniffer! Can we look at sniffers? Sure. Okay.
+5:14
+Sniff Away!
+5:23
+This is it? Yep. So this is a universal refrigerant leak detector.
+5:28
+So can you show me how to use it? Yeah.
+5:30
+So this is what it looks like when we find a leak.
+5:32
+(chirp)
+5:33
+(chirp)
+5:35
+(chirp)
+5:35
+(ALL THE CHIRPS)
+5:38
+So that's how, that's how you find the leak. Yes.
+5:40
+Then we can also switch to small, medium, large leaks.
+5:44
+So looking for a small leak, let's put the small, cause we won't detect it.
+5:48
+If it's large, you got to have a large setting.
+5:50
+So we'll go through... here's our R-134 right here.
+5:55
+You'll go through. And you'll just drag. You'll drag it through the piping.
+5:59
+Very slowly. -So it's like coloring in kindergarten? - Basically. Yes.
+6:03
+You have something like this for each bad gas?
+6:06
+We have a Dräger kit, it monitors, it tests like....
+6:10
+It samples the air they look like little tubes.
+6:12
+You have to break and you have to pump air through it.
+6:15
+And it'll indicate if there's a type of gas in the air.
+6:17
+We also have the.... uh... it's called the Phd6
+6:21
+and that tells us the lower level explosive limit.
+6:26
+So like for hydrogen, for example. Yeah. So you have a sniffer that does that,
+6:29
+[COMPRESSOR KICKS ON]
+6:31
+is this the air conditioning? -Nope.
+6:32
+This is for the chill and freeze box it's how we keep the food cold. Oh really? Yes. Is it,
+6:37
+Is that on the other side of the wall or something? It's up in the middle level.
+6:39
+So you got a chiller running up. Yeah. This is our refrigeration plant. Yeah.
+6:43
+So the cam system taught us that not only is it important to monitor oxygen and
+6:46
+carbon dioxide,
+6:47
+but any kind of gases that might leak out into the atmosphere and harm people.
+6:51
+So the next thing I told you, there were two ways to create oxygen on the boat.
+6:55
+Right? So for the first way, I got a little excited.
+6:58
+I made a little 3d printed thing. We're gonna do a little experiment.
+7:02
+We're going to use electrolysis to create oxygen,
+7:05
+very excited about this. Here's how this works.
+7:08
+You did this in like sixth grade science or something like that,
+7:10
+but you get two electrodes and you put them up in the water and you put
+7:15
+electricity on one electrode and you complete the circuit. And of course,
+7:18
+H2O breaks into hydrogen and oxygen. Right?
+7:22
+So this was my thinking when I got on the boat, well, I'm on a submarine.
+7:26
+There's seawater all around the submarine.
+7:29
+I can just take in as much seawater as I want. I have a nuclear reactor.
+7:33
+I can just put electrodes,
+7:35
+hook them up to the nuclear reactor and then just put those in the seawater and
+7:39
+I can provide oxygen for everybody on the boat. I'm a hero, right?
+7:42
+Except I would have killed everybody on the boat.
+7:45
+And that I do not want to do that.
+7:47
+This is why if you run just straight up electrolysis on seawater with
+7:51
+salt in it Na-Cl,
+7:54
+you will liberate chlorine gas and hydrogen, not oxygen and hydrogen.
+7:58
+And that's a really bad thing. And that kills people.
+8:00
+So we don't want to do that! Before you run electrolysis on seawater,
+8:04
+you must first purify it.
+8:05
+And the way you do that is through a filtration system and also something called
+8:09
+reverse osmosis.
+8:11
+Now reverse osmosis is complicated and I don't want to go into the,
+8:15
+the great depths of that right now,
+8:17
+but there's a lot of stuff on screen right now. And that's kind of what happens.
+8:20
+Wonderful. Okay. Let's come back here. So electrolysis,
+8:23
+the way we're going to do that is we have this super pure reverse osmosi-fied
+8:28
+water in our little contraption here.
+8:31
+But what we're going to do is we're going to add potassium hydroxide.
+8:34
+And when we add that,
+8:36
+and then we hook everything up to the nuclear reactor that potassium hydroxide
+8:40
+acts like a catalyst and it more freely liberates the oxygen and the hydrogen
+8:44
+for water. And guess what? You can breathe oxygen. Instead of the chlorine,
+8:47
+Destin was going to try to pump into the sub. That's how that works.
+8:50
+Look at how big the difference is here on the left.
+8:52
+We did electrolysis on saltwater.
+8:54
+You can see we up with hydrogen and chlorine gas,
+8:57
+which actually damaged the container on the right.
+9:00
+We did it with purified water, using potassium, hydroxide as an electrolyte.
+9:04
+And that broke it down into hydrogen and oxygen,
+9:07
+which is fine for the crew to breathe.
+9:09
+You make oxygen by electrolysis up near the Nuke.... is that... what is that?
+9:13
+uh, AOG automated, electroly..... automated,.....(searching for the acronym)
+9:19
+automated electrolytic oxygen generator. - Uh huh -
+9:23
+we use a water and a chemical called KOH, or Potasium Hydroxide
+9:28
+Got it. We essentially shock the water, which creates Oxygen, and Hydrogen
+9:34
+So it takes H2O and splits it into Hydrogen and Oxygen
+9:39
+And we use the oxygen to breathe, obviously. Right?
+9:43
+And then we send the hydrogen overboard.
+9:45
+Okay. So I told you there were two methods to create oxygen on a submarine,
+9:50
+right? The first method is electrolysis,
+9:51
+which I knew about the second method was a little bit counterintuitive to me.
+9:55
+This is a match burning. And as you know,
+9:57
+from high school chemistry burning means oxidation meaning
+10:01
+it is taking oxygen out of the atmosphere and creating a chemical
+10:06
+reaction. So right now this candle is now burning,
+10:10
+meaning it's oxidizing. So when I heard someone on the boat say, Hey,
+10:13
+we're low on oxygen.
+10:15
+We need to go light a candle that was counter intuitive to me.
+10:19
+And what's about to go down. Oh, we're about to burn the Chlorate candles.
+10:22
+So make oxygen from the cans right over there behind you.
+10:26
+(Clearly confused) You're going to burn this?
+10:28
+Yeah, so the way this works is the candle itself is actually inside this container.
+10:33
+And then we'll put them in a basket like this one right here. -Yeah.
+10:37
+And the basket will go inside here. We'll open this up.
+10:45
+We have a little striker up here
+10:49
+And on the tip of it is red phosphorous.
+10:53
+So what we'll do is we'll have it go through here. And once the candles are in,
+10:56
+we'll take this, push it down and twist it and that'll light the candles. -Okay.
+11:00
+And the lights kind of like a cigarette from what I've heard,
+11:03
+I've never actually seen one lit, um,
+11:06
+cause we can't really leave the lid open when we liked them.
+11:08
+Cause that's a class Delta fire and we can't really put those out. Okay.
+11:14
+But yeah, that's really about it.
+11:17
+That's it? Yeah. Okay.
+11:19
+And so, and it makes oxygen as you do it. How long does it burn? Um,
+11:23
+so each candle burned for about 45 minutes to an hour. So both candles together,
+11:27
+they can burn somewhere between 90 minutes to two hours. Really? Yes. Okay.
+11:32
+So you're going to burn two at one time. Yes.
+11:34
+And so is this something that you NEED to do or something you're just doing?
+11:39
+Um, we mostly need to do it right now because our normal way of making oxygen with
+11:42
+the AOG, um, that's currently down.
+11:45
+So this is sort of our backup method of creating oxygen.
+11:48
+Got it and so you're monitoring the oxygen level back here.
+11:53
+Yeah on CAMS.
+11:54
+You're monitoring the oxygen level here and if it's low,
+11:58
+then you burn the candle. Yep.
+12:00
+And that'll help bring the Oxygen levels back up to where we need to be.
+12:04
+Okay. Rock and roll,
+12:07
+Learnin'.
+12:08
+Science XO! (Executive Officer) Science! (Laughter)
+12:14
+So is this your job?
+12:16
+Uh, yeah, this is one of the extra things to do for our watch. So,
+12:20
+[Can Rattles as he pulls it out, sounds like a trash can]
+12:24
+Um, because one of my jobs is to actually monitor the atmospheres themselves.
+12:28
+So whenever I noticed that oxygen is getting low enough,
+12:32
+I would have to make the recommendations to burn the candles.
+12:36
+And then if the chief of the watch agrees, then we'll burn the candles.
+12:41
+And this right here is a by-product doctor. We turn them. Okay. Uh,
+12:45
+we called these "clinkers" honestly, I have no idea why we call them "clinkers".
+12:52
+And so you're opening the can back there, sir? -Yes sir-
+12:55
+Can you show it to me?
+12:57
+Absolutely
+13:00
+So this is the bottom of the candle you take off this protective cloth -Uh Huh-
+13:06
+pretty much helps keep the candle from being damaged while it's in the can.
+13:09
+(To person offscreen) Do you have a flashlight?
+13:14
+(No, I don't have one on me)...Perfect. Thank you.
+13:20
+That's the top of the candle.
+13:21
+So as he was explaining it to you about the striker that ignites it....
+13:23
+When the striker goes through the lid. It presses down on this center piece here.
+13:28
+It presses down on that? Yes and the striker has a phosphorus tip.
+13:31
+These candles can only be ignited due to a chemical reaction between the phosphorus
+13:35
+and the chorate of the candle. -The chlorate? - Yes.
+13:38
+Okay. Got it. And so that'll get it going? -Yes, sir.
+13:43
+Okay. Let me get out of your way here.
+13:46
+So this is a pretty hazardous activity then because it involves fire...
+13:46
+...on a submarine. -Yes, yes sir.
+13:56
+Okay.
+13:57
+(This is) One class of fire no one on the submarine ever wants to deal with.
+14:00
+A class Delta Fire....
+14:02
+because it's a self-oxidizing fire, so it makes its own oxygen.
+14:06
+(Guy in back) -I've been on board 4 1/2 years and I've never seen this done.
+14:07
+You've never seen this happen?
+14:11
+[Empty can makes hollow noise as it hits ground]
+14:16
+[Guys talking in background, they're clearly interested in watching too]
+14:21
+So you're just slowly getting down to the Chlorate. -Yes, sir.
+14:33
+Okay. So two candles.
+14:39
+We burn two candles at a time.
+14:43
+To pretty much maximize the Oxygen output of the candle burnings.
+14:53
+So this, when you touch the end with red,
+14:55
+phosphorus starts burning slowly burns becomes this.
+15:00
+Yes. This is the striker we actually use, just a nine inch nail.
+15:05
+And this is the red phosphorus we were talking about. Gotcha.
+15:10
+Uh, sir, for this part here,
+15:11
+I am gonna need you to step back a little bit because all the old candles out
+15:14
+those are extremely hot. -Yes, sir.
+15:17
+Which is why we got these heat protective gloves.
+15:23
+[Hinge creaks]
+15:30
+So you're putting it in there and let it cool off.
+15:32
+Here I'll set it close to you and you can just feel how hot it is.
+15:35
+It's like put your hand right by it. (offscreen) - Don't actually touch it
+15:39
+Yeah, definitely. Don't touch that. -Don't actually touch it! Haha!-
+15:40
+[Laughs like a man who has accidentally touched hot things in the past]
+15:44
+Yeah. When these actually burn, they ended up burning with,
+15:48
+I believe it was 9500 BTUs. Yeah?
+15:51
+So they get EXTREMELY hot
+15:52
+Ok, take the ignitor, press it through the lid.
+15:56
+Hold it. So you don't have a premature ignition.
+16:01
+Can I come over here?
+16:04
+So you're about to ignite it.
+16:08
+No. YOU are. -
+16:09
+....I am? (nervous laughter) You are
+16:15
+Now if you'll just grab, I can hold the light.
+16:18
+Grab the ignitor. Now press down and twist.
+16:21
+Ok, will you hold the light right on it?
+16:24
+So, push it down...
+16:25
+Press down, and just twist it.
+16:26
+Like that? -Twist it fast, yeah! Twist it
+16:34
+And then pull up on it. -I can see the smoke.
+16:42
+If you feel right here you go, you can feel the pressure from this point. Yeah.
+16:48
+And that is where that's where the oxygen is coming out.
+16:51
+So that's what tells us that the candle was ignited properly. Really? Yes sir.
+16:55
+So you're making oxygen now. Making oxygen right now.
+16:58
+(Trying to make me feel good) YOU ARE a creator of oxygen.
+17:01
+Okay. It wasn't until I got off the sub,
+17:03
+when I totally understood what was going on here.
+17:04
+But the two main chemicals in this candle were iron and sodium Chlorate.
+17:10
+When you burn iron,
+17:12
+that's adding oxygen to the iron and you're creating iron oxide.
+17:17
+You're actually creating heat. That's the burning of the candle.
+17:20
+But when you do that, there's also sodium chlorate in the candle.
+17:25
+And that heat from the iron oxide is liberating oxygen from the sodium chlorate.
+17:29
+and in doing so you actually get more oxygen from the chemical reaction.
+17:35
+Now this is why this is important. If you think about it,
+17:38
+if you're on the submarine and we had the nuclear reactor hooked up to the
+17:42
+electrodes, right. Or whatever, that's great.
+17:45
+And you can just create as much oxygen as you want through electrolysis.
+17:49
+However,
+17:49
+if you ever lose power, for whatever reason, you can just light a candle.
+17:53
+And that requires no electricity whatsoever.
+17:57
+As long as you have a solid candle and a way to contain the fire,
+18:00
+without it damaging anything on the boat,
+18:03
+you can start that fire and create oxygen with no external power source
+18:07
+whatsoever.
+18:07
+The beauty of this oxygen candle oxygen generation technique is that the solid
+18:12
+oxygen candle, is in a a very small volume,
+18:15
+but it can create a tremendous amount of gas.
+18:18
+This is very important for things like spacecraft,
+18:20
+Americans and Russians have used oxygen candles in space for years and only one
+18:24
+time did they get out of control on the space station, Mir,
+18:27
+oxygen candles are amazing. They're an effective,
+18:29
+efficient way to create oxygen on board of submarine.
+18:32
+How often do you burn these things? Typically when we have to burn candles,
+18:36
+we light two candles, every two hours.
+18:38
+Once in the forward department, and once in the engine room
+18:42
+We alternate every two hours.
+18:44
+And you're constantly monitoring how much oxygen,
+18:46
+That's his job to monitor CAMS. Central Atmospheric Monitoring System
+18:51
+to verify oxygen levels throughout the ship. Okay.
+18:53
+And so can you literally watch the, uh,
+18:56
+the oxygen level rise here?
+18:59
+Uh, no it won't rise up instantaneously like that.
+19:01
+Because it burns over time. -Yeah- So with that,
+19:04
+what we'll see is the O2 Torr right here might go up by three or four
+19:10
+by the end of an hour or so.
+19:13
+and then what we'll do is we'll take the pressure right here and the O2 Torr
+19:17
+because the O2 Torr is.... -That's partial pressure?
+19:19
+Yeah that's partial pressure. So we can figure out the Oxygen percentage of that.
+19:23
+So it usually doesn't change too much when we burn the candles because as
+19:27
+they're burning, people are breathing still. So it might go up by a little bit,
+19:31
+but it won't be like a huge drastic, but it's, it's like a,
+19:34
+it's like continuously solving equation. You're just trying to like maintain.
+19:37
+You're you're not trying to rise. -Yeah-
+19:39
+No we're not trying to really rise with these are mostly trying to maintain a
+19:43
+suitable atmosphere so that we can breathe still. -That's awesome.-
+19:47
+All right, great.
+19:48
+So we know how to get oxygen in the submarine in our environment now.
+19:51
+We've got candles and electrolysis,
+19:53
+but we still have the carbon dioxide problem. As we breathe out,
+19:56
+we're creating carbon oxide and we have to do what's called scrubbing the CO2
+20:01
+from the atmosphere. So to do that, there's two processes.
+20:04
+We'll talk about the first one involves a liquid chemical.
+20:07
+We have a two Mark D Bravo's CO2 scrubbers, right here and right here.
+20:12
+Uh, so this is, what's letting us breathe. -It is, yes.-
+20:14
+So what these machines are designed to do they take carbon dioxide out of the air.
+20:20
+It's around 370, cubic feet per minute, that air goes through.
+20:25
+We use this chemical called Monoethanolamine
+20:27
+Say it slower,
+20:29
+Mono. Ethanol. Amine
+20:31
+-Okay?-
+20:32
+Or for short, MEA, or Amine.
+20:34
+-Where does it go in?- So air will come in to here.
+20:39
+It comes out from the fan room.
+20:42
+So the cycle goes..Air will go in
+20:44
+through the blower.
+20:47
+It'll pull air in and put it into the blower tower.
+20:51
+And the Amine sprayed over top of the air and it absorbs all the CO2, out of the air.
+20:55
+And then the air and the air goes back to the air purifier and then it gets sent back out
+20:59
+out. So this is, this is fresh air coming out. Yes.
+21:03
+And then from there, uh, from the lower tower,
+21:07
+The Rich Amine because it has CO2 in it.
+21:12
+Gets pumped from that Amine pump Into the heat exchanger right here,
+21:17
+which basically predates the amine for the,
+21:20
+before it gets to the boiler stipper,
+21:21
+and the boiler stipper,
+21:22
+it's under pressure, um,
+21:24
+which causes higher pressure causes things that have higher,
+21:27
+boiling temperature. -Yeah.-
+21:29
+So we boil the Amine - And that removes the CO2?-
+21:33
+It releases it, yes. -So where does the CO2 go?-
+21:37
+So after there,
+21:38
+uh,
+21:39
+it gets sent to the compressor and gets compressed to sea water depth.
+21:43
+So how deep we are, and then it sent overboard,
+21:45
+what do you mean compressed to sea water depth?
+21:47
+So it goes out as liquid CO2? It goes out as a gas CO2,
+21:51
+but like different depths, the pressure water pressure is higher.
+21:57
+So it gets sent off that way. It compresses it, to however deep we are,
+22:01
+and then pushes out. So it creates enough pressure to push it out. -Oh, I got it.-
+22:06
+The water doesn't come back yet. I see.
+22:08
+Okay. Let's break this down.
+22:10
+Dow referred to the chemical being used as Monothanolamine,
+22:14
+or MEA also known as Amine,
+22:17
+a lot of submariners spouses complain about the Amine smell in their clothes.
+22:21
+Once they get back from being on tour. Anyway,
+22:24
+this is a really interesting substance.
+22:26
+He referred to two adjectives to describe Amine. He said, RICH Amine
+22:30
+and he said, LEAN, Amine,
+22:32
+if you think about rich amine it's like a fizzy drink,
+22:36
+CO2 or carbon dioxide is in saturation in the liquid
+22:40
+Lean Amine is like a flat coke.
+22:42
+It has the ability to absorb CO2, but it's flat.
+22:45
+It doesn't possess any of the CO2 in it at that time. Right?
+22:48
+So it's this ability to absorb CO2 that makes monoethanolamine
+22:53
+So fantastic. I'm a visual learner.
+22:55
+So let's take a look at this Dow said there are two main components to the
+22:59
+system. First, there's the absorber tower.
+23:01
+And then there's the boiler stripper first air that has CO2 in it is blown into
+23:06
+the absorber tower where lean MEA is sprayed through that air.
+23:11
+The reason it's sprayed is because that increases the surface area between the
+23:14
+carbon dioxide in the air and the lean Amine and that maximizing of the contact
+23:19
+area promotes the absorption of CO2 into the lean MEA. Because the
+23:24
+lean Amine is flat and it wants to be fizzy
+23:26
+it starts to absorb that carbon dioxide out of the air.
+23:29
+And then it falls down to the bottom of the absorber tower where pools together
+23:33
+in a rich state, meaning it has that CO2 in solution.
+23:37
+I don't really understand this part, but Dow said,
+23:39
+there's a preheating function that happens before it moves over to the boiler
+23:42
+stripper. But once it's in the boiler,
+23:44
+the temperature of the rich amine is increased and the CO2 boils off
+23:49
+turning rich Amine back into lean Amine. That CO2,
+23:52
+that then boiled off is compressed. Like he said,
+23:55
+to whatever pressure it takes to push it overboard.
+23:58
+The deeper you are in the ocean,
+23:59
+the higher the pressure has to be in order to push it out.
+24:02
+The side of the submarine. Once the CO2 is compressed and pushed overboard,
+24:05
+somehow in that process, it's turned into very fine bubbles.
+24:08
+So it dissipates out into the seawater without causing too much noise.
+24:12
+That Lean Amine can then be used again to be sprayed back over into the absorber tower.
+24:17
+And the whole process starts over again.
+24:19
+And this is the magic of the whole thing.
+24:21
+The fact that you can take that LEAN a mean and then make it RICH and then make
+24:24
+it lean again is fantastic,
+24:26
+because that means you don't have any consumables on board and you can
+24:29
+continuously scrub CO2 from the air indefinitely.
+24:32
+That's a really big deal when you're trying to be underwater for an extended
+24:36
+period of time.
+24:37
+So this Amine system is CRITICAL for staying submerged in a
+24:41
+submarine.
+24:42
+So MEA is one way to get the carbon dioxide out of the atmosphere in the
+24:46
+submarine. The other way you've probably heard of before,
+24:47
+and that's lithium hydroxide during the Apollo 13 incident famously,
+24:52
+the astronauts had to adapt the square lithium hydroxide canisters from the
+24:56
+command module to the circular interface of the lunar module.
+25:00
+And the reason is they had different lithium hydroxide canisters,
+25:03
+which is basically just a way of passing air through this lithium hydroxide
+25:08
+membrane or mesh, or whatever you want to call it. Basically just the chemical.
+25:12
+Once it's exposed, it'll take the CO2 out of the air.
+25:15
+So lithium hydroxide is used in a ton of different places,
+25:18
+rebreathers for Navy seals. They take the CO2 out of the air.
+25:23
+When an astronaut does an EVA,
+25:24
+they use lithium hydroxide in the space suit to get the CO2 out of their spacesuit.
+25:28
+The beauty of using lithium hydroxide,
+25:31
+disrupts CO2 from the atmosphere is just like the oxygen candle.
+25:34
+If the power goes out and you don't have a way of running your MEA system,
+25:38
+you can just open these canisters even,
+25:40
+and just sprinkle lithium hydroxide out on the bunk in the sailors,
+25:44
+like where they sleep. And as long as it's exposed to the air,
+25:47
+it will scrub the CO2 from the atmosphere.
+25:50
+It's a fantastic passive means of getting CO2 out of the
+25:55
+atmosphere so you can survive on board the submarine. So in summary,
+25:58
+How to breathe on a submarine,
+26:00
+you've got to make oxygen and you've got to scrub CO2 the primary ways to do
+26:04
+this for oxygen electrolysis and oxygen candles, to scrub CO2.
+26:08
+It's going to be Monoethanolamine, and lithium hydroxide. You do all this,
+26:13
+just write it just the right amounts.
+26:15
+And you can breathe underwater on a submarine.
+26:18
+This episode of Smarter Every Day is sponsored by Raycon.
+26:21
+Raycon is a company that makes fantastic earbuds.
+26:24
+I've been running a lot lately. I have been putting many,
+26:27
+many miles on the road using Raycons to listen to music, audio books.
+26:31
+I love these things. My favorite thing though,
+26:33
+is there's a little bitty button on the side of the earbud itself.
+26:36
+And if you are running and you tap the button,
+26:39
+it'll pause everything you're listening to.
+26:40
+I know that sounds like a little deal,
+26:42
+but it's a deal when you're running and a lady comes up to you and she's got a
+26:46
+little dog and we'll say hi to the dog or whatever. BOOM, pause.
+26:49
+I can engage with a human. I can keep running. They're great.
+26:52
+"This is my dog Princess Booper Snoot. I just wanted you to see her. She's cute.
+26:57
+Isn't she great? -She's great-
+26:59
+I love my Raycons. If you want to check these out,
+27:01
+you can get it by going to BuyRaycon.com/smarter. That gets you 15% off.
+27:06
+Any order you want. There's two different models that I recommend.
+27:09
+There's the everyday E25 and the Performer E55.
+27:13
+This is the performer E55.
+27:14
+The cool thing about the performer is that you have wireless charging as an
+27:17
+option. You also have a USBC charging option,
+27:20
+but the way it works is you basically put the earbuds in the case here in the
+27:24
+case itself charges the earbuds. They're fantastic.
+27:28
+They are like half the price of other premium audio brands,
+27:30
+but they sound just as good. If you go to buyraycn.com/smarter,
+27:34
+pick out any color you want. When you get Raycons,
+27:37
+they come with all these little adapters.
+27:39
+So you can tune the Raycon earbud to your specific ear hole size.
+27:44
+It's like an adapter for ...whatever. You know what I'm trying to say.
+27:47
+They're great. You'll find the perfect ear hole fit for you. Yeah.
+27:51
+Buyraycon.com/smarter 15% off your order. I highly recommend them.
+27:56
+There you go. So here's where we're at in the
+27:59
+Smarter Every Day deep dive series into submarines. We've learned about all this stuff.
+28:03
+There's a ton of things. We've, we've talked about food.
+28:06
+We've talked about oxygen. Now we've talked about all this stuff.
+28:10
+We are coming up on surfacing the submarine, which is fantastic.
+28:14
+So if you're interested in subscribing to Smarter Every Day, that'd be amazing.
+28:18
+I would greatly appreciate it. If not, no big deal.
+28:21
+I'm just grateful that you're along for the ride, literally.
+28:24
+So thank you so much for watching Smarter Every Day. I'm grateful.
+28:28
+Feel free to consider supporting on Patrion. If that's your sort of thing.
+28:31
+If not also no big deal anyway, that's it. I'm Destin.
+28:35
+Hope you getting Smarter Every Day. Have a good one. Bye.
+28:38
+So you and Dow work together? Yes. Me and Dow are the same division.
+28:42
+I figured out pretty quick. You, you you're,
+28:44
+you're the guys that keep things going on the ship. I like to believe So.
+28:47
+The backbone of the submarine if you will. -What was your name, sir?
+28:51
+Petty Officer Watson
+28:52
+Pleasure to meet you Mr. Watson. And you, sir?
+28:54
+I'm I2S2 Parmer.
+28:56
+Pleasure to meet you. Thanks. Appreciate it.
+28:59
+So here's where the Oxygen's coming out. Ooh, it's getting hotter too. Yeah,
+29:02
+I guess. Wait, thank you. You're really smart. -Thanks-
+29:07
+Where did you learn all this? Just joined the Navy. Yeah. I mean,
+29:11
+I learned like you mechanical stuff from my grandpa and stuff and my dad
+29:14
+And you just, you just came into the Navy and you learned all kinds of stuff. Yeah.
+29:17
+Especially the submarine force. They teach you a lot.
+29:19
+You have to learn a lot because your life depends on it.
+29:21
+And if something goes down we're the ones who have to fix it.
+29:23
+There's no one else to call out here to help us. Except for us.
+29:27
+that's pretty legit. Thank you very much. Where's your name again? Dow,
+29:31
+Dow. Thank you.
+what was the biggest impetus to buying Twitter I grew I was growing increasingly concerned that there was a lack of freedom of speech and freedom of
+0:07
+expression there was a lot of censorship and a lot of censorship with some of it was obvious a lot of it was hidden the average person is terrified effectively
+0:14
+what they're saying is they want the public to be misled and uninformed I mean the media is going to give you generally the dramatized Cliff Notes
+0:21
+version of reality I'll be honest of all the things you do and all the companies you run the one thing that does concern
+0:27
+me and I know concerns a lot of people out there so I do have to bring it up which is neuralink uh we put a chip in
+0:34
+your brain to control your mind yeah okay all right concerns not alleviated yeah
+0:42
+um Jump Right In step right up who wants one
+0:47
+it's not every day you get to talk to a Visionary like Elon Musk I'm lucky to be able to learn from him on the podcast
+0:53
+and off air when the cameras are off people feel more comfortable sharing their personal strategies Millionaires
+0:59
+and billionaires invest in assets to counter inflation in Crazy Market swings Elon himself has previously talked about
+1:05
+the little-known power of physical assets real tangible Investments that can hold their value during a crisis but
+1:12
+the real story a group of everyday investors have already seen net returns of 10 13 and even 32 percent and they
+1:19
+didn't need Millions because they used Masterworks art investing platform so far Masterworks has sold over 45 million
+1:27
+dollars worth of luxury art handing the net proceeds right back to investors like us every Masterwork sales so far
+1:33
+has delivered a return and users have already invested over half a billion dollars with them offerings can sell out
+1:39
+in minutes but zubi listeners can skip the waitlist by going to masterworks.com and entering the promo code zubi Zuby in
+1:47
+the how did you hear about usbox that's masterworks.com and use the promo code zubi see important disclosures at
+1:54
+masterworks.com CD what's up ladies and gentlemen boys and girls around the world I would like to
+2:00
+welcome you back to the real talk with zooby podcast today's episode this is a glorious day
+2:06
+this is a magical episode we have got on a legendary guest without further Ado
+2:12
+the one and only Elon Musk welcome welcome to the show man thank you so good to have you on so good to meet
+2:18
+you yeah likewise it's amazing person I've interact a lot we've interacted a lot online uh but it's nice to be in
+2:23
+present absolutely first things first man how how are you doing uh pretty good I mean it's got a lot going on obviously
+2:30
+um so I I just actually just got in from uh straw base Texas and we're building
+2:36
+the Starship rocket so getting ready for another launch uh hopefully get to orbit this time uh probably be ready in about
+2:44
+six to eight weeks that's awesome that's awesome first question I have to ask of course
+2:50
+is just how do you manage this all man you do so many things and yeah just
+2:56
+managing a single one of the companies that you do is a gargantuan task so how
+3:02
+do you even manage all this on a day-to-day basis I mean with great difficulty I mean I work a lot
+3:08
+um and um I have to say the last six months I've been uh extra difficult
+3:13
+um because of the Twitter workload I think things are reasonably stable at Twitter at this point um obviously Linda
+3:18
+yacrino's joined and I think she'll be a big help and um so I'll still be spending a fair bit of
+3:26
+time at Twitter but um it won't be occupying as much time
+3:31
+um and um you know that now that we're sort of financially more or less stable uh
+3:36
+it's not like an emergency situation um but we still want to rapidly improve the
+3:42
+product uh especially on the video side and um there's a lot of great things that are
+3:47
+going to come out um obviously payments down the road um maybe later this year
+3:53
+um and uh improving the uh direct message stuff
+3:59
+um obviously enabling full encryption um and video and voice calls uh I just
+4:07
+basically solving like basically if there's something you want to do you can do it on the sort of
+4:13
+you know X everything app or you can leave easily and do it somewhere else so you brought up x x is something that
+4:20
+you've been having in mind for a long time tell me tell me 20 years yeah tell me the
+4:27
+story about xx.com well I mean way back in the day the idea was for
+4:33
+X or x.com to be an all-income thing um
+4:38
+in that financial services company um or I thought kind of in like a
+4:45
+um infinite information Theory way to be a to be the most efficient
+4:50
+uh database for the information that is money um the way that money currently works is
+4:56
+from a practical standpoint it's um still mostly run on mainframes you know
+5:03
+that's still a thing for banks it's mostly written in Cobalt it's still mostly batch processing uh so actually
+5:09
+the financial system is very slow um it's not secure you've got all these heterogeneous complex databases so if
+5:17
+you have a real-time homogeneous database that is just like
+5:23
+fundamentally more more efficient and doesn't um have all the expenses of Bank
+5:29
+buildings all over the place and Bank branches and ATMs which are increasingly kind of redundant it can operate way
+5:35
+more efficiently and so um essentially if if Done Right the
+5:43
+X would be would serve people's financial needs to such a degree that over time it would
+5:50
+become I don't know maybe half of the Global Financial system wow
+5:56
+or some big number I'm not sure what the number is but pretty big um so it would be by far the biggest
+6:02
+sort of financial institution but like I said not not really in the way that
+6:07
+people are used to thinking about uh Banks just um just the most efficient
+6:15
+database for the thing that is money um I said like at least amount of fraud uh
+6:21
+everything's real time um and if it involves money in any way it can be dealt with seamlessly on one
+6:27
+one location um and then in addition you've got the sort
+6:32
+of social media element which is also information it's people sharing information of various kinds whether
+6:38
+it's text video pictures um voice uh
+6:44
+and um and and so uh okay so both money and and what we
+6:51
+call social media really information exchange um and I think there's a potential there to
+6:57
+make a product that is really quite compelling like combines all these things simplifies people's lives
+7:03
+um is more you know cost efficient for the average person so
+7:08
+you know you don't have a minimum number of fees and whatnot so um
+7:15
+so I think this there's just a lot of a lot of potential to create some like the kind of the ultimate uh app or
+7:21
+system website whatever I hear that and so with the long-term goal be for Twitter to evolve into X over time so it
+7:30
+would just be fully integrated yeah I mean I said at the time of the acquisition like I I could do this independently and create it from scratch
+7:38
+um or what I thought was acquiring Twitter would probably accelerate progress by
+7:44
+three or four years maybe five years I hear that what was the biggest impetus to buying Twitter what was the what was
+7:51
+the thing that made you want to do that well like so there is a sort of um you know for a long time I want to do
+7:58
+sort of the uh for createx export um
+8:03
+and so that's that's one element of it I also thought that I grew I was growing
+8:08
+increasingly concerned that there was a lack of freedom of speech and freedom of expression um and that the there was a lot of
+8:15
+censorship and a lot of censorship with some of it was obvious larva was hidden yeah um and I thought that's really that was
+8:22
+really unhelpful and unhealthy for public discourse you know so how are people say in America in a democracy
+8:29
+supposed to make the right decision if they don't have the right information you know if they're being misled or
+8:35
+important information has been withheld which obviously was the case you know in the infamous uh
+8:40
+you know 100 by the laptop situation everyone knows about that but there are there are thousands of other smaller
+8:46
+situations like that um so effectively Twitter and frankly uh Google and YouTube and whatnot Facebook
+8:54
+I mean they put their thumb on the scale of Elections worldwide and they have done for some time
+8:59
+so and a lot of times it's so subtle you don't even really notice it um frankly Googles might be the most
+9:07
+pernicious in that uh it's very easy for them to to slightly de-rank a search so
+9:12
+it's on page like four or five like if for if you're looking for something and
+9:17
+um nobody ever goes there so it's not gone it's just not on page one yeah and
+9:22
+um you know the old joke used to be that uh what's the best place to hide a dead body would be the second place second
+9:29
+page of Google search results and nobody who goes there yeah so um
+9:35
+so I think for in order to have a solid Bedrock for
+9:40
+democracy and frankly even if the country's not strictly speaking democracy it's still good for the people to know what's going on yeah
+9:46
+um we have to have at least one platform that you can count on that is maximum truth seeking and um and that's uh what
+9:54
+the goal is here with with X Twitter is um maximum truth seeking
+9:59
+um really allowing voice of voices to be heard I mean unless someone's doing
+10:05
+something like just flat out illegal um then um they should be allowed to say what they want to say and uh free speech
+10:13
+is only relevant if it's if if we allow people that you don't like to say things
+10:18
+you don't like otherwise it loses all meaning um and at least in the US like the the
+10:24
+first amendment is is pointless um so and if you don't let people you don't
+10:30
+like say things that they don't like and you censor them it's only a matter of time before that census sense of that
+10:35
+censorship is turned upon you yeah you know so that was the essential wisdom in the First Amendment
+10:41
+um and um and so you can kind of tell that it's working if you see people that you don't
+10:47
+like saying you don't like that's a good sign actually yeah you know something I've noticed traveling all around the
+10:53
+world and especially I mean recently I've been to all over the US of course spent time in the UK I went to Australia
+10:58
+recently and it seems like in all these countries you know the these Western Nations that are supposed to be
+11:05
+you know so-called liberal democracies people are supposed to be able to speak freely and so on the average person is terrified to speak
+11:13
+their mind it seems that the concept of freedom of speech has really been pushed
+11:18
+to the side and marginalized it's not it's something that is supposed to be a Bedrock of our societies and Nations and
+11:26
+cultures but something I found incredibly interesting for example when
+11:31
+you bought Twitter was that people were not afraid that they would be censored
+11:36
+but they were afraid that their opposition yeah especially people more on the right side I mean I would not be
+11:42
+censored they were afraid of the freedom of speech aspect so how did we get there I mean I think that people like like
+11:50
+that should really look at themselves in the mirror and say like what are you actually asking here you want censorship
+11:55
+you want things to be you want information to be withheld from the public even though it's totally legal
+12:02
+um you effectively what they're saying is they want the public to be misled and and uninformed of of all sides of the
+12:08
+issue that's obviously morally wrong yeah um so but yeah the situation where basically
+12:15
+all the social media companies are based in uh the Bay Area or I guess if you add snap it's LA but the most influential
+12:22
+ones are all in the Bay Area so they have a very sort of far left position
+12:27
+especially in San Francisco I mean it doesn't get more far left than Francisco Berkeley it's like you know you know
+12:33
+exploring the city today and uh yeah I noticed that I felt that yeah I mean you can see like there's some pretty rough
+12:39
+parts of the city um you know people are supposed to say oh you must be exaggerating I'm like you
+12:45
+just come to downtown SF on any random day yeah it's the same thing um and it's uh it's like Mad Max Walking
+12:53
+Dead situation yeah it's horrible yeah it's like you can't believe it um now there are certainly still many
+12:58
+nice parts of San Francisco but the fact that the downtown core is basically a dead zone uh it's and and frankly some
+13:05
+of the areas where there's just no people at all I think might be worse when the parts where the zombies are
+13:10
+because it's actually Bleaker this is It's just empty yeah um so
+13:16
+you know we clearly don't want to have a world where that policy is Amplified to Earth
+13:22
+um you know where where you know we don't want all of us to be like downtown SF so you can see kind of
+13:28
+like where the policies lead and we have evidence is right here so we anyway we it's one thing if that
+13:35
+um if the sort of uh damage radius of an ideology is located is limited
+13:40
+geographically to you know sort of 10 mile radius or something like that
+13:45
+um which is what what you know say Anisha ideology would be limited geographically
+13:50
+but when you've got some massive Global megaphone um it's a effectively a mind virus
+13:57
+megaphone to Earth if you have something like Twitter um Facebook Instagram yeah big talk to
+14:03
+some degree large degree um I've had a lot of people
+14:09
+voicing increasing concerns about tick tock not from the standpoint of spying but
+14:15
+you know having a negative effect on the youth yeah so short shorter attention spans and I
+14:21
+don't know um how do you how do you manage that aspect when it comes to social media because I
+14:29
+understand that anyone running a major social media Corporation there are so
+14:34
+many different points of interest and conflicts and
+14:39
+ethical confusion I think a lot of people think it's sort of easier than it
+14:45
+must be right you've got number one I think people often forget that these platforms are Global they're not just in
+14:51
+the USA they're not just in one nation they're yeah 100 plus different countries different jurisdictions with
+14:56
+different laws different rules there's political elements involved yeah and so on you've got the you know typical stuff
+15:04
+that you're not going to want polluting any type of websites there's various legal issues but then also the goal of
+15:10
+the platforms is to keep people on them um in most cases is to sell advertising
+15:15
+is to make them sticky and addictive and keep people coming back but in your mind
+15:21
+where's the line on that between we can recognize some of the problems that
+15:27
+social media is having especially when it comes to younger people right but at the same time you do want people of
+15:33
+course using the app and enjoying it and spending time on their so in your mind where do you think that balance is
+15:40
+well there is actually quite a lot of pressure from advertisers yeah I mean the
+15:45
+our advertising in um in North America and Europe is uh you
+15:53
+know down like 50 um it's actually you know we're still
+15:59
+roughly even in most Asia actually um interestingly enough but in uh North
+16:06
+America is down like I don't know over 50 percent
+16:11
+um Europe sound about 40 percent um and um
+16:17
+you know I think if we if we simply towed the line and kept going as it was before then
+16:23
+um we would still have a lot of that Revenue um so that like actually uh freedom of
+16:29
+speech was pretty expensive yeah uh it really is cost billions of dollars it's currently
+16:35
+costing probably freedom of speech currently costing about two billion a year so this is a lot just on Twitter
+16:41
+and and lost Revenue it's oh it's right right now
+16:47
+roughly two billion dollars a year yeah um now I think that could change over time hopefully it will
+16:53
+um that uh over time we the advertisers will realize that actually Twitter is is
+16:59
+not a some sort of hate speech purveyor in fact uh I get more laughs from
+17:04
+Twitter than anything else yeah like you say like last per day I mean it's more than everything else combined from at
+17:09
+least for me um I you know I sometimes see I mean I see content I disagree with but I don't
+17:15
+find it to be sort of you know a festering sort of pile of hate you know
+17:22
+um what's your experience I love Twitter I mean I've been using Twitter since 2009. yes you know well every time I've
+17:29
+seen it through a lot of different iterations and what what I did notice myself is that for the for the first few
+17:35
+years of using Twitter no one really worried about being banned or silenced censored Shadow band all of that it
+17:41
+wasn't really a thing it really started to ramp up I want to say around 2015 maybe due to the U.S elections and you
+17:49
+started to feel the walls closing in not just personally but other people were found finding oh like oh that person got
+17:55
+banned yeah oh that person that person that person it's you know I'd start out with people more on the fringes but then it starts closing in and people start
+18:02
+getting temporary I mean I got temporarily suspended for saying okay dude once um that was my one suspension yeah I
+18:08
+said okay dude wow in response to in response to somebody and um it's cool I
+18:13
+made a song in some good great merchandise outfit in the end but um yeah I had to delete that tweet it literally just said okay dude
+18:20
+um okay so yeah people were getting banned for all these sort of things and then
+18:25
+now in the past year it's it's opened up again yeah and I think people are having
+18:30
+more fun now because they know okay I can make that edgy joke or I can say this or I can say that everybody needs
+18:37
+to be walking away at shells exactly so it's like walking eggshells just definitely going to be a buzz kill yeah
+18:42
+so yeah it's it's a I mean our general philosophy is uh uh huge close to the
+18:47
+law in any given country we can't do more than that yeah um as you mentioned uh some countries
+18:53
+um in fact most countries maybe all countries have um more restrictions on speech than the US
+18:59
+um so we don't have any choice but to uh you know obey the laws of Any Given
+19:05
+country or they'll simply cut Twitter off um so sometimes people like are under
+19:11
+laboring on the impression that we can mandate what speech is going to be in some other country and like we're not the government you know so we'll do the
+19:17
+best we can but but we can't go if we just do illegal stuff they'll
+19:22
+arrest our employees find us and then kick us out yeah so it's we'll do do the
+19:28
+best we can um and I think we're doing I'm confident at this point where we we do the least amount of censorship
+19:35
+um we're the most open we're the only uh social media company that open sources it's a recommendation algorithm everyone
+19:41
+else is still you know so just a black box you don't know what's going on in there
+19:47
+um and uh and then we're we're making it better better over time so you know
+19:53
+we're going to add um indicators so you can see on your profile page have you been search banned have you been okay visibility filtered
+20:00
+um is there is there anything that's that's affecting your account uh in a negative way
+20:05
+um so um like we're going for maximum transparency so
+20:12
+uh and I think that's what really both trust you know because it's one thing to say like oh yeah trust us but but why
+20:17
+well you can see everything we're doing you know then then you you don't need to
+20:22
+believe me you can just literally look at the algorithm you can just literally you know everything's you know
+20:28
+completely above board um and uh you know it should be possible for
+20:35
+actually uh independent third party to um recreate the recommendations that they see on Twitter using our algorithm
+20:42
+um and frankly we're still finding different layers of code that we didn't
+20:47
+know existed we literally found one um this week okay uh which was um
+20:54
+uh which uh it had like a reputation score for any given account and if that
+21:01
+account started trending uh it would be deleted from the trending list oh
+21:07
+um and uh I mean I was turned out I was one of those accounts um so the system would
+21:14
+um exclude me from any Trends that's interesting um so and it was it was just it was
+21:21
+simply based on how many um times an account had been reported
+21:26
+okay but but not not like dividing my total follower account or anything so you know if if like point oh so if you
+21:33
+just had a big following then yeah if anyone with big following is basically getting uh but getting Trend banned
+21:39
+which is crazy yeah um or anyone that says anything remotely controversial or is targeted by you know
+21:46
+Bots or activists yeah it is basically it's very easy to sort of
+21:52
+reports fam um an account um kind of DDOS an account with with a
+21:59
+with fake reports and then the system would just say oh this account's gotten lots of reports so they
+22:05
+can't be in Trend yeah were you expecting such a level of I mean of
+22:12
+course you've got massive public support and praise as well and I know you've been dealing with this your you know
+22:18
+criticism your whole career sure but um were you expecting I mean I guess number
+22:24
+one is what what level of backlash or criticism have you
+22:31
+received I mean I I see what I see but I mean from your perspective how much has
+22:36
+it been in terms of just the amount of stuff coming whether that's from mainstream Media or just from
+22:43
+individuals and even other organizations well I think it's it was really be hard
+22:48
+to avoid the criticism of me frankly it's like it's not like um I'm I'm like I'm not dying to get to get
+22:56
+pressed it's just the there's just uh my name gets a lot of clicks and the you know it's important
+23:01
+to understand that the price is primarily a click maximizing machine not a truth maximizing machine um and really
+23:07
+it's it's somewhat of a darwinian exercise if if you're not a click maximizing machine well you don't get
+23:13
+the clicks and then you don't get the revenue and then the you know the company goes under yeah so the
+23:20
+entire data structure is Max is maximized clicks not maximize truth and so that's why you'll have while you'll
+23:26
+have sort of uh Insanity headlines that are like really way over the top or
+23:31
+because often the truth is is boring and complicated uh or it's certainly more like a sort of
+23:38
+you know version of the truth that the media will without will be more salacious
+23:45
+um you know it'll be spicier than reality and and they'll it'll be the cliff notes
+23:50
+version but you know the drama I mean the media is going to
+23:55
+give you generally the dramatized Cliff Notes version of reality um
+24:01
+because if it's if they give you the full thing is too complicated and it's gonna bore people
+24:06
+and um and if if they really give give it too much balance it really doesn't
+24:12
+have enough controversy to get the click this is the incentive structure and so one that you know whatever your incent
+24:17
+will happen um so anyways that's the situation with with the media
+24:23
+um and if the Legacy Media have had to deal with the shrinking advertising plan for a long time because uh Google and
+24:29
+Facebook and whatnot have taken so much of the of the advertising Revenue um so they're it's been
+24:36
+they're happy about they're happy about that well it's been a struggle for the traditional media yeah so that that
+24:42
+they've been forced to be click maximizing machines or die um so
+24:48
+how do you think how do you think that's going to play out over time I mean I think a lot of people recognize the problem with the sort of Click bait
+24:55
+model like it's it's really a broken incentive structure that's leading to
+25:01
+increased manipulation um you know ridiculous headlines I mean
+25:06
+yeah we see a lot it's why it can be difficult to see the line between satire and reality now because it's just yeah
+25:13
+it's gotten so goofy that you can't tell whether something is from the best recipe or the onion like many times or
+25:20
+it's getting totally crazy yeah I mean uh there's been stuff about you know Fitness being linked to Fascism and
+25:27
+white supremacy and you know I mean bodybuilding is a fitness really
+25:33
+I wasn't aware that uh yeah I mean people should obviously be in good shape
+25:39
+it's just a matter of health and feeling good and I mean I should work out I I don't really work out much
+25:45
+um but uh I agree I think I agree with the idea of working out and I agree with the idea of fitness and and it's just
+25:51
+obviously a fundamental a healthy way to live I mean come on I'm ripping a t-shirt right now I don't know if you
+25:57
+can read that this is the get jacksonated t-shirt Okay cool so nice that's the movement I'm trying to get
+26:02
+everyone in the gym get jacks get get jacked get vaccinated our podcast today is sponsored by the wellness company as
+26:09
+you guys know I'm always looking for the best health and wellness products to give me an edge but if I eliminate
+26:14
+businesses that have gone woke or forced vax mandates on their employees there are fewer and fewer companies that I
+26:20
+feel comfortable supporting that's where the wellness company comes in the wellness company was formed by a team of
+26:25
+doctors who lost their jobs for speaking up about mandates and pushing back against lockdowns they offer live
+26:31
+telemedicine and a wide range of custom formulated supplements to help keep you at your best my favorite wellness
+26:36
+company product is their Spike support formula it's the only product I've seen that contains ingredients research to
+26:42
+block and dissolve coveted Spike proteins in the bloodstream taking daily Spike support can bring better mental
+26:47
+Clarity and increased energy levels whether you're vaxxed or unvaxed it doesn't discriminate and neither does
+26:53
+the wellness company get back to that pre-covered feeling go to twc.health forward slash zubi and use
+26:59
+code zubi that's Zuby to save 15 at checkout that's TWC DOT health forward
+27:06
+slash zubi and use the code Zubia checkout something I wanted to ask you
+27:11
+is this is a big question this is a big question but with all the stuff that you do
+27:17
+what what motivates you what's the Big Driver
+27:22
+well internally I'm what I'm trying to do is uh take the threat of actions that maximize
+27:29
+the probability that the future will be good uh for civilization that we will expand the scale of scope of scope and
+27:35
+scale of Consciousness uh so that we're better able to understand the nature of the universe uh so I would call my I'd
+27:42
+say I have like a philosophy of curiosity um that's maybe best articulated by
+27:48
+Douglas Adams in The Hitchhiker's Guide to the Galaxy okay um so we're
+27:53
+you know that's really famously has like the it was a big computer comes up with the answer 42 but the really hard part is
+28:00
+what question to ask um so I think it's like we want to
+28:06
+try to understand more about the nature of the universe I stand like
+28:11
+what does it all mean where where do we come from where are we going where does this all end up is what's real are there
+28:16
+aliens I mean well they seem to be confirming some stuff quite recently I mean I I have yet to see actually any
+28:23
+actual evidence of aliens so and I'm really deep in space yeah so
+28:31
+um yeah uh I I I mean if if there is some
+28:36
+actual evidence of aliens or an actual UFO I'll be there in a second you know I mean obviously you know it's like we're
+28:43
+talking about bodies here or like is it a UFO is there advanced technology I mean that would be
+28:48
+very very interesting um and hopefully they're friendly uh
+28:54
+so I managed to get all the way here from another star system I mean the technology is going to be far in excess I mean we're we'll be primitive compared
+29:01
+to them you know so um but I also think like if if there aren't
+29:06
+a aliens or that that's actually perhaps even a bigger concern because
+29:12
+um you know if they actually aren't aliens in our galaxy or anywhere near us then effectively uh this Consciousness
+29:20
+this Consciousness on planet Earth is um the light of Consciousness is like
+29:25
+it's like a tiny candle in a vast Darkness um and a fragile candle and we should
+29:31
+just do everything we can to make sure it does not go out what do you think is the
+29:36
+greatest threat to humanity well
+29:43
+I think um digital super intelligence uh is a real real concern I think that
+29:50
+um digital super intelligence or artificial general intelligence as it's called sometimes or mostly is
+29:58
+uh more likely to be good than bad but it's just that the
+30:03
+the probability of a bad outcome is not zero and I think I think probably the more we
+30:09
+worry about a bad outcome the less likely it is to occur okay um so so I think we should be con you
+30:16
+know just say like let's try to steer the um AI in a good direction what do you
+30:21
+think that potentially bad outcome would be I mean I've got ideas in my head I've seen some Sci-Fi movies but I mean the
+30:28
+the obviously the extreme case would be at wife's out Humanity you know that would be it's not a zero percent chance
+30:34
+uh hopefully it's a low chance but it's not zero or wife doesn't maybe just
+30:39
+maybe it doesn't wipes a whole lot but you know it's kind of like the you know
+30:45
+or the chimps and the gorillas they're they're in small sections of Earth but they're yeah and we don't like it's not
+30:51
+like we're like going and hunting them down or anything but but they're they're contained in small areas of us and so
+30:58
+they don't um we don't prioritize them we don't prioritize them and I'm not sure that like they're certainly not like
+31:04
+expanding yeah you know they got the there uh
+31:10
+so they think that could be a also not not a great outcome where it's like it doesn't kill all the humans just keeps
+31:17
+enough around just for the hell of a pharmacist yeah or like just to see what happens like study
+31:23
+us like who isn't the most whatever you know just the people would like to study us out of curiosity potentially
+31:29
+um that would still not be a great outcome for Humanity you know um I think we want to like I said expand
+31:35
+the scope and scale of Consciousness uh yeah both biological and digital and
+31:41
+ultimately go out we've become a multi-final species become an Interstellar species because
+31:47
+these other star systems and and maybe we do meet uh aliens
+31:53
+um or maybe we visit these various star systems and we see well here's an alien civilization that lasted 10 million
+31:58
+years um and did incredible things and then ultimately died out potentially
+32:05
+um I mean I think we we could find there's a whole bunch that there's a whole bunch of
+32:10
+of uh Dead one planet civilizations never got Beyond The Home Planet
+32:15
+um so um I mean Judith's expansion of the sun earth arguably may become and have
+32:23
+uninhabitable as soon as half a billion years from now which is a long time but it's been around for four
+32:30
+and a half billion so that would only be a 10 increase in um the lifespan of both
+32:36
+and so and if you look at if you date a civilization from perhaps the first writing that's about 5 000 years old
+32:43
+and that's uh 5500 years old though so uh kind of archaic preak uniform in Samaria
+32:50
+so that's sort of like that's a very short period of time so they say like Earth's been around for one and a half
+32:57
+billion years writing is five thousand years old so um if your date civilization from the
+33:04
+first writing which is probably a reasonable number then civilizations only been around for one
+33:11
+millionth of Earth's existence not long ago not long at all
+33:17
+I thought we're a flash in the pan basically so um
+33:23
+anyway so I think we we want to do everything we can to um obviously make life on Earth great
+33:29
+and uh make picture of oath of solid and
+33:35
+um that Civilization is on on a sound footing you know keep making with better
+33:41
+um but then expand to Mars and ultimately you know to to the rest of the solar system and uh eventually to
+33:48
+other star systems um be a space foreign civilization like you know in the good Sci-Fi movies and
+33:55
+yeah shows it's like you know Star Trek and whatnot let's you know go out there and
+34:01
+see there's civilizations who have never let me read pretty cool if we meet Aliens
+34:06
+hopefully they're friendly you know um and just gain a vastly greater
+34:13
+understanding of the Universe I think it might depend on which humans they meet first whether or not yeah I think we
+34:18
+need to be quite cautious about uh who they who they meet first yeah because they might form some quick judgments
+34:23
+based on that yeah like we just want to have the opportunity right now we don't
+34:29
+really know how to go anywhere close to the speed of light let alone beyond the speed of light so it will take us a long
+34:34
+time to get to nearest star systems I mean optimistically with known physics
+34:40
+we could get to the nearest star system in about 40 or 50 years okay it'll be very
+34:46
+difficult to even get make it that short it's a long time to be traveling through deep space
+34:52
+so anyway I think that's the future that
+34:57
+would be that's that's exciting and there needs to be things that are exciting and inspiring where you wake up in the morning and it's not just about
+35:03
+solving one problem or another or some sort of international struggle with between the humans but but that there
+35:10
+are inspiring goals collectively as Humanity where we're really excited about about that and I think
+35:17
+being a space barring civilization is something that I think a lot of people would find very exciting and and
+35:25
+inspiring and um you know even if they don't go with themselves they can just you know kind
+35:31
+of live vicariously through those that went I mean I think you know with the Apollo Landings it was you know they
+35:37
+were literally said For All Mankind you know um and um I think everyone was proud to be a
+35:43
+human at that point it's like we actually went to the we went to a damn Moon that's such an important sentence
+35:49
+you just said there actually wow you know yeah you just said something there that that's actually really important you said people being proud to be human
+35:55
+and I think actually we increasingly live in a time where a big part of the problem is that that's not the case yeah
+36:03
+um I think oftentimes people view it with a sort of nationalistic lens about people being proud to be American they're proud to be British or whatever
+36:09
+and those people recognize that that sort of patriotism seems to be declining but I actually think yeah as a species
+36:15
+as a whole perhaps we're not feeling as optimistic about our own species as we
+36:21
+should be and I think that there's been a lot of fear a lot of people living in constant fear perhaps people feeling
+36:27
+like the future is going to be worse than the present and even worse than the past in some ways and yeah I think
+36:35
+that's causing a lot of psychological problems and having really impact on society and culture because if you don't
+36:41
+think the future is going to be better right than the present then you lose hope totally and it's important to have
+36:47
+that Spirit of Adventure yeah and I think also if people lose hope in the future if they have uh you know if
+36:53
+there's if they're pessimistic about the future then they're also unlikely to have kids in which case you get the civilizational decline
+36:59
+um I mean we just have you know for most of us demographic collapse like the
+37:04
+birth rates are just crazy low yeah um so uh we're certainly I think not
+37:11
+expanding and we're really gonna contract pretty significantly um I mean Japan last year had twice as
+37:18
+many deaths as both that's crazy yeah so I mean every every single Western
+37:24
+Country yeah has a below replacement birth rate yeah and just generally the
+37:29
+trend is as soon as you get sort of urbanization frankly unfortunately education tends to urbanization
+37:37
+education reduce birth rate yeah so and that's that Trend will ultimately
+37:42
+happen I think throughout the world so um so that's why I'm you know encouraging people like let's at least
+37:48
+like maintain our numbers you know like we don't actually expand in a crazy way but it's at least maintaining numbers
+37:54
+maybe a little bit of growth um so why do you think so many people
+37:59
+think the opposite I mean you hear a lot of talk about over I think the whole overpopulation yeah I think I think it's
+38:07
+a massive psyop and yeah yeah that's not true yeah but why do so many uh
+38:12
+otherwise smart people buy buy into that well I think to some degree this is a
+38:18
+side effect of the environmental movement okay you know so uh
+38:24
+you know the sort of environmental movement I think started off well where it was um saying look we need to move to
+38:31
+sustainable energy uh which is is correct in the long term we do need to move to sustainable energy
+38:37
+it's total logical if we don't move to sustainable energy then it's unsustainable and we'll run out and
+38:42
+civilization we'll grind to a halt so we do need to have sustainable energy over time uh there's obviously a concern with
+38:48
+with climate change um although I like I'm of the opinion that while there is a long-term concern for
+38:54
+climate change there there is not really much of a short-term concern like it's big things it's a very slow process
+39:02
+um and I think we don't we don't need to sort of be um stopping people from farming or
+39:09
+having cows or or whatever like this is crazy this is that then and that's like small potatoes are from an environmental
+39:15
+standpoint the the really the the the the the fundamental thing from environmental standpoint is if you've
+39:21
+got billions of tons of um fossil fuels essentially uh you know
+39:29
+Carbon in liquid and gaseous form or solid form in the case of coal that's buried deep underground and you move it
+39:35
+from deep underground into the into the atmosphere and the oceans you obviously change the chemistry of the of the
+39:40
+oceans and atmosphere and if you keep doing that for a long time we'll eventually change the chemistry enough
+39:46
+that they will indeed be climate change um but Earth is very big and human and
+39:52
+humans are small I mean uh Tim Urban I calculated that you could fit all the
+39:58
+humans on Earth on one floor in the city of New York on one floor on one floor yes and you've kind of wedged in there
+40:06
+but yeah you know but uh oh okay so if you just kind of spread the video shoulder shoulder yeah whatever it's a
+40:13
+like basically across like the cross-sectional area of humans is small like we think that there are a lot of
+40:19
+people but and that's if you live in like London or New York you'll be like oh wow there's a lot of people but this
+40:24
+is that's a very rare situation most of the time you know if you're if you're flying
+40:29
+um you know across the us or internationally it's empty yeah I mean
+40:35
+you're far from holiday to New York most of the time there's like you don't see anyone no yeah so
+40:43
+um yeah so like if if you're if you're trying to drop a ball on somebody's head
+40:49
+while flying from LA to New York you'd have a real hard time you know you're gonna miss yeah it's just not a
+40:55
+you know humans are not densely packed they're
+41:01
+um so yeah um plenty of room for more people that's
+41:07
+basically the situation so so anyway so I think the environmental movement kind of got somewhat overzealous and kind of
+41:13
+was and like in the limit of environmentalism you sought to conclude that humanity is a plague on on Earth
+41:20
+that humanity is actually the problem it's a big one yeah and um that's like obviously taking the
+41:26
+environmental movement just too far but there are literally people who believe this that like extinctionists yes
+41:32
+um New York Times as some months ago had an article um front page article with with some guy
+41:38
+who and his quote was there are eight billion on people on Earth and it would be better if there were none
+41:44
+that's dark yeah I'm like hey buddy you can saw it with yourself yeah you know if you really want to you know make a
+41:51
+difference but uh you know take your own advice here um but it but that's like a crazy
+41:57
+Viewpoint you know that's like literally saying this genocide Humanity like what
+42:03
+how can you say that with a straight face that's when it's like total Madness um
+42:08
+but but people like like I said in the limit of environment of environmentalism it sort of becomes like an ingrown
+42:14
+toenail you know it's sort of like yeah Twitter is fine but not if it's like warped in England it's it's just gone
+42:19
+too far um humanity is not a blatant on the face of
+42:24
+the Earth and frankly even with climate change uh life on Earth will still continue
+42:30
+um I mean the calamities that Earth has suffered where life continued afterwards like gigantic meteorite impacts super
+42:36
+volcanoes the continents drifting all over the place uh there have been times in Earth's past where it's been like a
+42:42
+total snowball or it's been absolutely sweltering hot and um you know life you
+42:48
+know we had many Extinction events but there were uh but life continued um
+42:54
+but um you know like we didn't we don't see the dinosaurs now but they've had a good run for whatever 100 plus million
+43:02
+years um so uh so even if there's catastrophic
+43:07
+climate change on Earth life continues um it just may not be your life as we know it it'll it may not be humans it'd
+43:13
+be something else um so what we're talking about with climate change is not a threat to a life on
+43:19
+Earth but really maybe a threat to human humans or a dislocation of humans if there's low-lying countries that um you
+43:27
+know the water level rises and other underwater type thing so
+43:32
+um so I mean I think one just needs to strike the right balance by saying like look over time we need to move to a
+43:38
+sustainable energy economy and we we can't just keep taking billions of tons
+43:43
+of coffin from deep underground and putting it in the atmosphere and expect nothing will happen forever yeah um
+43:50
+but we also don't need to be alarmist about it and super negative and massively disrupt people's Lifestyles I
+43:57
+mean I think people can continue to live a normal life yes and they shouldn't be guilty about being human or
+44:04
+sort of frankly having a stake it's fine yeah it all something that strikes me
+44:10
+with that agenda as well and people who push it is it also seems like Western countries climbing the ladder and then
+44:17
+pulling the ladder up after them right so when you have large developing
+44:22
+nations somewhere somewhere like India lots of parts of Africa and so on and it's like okay
+44:27
+the Western Nations have gone through this whole process to even get to a stage where you can afford to care about
+44:34
+such things you've got other nations that are developing and they're trying to get up to the level of prosperity
+44:40
+that say the USA has right now and you know you want them to care about the environment but it's like people are
+44:46
+still poor people are not going to care about the environment until they've got their basic needs met so there's a part
+44:51
+of it where it's this um you know it's it's this sort of belief system that I I think is
+44:58
+very what's what's the right term it's almost like uh to use a Rob Henderson term it's like a luxury belief right you
+45:05
+know it's like okay it's all good for you to view things that way but if you think about the average person yeah in
+45:11
+many parts of the you know developing World they can't afford to be thinking
+45:16
+this way they still need to get up to at least the basic level that our countries are in
+45:21
+yeah I I mean I agree with that um I mean I agree with what you just said
+45:27
+but I I also think that the cost of sustainable energy has been drop it
+45:32
+dropping tremendously and you're seeing um a lot more uh wind and solar
+45:38
+um and uh you know pair that with uh the battery and you've got uh you know
+45:44
+continuous power for wind wind and solar uh that's actually very competitive so
+45:50
+cost competitive um and um actually one of the one of the nice things about say solar battery is
+45:57
+you you don't need to run high power lines all over the place and have some you know localized uh solar battery
+46:02
+situation on your house or Factory welding or it's you can kind of
+46:09
+decentralize the power generation and and I think that's actually better for people to have decentralized power
+46:15
+generation um and uh you know also decentralized Communications
+46:21
+um like a lot of places they skipped all the sort of phone landline stuff and went to cell phones yes in fact a lot of
+46:27
+places um in the world have way better cell connectivity than you know Silicon Valley which is bizarre yeah
+46:34
+um you know so yeah when it comes to the idea of
+46:41
+underpopulation what is your biggest concern about that
+46:46
+if there are not you've said many times publicly that we need more people we
+46:51
+need more human beings yeah what what would happen if you know this is this is
+46:56
+not my perspective but for the people who are there who do think you know who do have this sort of malthusian world view and they think
+47:03
+that there's too many people there's enough resources he's been wrong for a very long time but you know kind of like
+47:09
+still comes back communism it won't go exactly there we go again so
+47:15
+what what's the greatest fear there if people are not reproducing as they have
+47:21
+been for most of human history what's the what's the greatest concern there well I think it's like what we risk is
+47:26
+civilizational collapse yeah you know uh so and and and somewhat of a depressing
+47:33
+civilizational collapse if the birth rate keeps dropping every year and uh population just keeps going into the
+47:38
+sort of like negative death spiral literally um then uh
+47:44
+it won't die with a bang it'll die with a with a whimper in adult diapers I mean that's a that's a bleak end to
+47:50
+civilization so um you know I keep looking at the growth
+47:58
+rate numbers which is just like available online you know it's a lot like it's basic facts
+48:04
+um and uh hoping that both rates will turn around um and that every year it gets worse
+48:10
+yeah what do you think could practically be done to to help with that because a big factor in this is you know I talk to
+48:18
+a lot of a lot of young young men and young women um you know I'm in my in my own position as well yeah so yeah I plan to I I will
+48:27
+I will yeah um but due to you know from everything from social and cultural factors economic factors Financial
+48:33
+factors a lot of young men and women say the average 20 year old or even 25 year old they find the whole idea of having
+48:43
+children bringing new life into the world very scary because they feel like hey you know I don't have the money I
+48:49
+can't afford it I can't even buy a house I'm in debt I'm struggling to keep my head above water so on so what do you
+48:55
+think could practically be done in USA Canada UK Europe all these developed
+49:02
+countries South Korea Japan all these places where the you know population is
+49:07
+declining birth rates are declining I I think it's one thing to to recognize
+49:13
+the issue but what do you think can be done on a sort of practical
+49:18
+reasonable level well I I do think that like some of the
+49:23
+like the incentive structure in in a lot of countries is uh
+49:29
+against having kids yes um so um like it's a sort of it is it is
+49:36
+expensive to have kids especially if you want to sort of give the best education and
+49:42
+all that sort of stuff so it's a it is
+49:48
+you know uh financially difficult
+49:54
+um I mean if I say that but then ironically the higher someone's income
+50:00
+fewer kids yeah yeah so it doesn't totally make sense
+50:06
+um that you have an inverse correlation with income and and kids um where so so I guess people may may
+50:15
+sort of think that but it's not actually real you know I think that the fears
+50:20
+there's these unjustified fears of like well if I have a kid things are going to be financially terrible at it's
+50:26
+actually not true you know it's um
+50:35
+I don't know that I have a good answer to this because I'm trying to you know figure it out um yeah I mean I know that
+50:41
+for a lot of young people and some of this is media and cultural programming but a lot of people have been pushed
+50:49
+over the decades the idea that having children ruins your life right that it
+50:54
+it takes away your freedom and your autonomy and you can't have fun and do all this cool stuff and you've got to
+51:00
+just you know I think the idea of Parenthood I think the solution is I don't and I don't know exactly how to do
+51:06
+this but I think the idea of Parenthood and family needs to be made cool yeah it does it needs to be made cool again yeah
+51:13
+absolutely and I think people just understand like nothing will make you happier than having kids
+51:18
+um it will absolutely improve your happiness level and have kids um and I mean we're kind of like
+51:25
+programmed for that you know it's like if we would just say like like in the old days where it's like you know
+51:30
+people's sort of straw food was like short supply they had plague like you
+51:36
+know it's like trying to just start trying to survive from one year to the next in the middle days was like a big deal
+51:42
+um and so you know now now we have now that's kind
+51:47
+of more or less normal that you would survive from one year to the next um so
+51:53
+you know we're going to become I guess a complacent but but but basically if if it wasn't
+51:59
+rewarding instinctively to have kids we wouldn't have them yes you know
+52:04
+um I mean almost none of the world was literate
+52:10
+until not that long ago so it's not like you're like oh let me read a bunch of books uh you you kind of have to
+52:15
+instinctively love having kids otherwise you can't read about it it's like it's
+52:21
+going to read books yeah so um so I think that's important to
+52:26
+understand you'll you will absolutely be happier if you have kids um absolutely we're literally
+52:33
+we've evolved to have that as All Creatures have I mean you could take say
+52:38
+like I don't know like a you know like I don't know an alley cat
+52:44
+or something like or like like a or Bobcat like some like wild creature that would normally be quite
+52:50
+Fierce and unfriendly um and like kill read anything it came across but the moment it has
+52:58
+um you know Cubs or puppies or whatever it or kittens uh it becomes a you know
+53:04
+that becomes loving mom you know so like like the cat that was really mean is
+53:10
+like taking care of its little kittens it's Instinct it's like you know it's genetic programming so
+53:17
+people should really expect that if they have kids they will improve their quality of life not make it worse if you
+53:24
+haven't heard already it's smooth sack summer that's right this is the summer to keep your man Parts cool while still
+53:30
+looking hot with manscapes and you can jump right in and get 20 off plus free shipping with the code zubi at
+53:36
+manscaped.com the leaders in below the waist grooming are making sure we all have a ball this summer by giving us
+53:42
+everything we need to stay fresh downstairs the manscaped performance package 4.0 has everything you need to
+53:49
+prepare that summer bod their lawnmower 4.0 trimmer features a Cutting Edge ceramic blade to reduce grooming
+53:55
+accidents thanks to their Advanced Skin safe technology it's even waterproof so you can groom yourself in the shower if
+54:02
+that's how you roll the package also includes their weed whacker ear and nose hair trimmer crop preserver ball
+54:07
+deodorant manscapes boxers and the shed travel bag get 20 off plus free shipping
+54:13
+with the code zubi at manscapes.com that's 20 off plus free shipping with
+54:18
+the code zubi Zuby manscaped.com it's smooth sack summer boys get on board or
+54:24
+get left behind you've got a lot of kids yeah I'm trying to say a good example awesome yeah how how has having kids
+54:33
+made your made your life better how does it how does it make you happier and how does it motivate and drive the things
+54:38
+that you're doing well I think I mean I don't know it's
+54:44
+like I think it's normal to love your kids you know it's just it's just kind of an automatic thing and they've got this little creature that's
+54:49
+depending on you to take care of it and it's very wanting to do so I think inherently so
+54:57
+um I mean they're a lot of fun they're but I don't know you love them they love you
+55:03
+um do you find do you find being a father is a driver is that a particular
+55:08
+driver and motivator for the way you think and the things you're trying to the things that you're not
+55:14
+trying to do the things you are doing I think it does motivate me to you know want to make sure that the world is the
+55:20
+future is going to be good for for my kids you know and um and um
+55:26
+sometimes people might say like well you know uh so sometimes I'm complimented and said
+55:33
+and it will say like well it's very magnanimous magnanimous of you or altruistic of you to care about
+55:39
+civilization but I think actually like even if somebody's very selfish uh you
+55:44
+should still care about civilization because we cannot live in the absence of civilization
+55:49
+um you could live alone we cannot you know if you want to know what being alone and without civilization is just
+55:55
+look at like naked and afraid you know they don't want to it's it's not we all
+56:01
+like actually hanging out with other humans we all actually we all actually like each other more than we think
+56:09
+um in reality um one of my sons Saxon who's sort of
+56:14
+autistic uh but he's kind of awesome he's like an article of wisdom um you know he for a long time he was
+56:22
+rare I'd like to try to have like a family dinner at a restaurant once a week you know just go out somewhere and
+56:28
+um and Saxon for a long time was really didn't understand why we're doing this um he's like why are we going out
+56:34
+and um and then finally he he had an epiphany and said oh the reason people
+56:39
+go to restaurants is to hang out with strangers and I'm like yeah that's actually true
+56:46
+yeah because you can get the same restaurant food delivered you can call your friends over yeah but you know what
+56:51
+you can't get unless you go to a restaurant is hanging out with strangers so we actually like hanging out with friends really discovers nightclubs yeah
+56:58
+exactly you know a darker room yeah you can
+57:04
+barely see anyone it's the music's not but it's still kind of fun and you're just with a bunch of strangers basically
+57:09
+we're just humans actually do love other humans more than they may think they do
+57:15
+um and you think you look at like say what what's like one of the worst punishments in prison is solitary
+57:21
+confinement and it's not like you know if you're not intelligent confinement you know the rest of the prison is maybe
+57:28
+not like the most awesome group to hang out with but it's way better than being alone you're probably safer in there but yeah you don't want to be there so
+57:36
+humans love other humans more than they realize yeah I've listened to a lot a lot of your interviews and a lot of
+57:42
+stuff is about the sort of here and now but I'm curious to know a little bit more about
+57:48
+your your journey people see all the things that you're doing now with Tesla
+57:53
+and putting rockets in space and buying Twitter and you know restoring free speech trying to make Humanity an
+57:59
+interplanetary species but tell me more I was in um I went to South Africa for the first time just a few months ago so
+58:06
+I was in uh I went to Johannesburg I went to I went to Cape Town I know that that's where that's where you grew up
+58:13
+and you spend your uh mostly in Johannesburg Johannesburg Victoria and um for a couple years in Durban okay I
+58:19
+visited Cape Town a few times uh but didn't live there what was can you tell me can you tell me
+58:25
+a little bit more about your the the pre super multiple CEO
+58:31
+Elon Musk um you know yeah I had kind of like a I
+58:36
+wouldn't say um I really mostly sat on a unhappy childhood actually
+58:43
+um it would not it was not a that wasn't 100 bad but it was pretty rough and uh
+58:49
+thank you I lived in South Africa Plus 17. and um
+58:54
+and then I was able to get Canadians Canadian citizenship through my mom because she uh was born in Canada okay
+59:01
+um and so I was like well um you know I left when I was 17. um
+59:06
+so you know I think my views of South Africa are somewhat scarred by kind of a
+59:12
+negative childhood experience like literally scars yeah I have literally
+59:17
+quite a few scarves um so um
+59:24
+it was it was so soft so there's certainly plenty of good things about the country but uh
+59:30
+in my particular experience was not that great so I hear that yeah I
+59:36
+know you um one of your first projects was a video game called blastar yeah
+59:41
+getting that right yeah tell us about blastar well I always loved video games when I
+59:46
+was kid on computers um so like the video games back then were extremely primitive you know um
+59:54
+uh so I guess when I was about I don't know 10
+1:00:00
+or 10 or so I I saw like the first computer I mean I read a lot of books and then I saw that
+1:00:06
+you could actually have a computer which is I thought wow this is the best thing ever
+1:00:12
+um it was a Commodore vic-20 I think it had like 8K of Ram or something okay yeah
+1:00:18
+it's crazy um it was best the other was best thing ever and so I and I got a book on
+1:00:24
+programming told myself how to write write computer programs um and then
+1:00:31
+gradually progress from the Commodore 20 to the um
+1:00:39
+uh some class Spectrum which was actually a pretty brilliant little computer that
+1:00:45
+was a 48k a few of those felt very Advanced after like 20.
+1:00:51
+um and then yeah so I was just kind of programming and
+1:00:57
+you couldn't really get very many games so I was like well program games playing myself so
+1:01:04
+but it is it is interesting that the the Escape simple game that I wrote when
+1:01:09
+I was a kid and I remember when I was like 11 or something um and uh edit all the the graphics and the
+1:01:16
+music and everything primitive Graphics promoted music but so um and um
+1:01:24
+yeah I was actually yeah I sold to get game for money which
+1:01:30
+was not much money it was a lot for a little kid um
+1:01:35
+and I wrote a bunch of other games too uh when I was a kid and then actually
+1:01:40
+had a I worked briefly at it software company a games company called Rocket Science in
+1:01:47
+Palo Alto which had nothing to do with with rockets it was just a games company
+1:01:53
+um and then I know I wrote software for almost 20 years
+1:01:58
+from like ages roughly 10 to 30. um any I heard you used to uh
+1:02:06
+play Quake a lot yeah and got pretty good pretty darn good at that yeah yeah so
+1:02:11
+uh yeah um played a lot of weight [Music]
+1:02:16
+um and had uh one of the best teams in the country
+1:02:22
+actually um and I think I think it was the first I think the first paid Esports
+1:02:29
+thing in the US or certainly one of the first and
+1:02:34
+um we ended up coming second in that we were actually coming first but then
+1:02:40
+the best I was the second best post on the team the best person on the team his computer crashed halfway through the
+1:02:46
+game so we ended up coming second but um I think like we made a few thousand
+1:02:51
+dollars or something so it was pretty good at Quake back in the day yeah and I heard you did you want to you
+1:02:57
+wanted to get into or at least you thought about getting into programming video games
+1:03:03
+but then is that is that fair to say I did actually work on some fairly Advanced video games okay let this company rocket
+1:03:10
+science okay okay um but uh that's um
+1:03:15
+I like video games but I wanted to sort of have a I don't know as big of impact on the
+1:03:22
+world as possible like I said like trade try to take the set of actions that I think most likely
+1:03:27
+to result in a good future be as useful as possible so
+1:03:34
+um yeah so I mean I was you know for a while there
+1:03:40
+was was pursuing a path of developing technology for electric vehicles
+1:03:46
+um that's what I was going to be doing my Graduate Studies at Stanford on okay it's sort of advanced energy storage
+1:03:52
+technology for electric vehicles and are putting putting that on hold to start an
+1:03:58
+Internet company because I figured like the technology of electric vehicles would advance and I could come back to
+1:04:03
+it which I did later but the internet was like it was the
+1:04:09
+which was going super over at the time if this is in 95. so
+1:04:14
+um so I wanted to be part of building the internet basically what was your first impression of the internet
+1:04:19
+because I think for young people now it was like the internet it feels like the
+1:04:25
+internet's always been there yeah um because I think people forget how you breathe or something yeah I think people forget that I mean even within my
+1:04:32
+lifetime yeah I remember when nobody had email addresses I remember when people were terrified to put their credit card
+1:04:38
+details online when people thought selling books online was a dumb idea and this Amazon thing was never going to
+1:04:43
+work like that's all within my own Lifetime right um so stuff has changed very very quickly but what was your first
+1:04:50
+impression of the internet and how did you so quickly realize its potential
+1:04:55
+well you know as we're talking about I you know into computers from when I was even
+1:05:02
+before I even had a computer I was reading about reading about them so
+1:05:07
+um so I had some like very early primitive computers and then um
+1:05:13
+had a computer with a modem so like a balanced like bulletin board or in these
+1:05:18
+various sort of very early pre-internet things um and uh
+1:05:24
+and then like like the you know you sort of started to have the internet
+1:05:31
+go beyond just universities and like a handful of universities and government institutions
+1:05:38
+um to be kind of commercialized um and and it was just growing exponentially so
+1:05:45
+it I mean the way I sort of visualized sort of it was like
+1:05:50
+the humanity was like acquiring a nervous system so previously information had to flow from one person to another
+1:05:56
+so either had to meet in person you had to call them on a phone or uh you had to somebody had to
+1:06:04
+carry a letter by hand to someone else um and that was the way that information flowed
+1:06:10
+um and if you wanted to have access to a book you'd have to go to a library um and the book you know most libraries
+1:06:16
+would only have a very small subset of books that exist um so your access to information was very
+1:06:23
+limited um and very slow and but as soon as you have the internet where everyone's
+1:06:29
+connected now you could be in very remote location and if you've got access to the internet you have access to all
+1:06:35
+of Humanity's information everything you have access to the entire kind of
+1:06:41
+collective group-wide um so it's like moving from
+1:06:47
+like we were communicating almost by osmosis like just point like literally direct contact
+1:06:54
+to and very limited amount of information to now anyone has access to
+1:06:59
+all of the world's information um I mean right I mean the internet you
+1:07:04
+can learn anything on the internet yeah okay yeah I mean all like the MIT lecturers are on YouTube
+1:07:11
+um you can become an expert in anything for free if you've got an internet connection yes and I think people
+1:07:17
+haven't realized that yet yeah I mean I guess if you ask them they know it's true but they they don't quite
+1:07:22
+appreciate that that the the the equality of access to information is
+1:07:29
+so radically better today than it was in the past it's it's no comparison
+1:07:36
+um you know I mean for a long time like books were very rare and like people would have a small collection of books
+1:07:42
+um before the Gutenberg Press I'd have to literally copy out the book by hand so having a book was like a like a relic
+1:07:49
+and it was like it's a hardly anyone had books hardly anyone could read and even those that
+1:07:55
+had books didn't have very many of them um then you had
+1:08:00
+a good repressed thing and now you can make copies of books you know but still
+1:08:05
+paper still limited still not that many um so we should be actually
+1:08:14
+quite excited about the fact that there is this massive leveling of opportunity of
+1:08:19
+access to information because the those that did have books in the old days would be it would be like some the Lord
+1:08:25
+of some in a manner or something would have their their Library
+1:08:31
+but even that would be a pretty small Library um and and most people had notebooks so
+1:08:37
+now you have access to vastly more information than you know the king of England did yes
+1:08:44
+like in it even 100 years ago like even say 20 for 40 years ago like the average
+1:08:51
+person right now has access to more information than the most powerful person on Earth did in say 1980.
+1:08:59
+or even 1990 frankly oh I wish it felt like it well the sort of thing is that like it's
+1:09:05
+in human nature to that our expectations recalibrate so
+1:09:13
+uh because you know the the difference between
+1:09:21
+uh almost any part of the world really elicits
+1:09:26
+actively at War versus like having to survive by
+1:09:32
+yourself or with a small group living off the land it's it's like our quality of life basically
+1:09:40
+uh is so dramatically better than the past you have to say well why aren't we happy
+1:09:46
+it's because or or sometimes why a lot of people aren't happy is that they we just keep recalibrating we keep setting
+1:09:53
+our expectations higher we keep moving the goal post yeah so so it's
+1:09:59
+you know um keep moving the goal post recap keep recalibrating then
+1:10:05
+you just naturally will always be wanting things to be better than than in the past it's
+1:10:11
+it's kind of like like our you know it's the same goes like happiness is
+1:10:17
+reality my minus expectations but if our expectations keep Rising then reality has to keep Rising too
+1:10:24
+um and uh yeah so
+1:10:32
+no overall I think people should be more optimistic about the future and I think you should recognize that
+1:10:37
+um alive today is vastly better than it was uh in times past
+1:10:43
+[Music] um that um actually violence on average is much lower than it used to be oh yeah
+1:10:49
+war is rare I mean yeah before in Ukraine but it'd just be like everywhere you know um even just I mean just look
+1:10:57
+at the past Century yeah I mean yeah last century was insane yeah
+1:11:02
+um so um you understand it's not rare for them
+1:11:08
+to be War yeah so yeah I think people I think people lack perspective and
+1:11:13
+gratitude yeah with all those things that you're saying and I think that if people had more awareness of both
+1:11:19
+history and how far and how quickly human beings have advanced and how much
+1:11:25
+things have gotten better even if you just take something obvious things poverty yeah you know childhood mortality women dying in childbirth
+1:11:33
+access to education that's a huge issue I mean literacy yeah people were used to just be getting taken out left right and
+1:11:39
+Center you know it was very normal for you know a quarter or a third of uh children to to die before they reach
+1:11:46
+age five it was very normal for a young men to be going off to war and being brutalized and killed and all sorts of
+1:11:52
+horrible ways yeah in fact like so Napoleon um said like all every French woman has
+1:11:58
+to have six kids two will die in charge two two will drive children two will die in war and then two more to continue
+1:12:05
+friends wow yeah yeah and it wasn't that far wrong yeah it's a
+1:12:11
+little Napoleonic Wars and stuff yeah I just think that because of that because of the when I think with the lack of
+1:12:16
+perspective comes a lack of gratitude and then no matter how comfortable
+1:12:22
+someone's life is no matter how good things they are even if they're they're in good health no one around them is sick or dying whatever and they're still
+1:12:29
+just feeling down and sad and I think if they could just reframe that in their
+1:12:35
+minds then I think people would be a lot happier yeah absolutely I really encourage
+1:12:40
+people to be um students of History yeah I mean there's some really good podcasts out there that
+1:12:45
+are very compelling um uh you know podcasts there's like this explorers podcast that's really
+1:12:52
+interesting like of the early sea voyages you know and how like everyone
+1:12:57
+was like dying of scurvy because they didn't even know vitamin C was a thing yeah and then they finally figured out
+1:13:03
+okay vitamin C is a thing so um and um
+1:13:09
+you know uh I mean if you read history like man it just feel like we'd have like plagues over here like a third of
+1:13:16
+the city died you know um I mean they only discovered they only just discovered germs less than fewer
+1:13:22
+than 150 years ago yeah right so people drove the area that you even should wash your hands yeah exactly for you know
+1:13:29
+delivering a baby or something that was that was new yeah the gym fear of disease was opposed for a long time by
+1:13:35
+the medical establishment it's like actually worth noting that like you know literally the official line was germs
+1:13:40
+were fake yes uh and the doctors are clean so yeah doctors exactly um and you
+1:13:46
+know if you don't have like a good sort of microscope or something and someone tells you that there's like these tiny
+1:13:52
+creatures that you can't see I mean it sounds like witchcraft yeah it's like um but there's tiny creatures that you
+1:13:58
+can't see that are on your hands and if you touch something else those tiny creatures are going to go in someone else to basically bacteria and viruses
+1:14:04
+and uh they're gonna maybe die and and
+1:14:10
+um they're so small you can't see them like once you get markers microscopes people like okay I see like little things
+1:14:16
+wiggling around like I don't know what those things are but they don't look good um but for a while they were like if
+1:14:21
+this they're like this is prosperous this you're trying to tell my little tiny things that are the small are the
+1:14:27
+real reason we're gonna get ill as opposed to like you know bad spirits or something you know like because they
+1:14:33
+would like they would just think that there was like bad air or something it's like there's two places first you know
+1:14:40
+too much blood sticks yeah this this place is cursed that's why we get ill it's like or maybe this
+1:14:47
+it's got some bacteria yeah um so yeah it took a while and they put that with that for a long time
+1:14:55
+um and we didn't even figure out like antibiotics until last century yes so yeah because in World War one yeah I
+1:15:02
+believe so many people died of infections yeah then died from actual
+1:15:07
+wounds yeah I mean if you're sitting there in a trench covered in mud and blood and you get a scratch yes I mean
+1:15:13
+that scratches May probably end of you you know yeah what's the name of that movie the one that was like all filmed
+1:15:18
+in one take the world where it's is it 1917 or 1917 I think that's it yeah that
+1:15:24
+that movie just made me like gosh I'm glad that I did not have to yeah some
+1:15:30
+Next Level Slaughter yeah it was brutal yeah I wonder what do you ever wonder what the things are you know how we look
+1:15:35
+and look back at something like you know the germs which seems very obvious now I wonder what the things are that are
+1:15:41
+happening right now that people are getting sick from and dying from the 100 years from now people are going to look
+1:15:47
+back and be like wait they didn't they didn't know that how did they not know that well really the probability of death at
+1:15:54
+this point and I mean unless someone's engaging in very dangerous activity um is is low
+1:16:00
+um so our lifespans we're really reaching
+1:16:05
+pretty much the end of our natural lifespans so now if somebody uh drinks a lot of alcohol heavy drugs
+1:16:12
+or uh smoking is really bad you know these things can have a serious impact
+1:16:18
+on lifespan but if you don't do anything like that you're probably you know probably gonna
+1:16:24
+live till 75 80 years old um you know we're kind of like our pre-programmed to live around that the
+1:16:32
+human lifespans around around 80. yeah so um that's just what's programmed into us
+1:16:39
+um and then actually for whatever reason uh women are programmed to live slightly longer than men
+1:16:45
+so they've it could be that you've got X Y chromosome and and like men don't have the
+1:16:51
+redundancy of a double X chromosome so if there's an error on either the x or the Y it's gonna you know reduce your
+1:16:58
+lifespan I think actually technically testosterone I think also yeah yeah so and then we also do a lot
+1:17:05
+of really stupid stuff we do a lot of stupid stuff but um but but the it's just the statistics
+1:17:11
+are very clear I think it's neverwhere in the world a woman live
+1:17:16
+longer than men even if you account for war and adventurous and what's really interesting as well is that the probability of a male child being born
+1:17:23
+is slightly higher it is 51 and 49 yeah so it's interesting that it actually accounts for that yeah this is
+1:17:30
+men are more likely to die at every year of age yeah literally from a baby to
+1:17:37
+to when you're old um
+1:17:43
+that's interesting tell me more about um so
+1:17:49
+I'll be honest of all the things you do and all the companies you run I think it's all awesome the one thing
+1:17:55
+that does concern me and I know concerns a lot of people out there so I do have to bring it up which is neuralink
+1:18:01
+sure so firstly can you explain what neuralink is and what the goal of it is
+1:18:08
+uh we put a chip in your brain to control your mind yeah thank you
+1:18:14
+all right concerns not alleviated yeah um Jump Right In step right up who wants
+1:18:20
+one um no so so normally you'll be able to see neuralink coming from a very long
+1:18:27
+distance because any device that you implant in a human is you have to go
+1:18:32
+through so many tests um it moves very slowly you just to a few people at a time and then
+1:18:39
+um you go to extreme lengths to prove safety um you have to go through the FDA approvals like we're not trying to
+1:18:46
+sidestep any you know uh regulatory approvals for um doing everything you know buy the
+1:18:52
+book and uh with maximum we're really actually we're going uh far beyond what
+1:18:57
+the requirements are of the FDA from a safety standpoint um and the the initial devices will really just be a pretty basic
+1:19:04
+um it'll be about restoring functionality to people who've lost their connection between their their brain and their body
+1:19:10
+so you can imagine like if say Stephen Hawking could talk or communicate um as fast as somebody with a fully
+1:19:17
+functioning body that would be amazing so that's like the what we're trying to do that's our first application is to
+1:19:24
+restore functionality to quadriplegics tetraplegics and and people who have just for one eight whatever reason and
+1:19:31
+no longer have a connection between or a limited connection between their
+1:19:36
+they're they're right in their body um and then the second application would
+1:19:41
+be restoration of eyesight so if somebody's gone completely blind maybe even just lost the optic nerve
+1:19:47
+um you can actually still uh directly uh
+1:19:52
+assimilate the neurons in the visual part of the cortex so you can give a
+1:19:59
+direct Vision to the brain in fact you could actually depending upon what cameras you used you
+1:20:05
+can actually see in different wavelengths okay you know like uh Jordi laforge from like you know you could
+1:20:11
+like have that like I actually watched like an episode of Star Tech Next Generation with special effects compared
+1:20:19
+to what we're used to like you know not that great but he's got like the wrap around you know like glasses and
+1:20:26
+you can see in different uh wavelengths uh so you can see like uh ultraviolet
+1:20:32
+infrared and that kind of thing so you can actually do that you can say like you could see in radar if you want
+1:20:38
+yeah and what's the what's the long term what's the long-term goal for it because
+1:20:43
+I think myself and others I think the the first part is
+1:20:48
+the first part sounds sounds fine sounds yeah that's like hard to argue with yeah yeah um but long term I think I mean the
+1:20:55
+concern that people have is is this just leading us into this dystopian transhumanist future where where does it
+1:21:03
+go what are the what are the ethical boundaries of it well I mean the thing I wanted to
+1:21:08
+emphasize is that it's not going to like sort of pounce on us overnight it'll you'll see it coming it's going to be
+1:21:14
+very slow in fact I I really think that um artificial general intelligence or
+1:21:19
+digital super intelligence is likely to arrive before we have really
+1:21:25
+Advanced neural Links at least that's where the trend is right now so
+1:21:30
+um but but ultimately the idea would be to achieve a symbiosis between our
+1:21:39
+biological mind and our kind of digital mind so we're already kind of a cyborg
+1:21:44
+if you think of like your phone and your computers as an extension of yourself in fact like if you leave your phone behind
+1:21:51
+it's like you have missing limb syndrome you're like where'd it go you know um
+1:21:56
+and uh so the phone is a kind of an extension of myself the computer is uh the first applications that we use are
+1:22:03
+operating an extension of self so we are already a cyborg it's just that the interface is uh with our eyes and our
+1:22:09
+fingers yeah um and um and that that interface especially output the rate at which we can type
+1:22:16
+words into a phone or a computer just it's very slow our input is much better
+1:22:22
+because with with the data rate from vision is um
+1:22:27
+you know I don't know many thousands of times maybe a million times better than the rate at which we can
+1:22:33
+um output so our input is like maybe roughly a million times better than output
+1:22:38
+and uh so so what what a neural like device can do is improve that bandwidth allow you
+1:22:46
+allow um here to be sort of much more symbiotic with your the the AI extension of yourself so
+1:22:55
+you can think of like like a human brain really is could be ugly divided into two parts one is kind of like the Primitive
+1:23:01
+uh brain um the reptile brand sometimes called you know it's like a sort of Basic Instinct
+1:23:07
+and um and then we've got the cortex like the higher level thinking planning and
+1:23:12
+that kind of thing um but the two operate symbiotically so I haven't yet met anyone who wants to
+1:23:18
+delete their limbic system or delete their cortex everyone's quite happy having both yeah they're like I like it
+1:23:24
+the way it is you know but your cortex is way smarter than your Olympic system so but the irony is that even though the
+1:23:30
+cortex is way smarter than the living system most of what it's doing is trying to make the Olympic system happy
+1:23:35
+cyclomic systems hungy I'm hungry okay let's get some food um the limbic system is warning okay
+1:23:41
+let's you know have sex or whatever we'll see I mean the sheer amount of of
+1:23:47
+effort the you know the cortexes have of all the humans have
+1:23:53
+put into trying to get laid is insane it's got to keep the species going yeah
+1:24:00
+but not even with even if you know it's not for procreation like like the limbic system is
+1:24:06
+is really like too simple to understand that like sex does not result in in procreation because for almost all of
+1:24:14
+human existence that it did um they're both control it's a very recent thing so the the limit system is like
+1:24:22
+trying to incent procreation and um but but now we can effectively hack
+1:24:28
+the limbic system by doing procreation by having sex without procreation
+1:24:33
+um so which is I guess maybe part of the the
+1:24:38
+issue with uh you know why do we have both kids it's like in the past it would just happen because you know in order to
+1:24:45
+make a living system happy you'd have sex you you didn't have birth control so if you out where you'd pop out some kids
+1:24:50
+yes um so that's that's how it used to be um
+1:24:55
+so so that so even though you've got a cortex that's way smarter than the limbic system the cortex is still
+1:25:01
+basically just trying to make limit system happy and um and then if you think like the computers as a sort of a
+1:25:07
+third layer um the AI is a third layer it's not necessarily the case that the AI would
+1:25:14
+be acting contrary to our interests I think if it's closely linked with uh biological
+1:25:21
+intelligence I think it could um actually be just again trying to make
+1:25:27
+the cortex happy which is trying to make the limbic system happy so I think we'll put even more computing power to try to get laid basically
+1:25:35
+um now the AI is going to help you get laid
+1:25:40
+I think I think what it is that that concerns people about it number one I'm you know number one being new but I
+1:25:45
+think the main thing is is the the fact that this is something that's like inside
+1:25:51
+your body right I think the idea of putting a chip ins the idea of someone putting a
+1:25:58
+chip in my brain I I just have a I have a visceral
+1:26:09
+would it be though long term I mean I hope so I think it should be optional yeah be bizarre if it was not
+1:26:16
+um no I think it's kind of like the reason I ask is because smartphones
+1:26:22
+right now are sort of optional but if you don't have a smartphone the way
+1:26:27
+everything is sort of designed around Society um you yes you cannot have a smartphone
+1:26:34
+but it's a massive hindrance and disadvantage in many ways true a smartphone is almost essential
+1:26:40
+and a modern society to do things yeah um so could a neural link end up in that
+1:26:46
+same sort of place it's possible but I'm just saying if it does it's a it's it's
+1:26:51
+many decades from now so it's not like you know it's not today's problem yeah I'd worry a bit more about
+1:26:58
+digital super intelligence I'd worry about let's try to avoid world war three yeah uh let's let's make sure we're at
+1:27:04
+least having enough kids to sustain our population you know basic stuff like that yeah
+1:27:10
+what's your greatest concern with artificial intelligence because I know that you have worked with it but also I know
+1:27:19
+it's something that you personally have massive concerns about as well which
+1:27:25
+you've voiced in this podcast and elsewhere yeah I I think that actually the most
+1:27:31
+likely outcome for artificial intelligence is is that it is
+1:27:36
+good that it will um improve our lives most likely but there's some chance that it will not and
+1:27:42
+I think we just need to be very cognizant of that and understand it's a powerful technology it's a
+1:27:48
+double-edged sword um and we need to put a lot of effort into ensuring that uh we have a good AI
+1:27:54
+outcome and not a bad one what does a good one look like
+1:28:00
+well if I'd recommend people read the Ian Banks Books Okay uh the culture books
+1:28:06
+um that's the best uh representation of a positive AI human
+1:28:11
+future that I've seen okay um so that's my recommendation I mean it
+1:28:19
+effectively AI I think it it will massively enhance the human ability it's
+1:28:25
+like a just a massive amplifier human ability
+1:28:31
+um just like the computer was um so
+1:28:37
+it really is just a question of like does does it there's some risk that it
+1:28:42
+doesn't really amplify human activity but it starts basically just being in charge yeah and
+1:28:48
+you know there's some risk it may you know view Humanity negatively and
+1:28:53
+decide that we're a blight on the earth like like I think like like a very dangerous thing would
+1:28:59
+be if the if these sort of human extinctionist philosophy somehow got into AI that would be bad like that guy
+1:29:06
+that was on the front page in New York Times saying you know eight billion people on Earth three we don't want him coding it we don't want him coding you
+1:29:12
+yeah safe to say there's quite a few people in the cycle of the woods who have that yeah either explicit or
+1:29:19
+implicit extinctionist view yes where they view Humanity as a blight on the face yeah there's a lot of antenatalists
+1:29:25
+in the in the world and people who and Andrea actually anti-human yes yes like
+1:29:31
+you said people who don't have the pride in Being Human right there's people who really feel like guilty people even say
+1:29:36
+that that's a speciesism you know that's it yeah yeah I mean I'm a human supremacist I'll I'll be open about that
+1:29:43
+one yeah I mean I think uh we gotta fight for team human like if we don't fight for as humans who we will yeah I
+1:29:49
+mean if the Earth exists and humans do not then it's like we're saving the planet for who at that point yeah what
+1:29:56
+do you think about AI replacing jobs though because that's uh that's a big concern even if AI doesn't sort of go Rogue and
+1:30:02
+start doing something directly horrible I think a lot of people's concerns is just hey uh what about everyone's jobs I
+1:30:10
+will certainly be very disruptive because jobs were different um so no I think
+1:30:16
+yeah the the rate of change the rate the change caused by AI is going to be
+1:30:21
+pretty radical so that there will you know a lot of jobs that are that currently exist won't exist in the
+1:30:27
+future I think there will be new jobs um and I do think like in a benign AI scenario we will really have an age of
+1:30:35
+abundance um the I think really goods and services unless they're artificially made scarce
+1:30:42
+like like it's specialized artwork or you want that particular house in that neighborhood
+1:30:48
+um like it has to be an artificial scarcity but anything that is not made artificially scarce will be plentiful as
+1:30:53
+in a benign AI scenario you'll be able to have any products and services you want
+1:30:58
+that anyone will does that not start to cause a whole new
+1:31:05
+level of problems yeah it does it's like this it's like you you know there's some
+1:31:10
+things which sound like a like a a blessing but may in fact be a curse yeah like I think you will live forever
+1:31:17
+it sounds like a blessing it's actually a curse you would not want to live forever you don't know how long forever is
+1:31:23
+um and uh and if you say another potential curse
+1:31:28
+is you can have anything you want effortlessly are you sure you want that yeah does
+1:31:35
+anything matter at that point yeah um and and what about the value I mean I think a lot of the value of work isn't
+1:31:42
+just getting money to buy things is the meaning it's the purpose it's knowing
+1:31:47
+that you worked for this thing right it's different it's different to get 10
+1:31:53
+million dollars because someone just gave you 10 million dollars or you won a lottery versus you created a business
+1:31:59
+and sold products and services that helped you to earn that money
+1:32:04
+exactly so it's like how do we find meaning um and relevance yeah um if you have an age of abundance where
+1:32:11
+the computer you just ask for anything and get it um it is something you will have struggle
+1:32:17
+with that that'll that'll be uh I don't know it's I think that's kind of most likely where
+1:32:23
+we're headed is in age of abundance [Music] um but it will
+1:32:29
+definitely cause some existential angst um
+1:32:35
+what are you most optimistic about in fact I should say like okay for a neural link device I mean
+1:32:41
+part of what I'm hoping is here in a benign AI scenario like how do we even go along for the ride how do we even
+1:32:47
+understand the AI okay like you've got some sort of you know incredible intelligence unless
+1:32:53
+we do sort of effectively have better symbiosis increase the bandwidth to our the AI extension of
+1:33:00
+ourselves effectively augment our human intelligence substantially
+1:33:06
+um we may not even be able to appreciate the Wonders that will exist in the
+1:33:11
+future like how do you even go along for the ride and appreciate the I don't know potentially amazing things in the future
+1:33:18
+yeah hmm what gives you what what keeps you
+1:33:23
+optimistic day to day you're you're a busy man you're running all these companies you've got a busy family life
+1:33:29
+going on you've got praise criticism love hate flowing in all different
+1:33:35
+directions but number one two two questions actually number one how do you
+1:33:42
+stage how do you stay sane and grounded with it all because something that's always makes you think I'm saying
+1:33:47
+I think you're certainly grounded I think you're grounded honestly I mean the fact that we're sitting here and
+1:33:54
+that you know you interact with so many people I mean let's be honest 99 of people were in your position they
+1:34:00
+wouldn't be doing what you're doing on on any level um you're you're there on Twitter you're
+1:34:06
+cracking jokes you're posting memes and responding I mean if it's you're you're
+1:34:12
+who you are but you're also you strike me as a a normal guy who's doing extraordinary things rather than someone
+1:34:18
+who's just completely like I don't know out there and I couldn't even have a
+1:34:24
+conversation with you know so that's what I mean by saying
+1:34:31
+um well I I do think it's important to
+1:34:37
+um you know not get uh you know quite Scarface don't get high on your own supply of course in the end he did
+1:34:44
+um but uh you don't want to start thinking too highly of yourself
+1:34:50
+um because it actually reduces your feedback loop you you know if you think you're
+1:34:57
+too smart you you stop um listening to criticism so I think
+1:35:03
+you know the Twitter is actually helpful for that you know instantly if you will not try about voicing their opinions
+1:35:10
+um so uh the frogs with 20 followers keep you in check yeah I mean yeah I've got uh
+1:35:18
+you know like there's just some things I'm trying to get accomplished and you know Advanced rocketry and
+1:35:25
+sustainable energy and put in case of Twitter freedom of speech so I think these are these things are
+1:35:31
+these things mean a lot to me so I am I guess I'm motivated to get these
+1:35:38
+things done in order to get these things done I have to stay sane because um you know uh
+1:35:44
+like physics is the law and everything else is recommendation and if you if you go crazy and you don't you
+1:35:51
+do things happen you know agree with physics the Rockets blow up the cars don't work so
+1:35:59
+physics is a heart you know harsh judge it's
+1:36:04
+you you get you get the engineering and math right or you don't and it doesn't work if you don't so you you
+1:36:10
+have to stay grounded in order for the Technologies to actually work I hear that Elon
+1:36:18
+very very grateful for you taking the time out for this conversation I want to
+1:36:23
+say I mean I said this on Twitter but I want to say it to your face I massively admire and appreciate what you're doing
+1:36:31
+um a massive thank you to from everyone who has been dealing with the nonsense on Twitter who's managed to
+1:36:37
+get their accounts back and be able to speak freely and all that um I want to say that but honestly I
+1:36:42
+think what you're doing is is awesome you're a huge inspiration I know that
+1:36:48
+in this age of criticism people don't like to tell people hey you're doing a
+1:36:53
+good job I want to encourage you I want to uplift you so I want to do that and uh God bless you well thank you I
+1:36:59
+appreciate it man thank you it was a pleasure
