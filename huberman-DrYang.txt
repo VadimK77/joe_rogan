@@ -1,0 +1,3116 @@
+0:00
+welcome to the huberman Lab podcast where we discuss science and science-based tools for everyday life
+0:09
+I'm Andrew huberman and I'm a professor of neurobiology and Ophthalmology at Stanford school of medicine today my
+0:15
+guest is Dr Mary Helen immortino yang Dr imrdino Yang is a professor of Education
+0:21
+Psychology and Neuroscience at the University of Southern California her laboratory focuses on emotions and the
+0:28
+role of emotions in learning as well as how social interactions impact how we learn today's discussion is one that I
+0:35
+found absolutely fascinating because it will reveal to you in fact to all of us how our temperament that is our
+0:42
+emotionality combined with our home environment and the school environments that we were raised in shape what we
+0:49
+know about the world and our concepts of self in thinking about that we also discuss
+0:54
+the education system and how different aspects of rules and how we are told to behave and what actually constitutes
+1:00
+good behavior or bad behavior shape how we learn information and develop a sense of meaning in life if any of that sounds
+1:07
+abstract I promise you that today's discussion is incredibly practical you will learn for instance how different
+1:13
+styles of learning are going to favor different people from children into adulthood and how we ought to think
+1:20
+about learning in terms of our emotional systems being our guide for what we
+1:25
+learn and the information that we retain and how we apply that information throughout life for those of you that
+1:30
+are parents or who are thinking of becoming parents or who were once children so I believe that encompasses
+1:36
+everybody out there today's discussion will arm you with an intellectual understanding of Psychology and
+1:42
+Neuroscience as it relates to learning but also practical tools that you can apply in order to be able to learn more
+1:49
+effectively what I like so much about Dr emordino Yang's research and the discussion today is that she frames up
+1:56
+beautifully how those who best learn from traditional forms of classroom learning as well as those who learn from
+2:02
+non-traditional forms of learning either in or out of the classroom can best use that understanding of Self in order to
+2:09
+learn in the way that is best for them before we begin I'd like to emphasize that this podcast is separate from my
+Sponsors: Eight Sleep, HVMN, ROKA
+2:15
+teaching and research roles at Stanford it is however part of my desire and effort to bring zero cost to Consumer
+2:20
+information about science and science related tools to the general public in keeping with that theme I'd like to
+2:25
+thank the sponsors of today's podcast our first sponsor is eight sleep eight sleep makes Smart mattress covers with
+2:31
+cooling Heating and sleep tracking capacity I've talked many times before on this podcast about the fact that
+2:37
+sleep is the foundation of mental health physical health and performance of all kinds one of the key things to getting a
+2:43
+great night's sleep is the temperature of your sleeping environment and that's because your core body temperature
+2:48
+actually has to drop by about one to three degrees in order for you to get into and stay deeply asleep and
+2:54
+conversely your core body temperature increases by about one to three degrees in order for you to wake up and feel
+3:00
+refreshed with eight sleep you can control the temperature of your sleeping environment very easily because of the
+3:05
+way that the mattress cover communicates with an app where you can dial in the temperature of your sleeping environment at the beginning middle and end of your
+3:13
+night as you arrive toward morning sleeping on an eight-sleep mattress cover has greatly enhanced the quality
+3:18
+of my sleep I know that because it also includes a sleep tracker which will tell you how much slow wave sleep and rapid eye movement sleep you're getting and it
+3:24
+gives you a sleep score if you'd like to try eat sleep go to eightsleep.com huberman and get up to 150 off each
+3:32
+Elite currently ships in the USA Canada UK select countries in the EU and Australia again that's eightsleep.com
+3:39
+huberman today's episode is also brought To Us by hvmn Ketone IQ Ketone IQ is a
+3:45
+ketone supplement that increases blood ketones I know most people are familiar with or at least have heard of the
+3:51
+so-called ketogenic diet it's used for weight loss it's used to control epilepsy it's used for mental health reasons however most people including
+3:58
+myself do not follow a ketogenic diet nonetheless increasing your blood ketones can improve the function of your
+4:04
+brain and the function of your body and that's because ketones are preferred use of fuel for the brain and body so even
+4:10
+though I follow an omnivore diet that is I'm not in a ketogenic State I use ketone don't IQ to increase my blood
+4:16
+ketones prior to doing preparation for podcasts or writing grants or doing research as well as prior to workouts
+4:22
+especially if I want to work out fasted I'll take some Ketone IQ to increase my blood ketones which gives me a lot of
+4:29
+energy during workouts or during bouts of cognitive work even if I haven't eaten in the preceding hours it really
+4:34
+increases my focus and my energy levels if you'd like to try Ketone IQ you can go to hvmn.com huberman to save 20 off
+4:43
+again that's hvmn.com huberman to save 20 percent today's episode is also brought To Us by
+4:50
+Roca Roca Mike's eyeglasses and sunglasses that are the absolute highest quality the company was founded by two
+4:56
+All-American swimmers from Stanford and everything about Roca eyeglasses and sunglasses were designed with
+5:01
+performance in mind I've spent a lifetime working on the biology the visual system and I can tell you that your visual system has to contend with
+5:07
+an enormous number of different challenges in order for you to be able to see clearly Roca understands those challenges and has designed their
+5:14
+eyeglasses in sunglasses this accordingly so that you always see with perfect clarity their eyeglasses and
+5:19
+sunglasses were initially designed for sports performance and as a consequence they are very lightweight which is great
+5:24
+they also won't slip off your face if you get sweaty however even though they were designed for sports performance
+5:29
+they now also include a lot of styles that are designed to be worn to work out to dinner essentially recreationally so
+5:35
+you could wear anywhere if you'd like to try Roca eyeglasses or sunglasses go to Roka that's roka.com and enter the code
+5:42
+huberman to save 20 off your order again that's Roca roka.com and enter the code
+5:48
+huberman at checkout and now for my discussion with Dr Mary Helen immortino Yang Dr emordino Yang good to be here
+Inspiration, Awe & Story
+5:57
+great to have you I'd like to start off talking about something that to me seems a little bit high level but
+6:05
+I think it's the perfect jumping off point I've heard you talk before about inspiration and awe and as somebody
+6:13
+who's interested in the brain and as somebody who's interested in the role of emotions and learning and life
+6:21
+experience inspiration and awe seem to me kind of rather high level emotional experiences
+6:28
+compared to say fear or happiness and yet inspiration and awe just seems
+6:35
+so fundamental to how we learn and navigate life and before we started recording we were talking about David
+6:41
+Goggins of all people um and we'll get back to that but
+6:46
+if you could just share with us what is the role of inspiration and awe
+6:52
+and story in how we learn and experience life starting at a young age and then
+6:59
+maybe we can transition to older ages yeah I mean I think what you've noticed is actually fundamental to the conundrum
+7:05
+of being a human is that our most high level complex or in-states mind States
+7:13
+are also fundamentally hooking themselves into the most basic biological Machinery that literally we
+7:20
+share with alligators that keeps us alive and that is both the power and the
+7:28
+potential of being a human and the danger of it so our beliefs are
+7:33
+experiences our interpretations of the meaning of things which that's where the
+7:39
+story comes in the stories that we conjure about you know collectively with other people culturally in spaces inside
+7:46
+our own selves also those stories become kind of the through line that organizes
+7:52
+the way in which we construct our own experience Consciousness even I would say so when we hook into those very
+8:01
+basic Survival Systems by recruiting them into these narratives about the
+8:07
+nature of reality the power of the meaning we make what happens is we get
+8:12
+this amazingly both fundamental and high levels State simultaneously where we
+8:18
+feel expansive we feel uh like it's all so incredibly beautiful
+8:24
+and we are I would argue actually ramping into or catching into the very
+8:32
+basic survival mechanisms that make us conscious that make us alive and and that's that's in essence the power of
+8:39
+being a human That's The Power of our intelligence at this late stage in our evolution so when I was a kid I loved stories of
+8:47
+all kinds like I think like most kids yeah I love my Curious George books uh
+8:52
+I'm told I like the Babar books but then quickly didn't like the Babar books um I liked the book Where the Red Fern
+8:59
+Grows I liked um books and stories about it generally was boys for me for
+9:06
+whatever reason uh that had some idea in mind or some ongoing Challenge and that
+9:12
+played out over time and the character evolves across the story yeah and of course many many many excellent stories
+9:19
+have all those features yeah I can recall specific passages in those
+9:25
+books to this day that made me feel something in my body
+9:30
+you know a um I actually am very familiar with the sensation of having chills go up my spine as opposed to down
+9:36
+my spine early on I realized oh there's sort of a difference sometimes it travels up my spine sometimes I still
+9:42
+haven't distinguished what what that orients me to or away from but but it's a very
+9:47
+um Salient memory and experience for me to this day so much so that as I'm describing the book Where the Red Fern
+9:54
+Grows Right now I can kind of feel it starting yeah I've heard you say before and I love
+Brain-Body, Narratives
+10:01
+this quote and I want to make sure that you get attribution for this not me that we basically have a brain to control our
+10:08
+body [Music] what is the the role of the brain in controlling the body and do you think
+10:15
+that there are an infinite number of ways in which our brain does that or are we really talking about a language
+10:21
+between brain and body of you know tingles on the back of our neck that go up tingles on the back of our neck that
+10:27
+go down stomach feeling kind of tight and making us cringe away or kind of
+10:32
+warm and wanting to approach in other words do you think that the conversation between the brain and body is primitive
+10:39
+sophisticated how nuanced is it because language is very nuanced we could probably come up with 50 words just in
+10:45
+English for the state of being happy yeah but the feeling of being happy I
+10:51
+experience along a Continuum of a little bit happy to elated but it's it's kind
+10:57
+of one thing really so if if you would could you comment on this notion of the brain being the organ that's responsible
+11:05
+for controlling the body and what that dialogue is like what the syllables and consonants of it are like perhaps not at
+11:11
+the level of biology but at the level of psychology and how we subjectively
+11:16
+experience that sure so the first thing I'll say is that I learned that idea from it from working with Antonia
+11:22
+dimasio so uh he was my postdoctoral mentor and he taught me first that uh
+11:29
+this notion that that it's the feeling of the body it's it's an organism's ability to represent or map the state of
+11:38
+the interior and exterior of the body that becomes the substrate for Consciousness and for the mind
+11:45
+um so I would just want to give him credit because I didn't I didn't think of that first but the work that I've
+11:50
+been doing is an elaboration of that it's it's basically addressing exactly the question that you're asking which is
+11:57
+how is it that we construct a narrative construct a conscious feeling which that
+12:04
+word I take from Antonio and Hannah right DiMaggio how is it that we construct a feeling and sort of
+12:10
+prioritize that feeling elaborate that feeling into something that feels like a
+12:15
+narrative that feels like a belief state or an emotion state or an experience I mean that in a very verb-like way and um
+12:23
+and what is the role of embodiment in that what is the role of the brain and that
+12:28
+um and and what also is the role of the culture and the cultural context on other people in that because what we're
+12:34
+really learning Across The Sciences right now is just how incredibly social
+12:39
+and interdependent our species is I mean our biology is inherently a social one
+12:45
+we are directly dependent on other people for the formulation of our own
+12:50
+sense of self and we interact with one another and construct and co-construct a
+12:56
+sense of self and a sense of meaning via those cultural spaces and those sort of
+13:01
+um nuanced ways of accommodating each other mentally and physically that that
+13:06
+lead to the feeling of us so you know back to your original question there's a
+13:13
+lot we don't know there um but I think what's very clear is that
+13:19
+the kind of background sense of the body the mapping and the regulation of the
+13:26
+body is a basic substrate a kind of of trampoline for the mind and so we are
+13:34
+managing our survival you know we now have lots of evidence from across many kinds of science about the
+13:40
+interdependence of our stress and social relationships and our immunity and our right and and our ability to digest food
+13:47
+and and it's even now very clear that it's not even just us there's a whole
+13:52
+microbiome and all kinds of other organisms that are assisting Us in that and that are collaborating with us in
+13:58
+that um and then the brain is is this is a specialized organ of the body in fact
+14:03
+it's not a it's not a separate thing it's it's an outgrowth or an elaboration of that process it's a specialization of
+14:11
+that process a localization of it um in a way that provides enough processing power to be able to really
+14:18
+construct uh all kinds of feelings and mental States and beliefs and imaginings
+14:25
+you know um out of out of basically just the
+14:30
+feeling of being here and then the amazing part is that our brain is also
+14:37
+imposing those back down onto our bodies so the way in which our body reacts
+14:43
+um and is modulated in response to mental States is also very real so we have a kind of like a dynamic uh
+14:51
+conversation happening that's happening in very raw and and direct ways
+14:57
+neurochemically and others and also in broader longer term slower fluctuating
+15:02
+patterns around you know other kinds of hormonal changes and things like that so along multiple time scales
+15:08
+simultaneously we have a kind of whole right a humanistic whole of brain and
+15:15
+body and mind that are kind of co-conjoring one another in real time and that leads to all kinds of dynamic
+15:21
+possibility spaces for how we are and how we feel as we grow through time and
+15:27
+I think as humans the legacy of our intelligence is to tap into those
+15:32
+possibility spaces and start to construct them into meaningful meaningful sort of chains of ideas
+15:39
+chains of experiences over time that we call story and that I think is what you were tapping into as a little boy you
+15:45
+were hungry for fodder for for a kind of structure for those feelings that you
+15:51
+could start to help them evolve from one into the other and chain them together in ways that produce meaning
+Emotions, Durability & Lifespan
+15:58
+yeah I'm fascinated by the idea that early in life we experience
+16:04
+some interaction with the world it could be with other people could be with an object in the world and it makes us feel
+16:10
+something powerful yeah and that lays a a template for of recognition meaning
+16:16
+that later in life and perhaps throughout life we're always consciously your subconsciously going back to trying
+16:23
+to experience that same kind of awe or inspiration
+16:28
+um because again that the what the circumstances almost certainly vary from being a
+16:35
+five-year-old to being an adolescent and into adulthood and into the I guess the geriatric years
+16:41
+do they still call it that um probably I probably used a politically incorrect term but forgive me
+16:46
+um 75 to 125. um
+16:52
+and yet the feeling is the same right the feeling and so it's as if a word can
+16:58
+mean the same thing but be used 50 different ways maybe 5 000 different
+17:04
+ways to represent in this analogy I'm saying that the the word is the feeling and you know and it's used so many
+17:10
+different ways because um occasionally I'll read a scientific manuscript that is so cool and it's the
+17:18
+same way that I feel yes when I was nine years old and I spend all my time in the pet store looking at Tropical Fish and
+17:24
+tropical birds and thinking oh my God that freshwater discus fish is the coolest thing I've ever seen yeah and
+17:30
+again I think I must have a strong memory for these kinds of things yeah because I still I feel it right now in
+17:35
+my body so it's as if the the same thing maps to so many different circumstances
+17:40
+so is what we're learning across the lifespan a recognition of feelings in
+17:46
+our body as ah this is something I like because of the way it makes my body feel
+17:51
+or is it cognitive or both from your answer a moment ago it seems like it's
+17:56
+so interconnected and bi-directional and fast that it's impossible to really say
+18:02
+that feelings are in the body or in the brain it's really um happening simultaneously yeah it's a
+18:07
+dynamic of merchant State let me give you an example so that I use sometimes to help myself understand the notion so
+18:13
+I'm you know my little my little daughter okay Nora when she was two two in some
+18:20
+months two and four months that she's a very verbal kid and uh I was sitting in the kitchen one day drinking a cup of
+18:27
+tea I was sad about something that happened in my life but I I wasn't weeping or anything I was just sitting there I must have looked kind of you
+18:33
+know lost in my own thoughts she's playing around on the floor she came over to me I'll never forget it this tiny little
+18:39
+person she comes over to me and noticed I wasn't really there with her you know what I mean and she my arm was hanging
+18:44
+down she picked up my arm and she held it against her face like that and she said
+18:49
+I won't say in baby talk because you won't understand but she said don't worry Mama I'll take care of you
+18:55
+and I said yeah and I said oh no that's so that's so sweet sweetie I'll take care of you too and she said and Mama
+19:01
+I will we love you I really love you and then she said I mean I really love y'all um I really love
+19:09
+your arm right fast forward two years later almost exactly two years she's four in a couple
+19:15
+months and she was in bed one night laying in her bed in the dark and I walked by and I listened at the door to see if she was sleeping there and I hear
+19:21
+this little whisper comes out and she says mama I love you more than I'm glad that
+19:27
+there's daytime right what's changed developmentally from her
+19:35
+at age two to her at age four right I would argue that the physiological substrate of her attachment to her
+19:41
+mother is probably quite similar she had this sort of visceral automatic
+19:47
+biological you might say attachment connection to me emotionally that she
+19:54
+was trying to leverage in the service of making sense of you know being active in
+19:59
+that world and adapting herself to the situation helping me in the first case right but what's changed remarkably is not the
+20:07
+substrate of that attachment it's her ability to conceptualize it right when she's two her love is experienced as
+20:14
+this incredibly concrete embodied real physical thing
+20:20
+like I love you I mean I really love the body part I am currently smooshing against my face right whereas two years
+20:27
+later she can conceptualize that love in terms of an idea which is you know wouldn't it
+20:34
+be awful if there was night time all the time and there was no sunshine and daylight and I couldn't go out to play
+20:39
+and I couldn't write you're describing my biggest fear people listening to this podcast I know that I'm gonna go into
+20:45
+the grave hopefully a long time from now yeah telling people to get morning sunlight in their eyes yeah but please continue yeah no but
+20:54
+that's right so she's thinking about how much she is grateful for there to be sunlight and in her little mind she
+21:00
+connected that to the the feeling of being attached to me and used one to explain the other
+21:06
+right so that both things now have meaning and that is the way that is the
+21:11
+way I think that we start to elaborate these very basic physiological
+21:16
+attachment States aversion States right motivational states of various sorts
+21:22
+into mental States beliefs poems you know uh love songs all the things that
+21:29
+she does right even between Age Two and age four that really are mental
+21:35
+elaborations meaning making of that very physiologically basic sensation does
+21:43
+that answer your question it answers it incredibly clearly uh and so much so that I'd like to continue to build on
+Conjuring Stories, Historical Context & Emotion
+21:49
+that example um because I think it's very relatable for people and it's the first time that
+21:56
+I've ever heard the embodiment of emotions described in a developmental framework
+22:03
+that truly makes sense okay um so thank you
+22:08
+so the contact with your arm or your arm or both uh was the the was the life
+22:16
+example that she was using it as a two-year-old that maps to an internal
+22:21
+feeling and and we're gonna assume she's not here we don't have her in a brain scanner we can't ask her but we're going
+22:27
+to assume that her experience of being put to bed at night and and feeling so
+22:32
+so much love from and for you map to her then uh growing understanding
+22:41
+of the the world around her the fact that there's day and night and sunshine so as her knowledge base grows she can
+22:46
+add examples to the feeling and I'm assuming that um doesn't matter how old she is now but
+22:51
+I'm assuming that as a 14 year old the knowledge base is going to be different and is going to map to that feeling
+22:57
+again and again so the question is is what we are doing across the lifespan
+23:03
+is recognizing um sort of I don't want to call them Primitives but
+23:09
+um basic emotional states which are not infinite but can be along each one along
+23:17
+a Continuum so a little bit of love completely in love you know along
+23:22
+Continuum and everything in between um a little angry and annoyed to completely Furious are we talking about
+23:30
+maybe um 10 to 30 core emotions that then we are just simply binning our experiences
+23:37
+into and onto and mapping onto and then that's our life story and I'm not trying
+23:42
+to oversimplify things but um that seems to me like a pretty great way
+23:49
+for a nervous system to navigate a world that is infinitely complex yeah and has
+23:55
+a lot of surprise both positive and negative and in which like every organism our main goal is to survive as
+24:01
+long as possible and not for everybody but in many cases to try and make more
+24:07
+of ourselves I mean those seem to be the basic Drive survive and make more of oneself it seems to be the two basic
+24:12
+functions of everything ideas or more of your work from more of your art right exactly
+24:18
+um so is that in an overly simplistic way to think about it or does it does it work even if
+24:25
+there's more that needs to be added does that work as a 20 year old I learned things in college and I'm like this is
+24:31
+awesome the first time I learned about the hypothalamus this whole marble size structure and the fact that different neurons sitting right next to each other
+24:37
+can put us into a rage where we'll make us want to mate or we'll make us thirsty or hungry or tired I was like wow yeah I
+24:44
+mean it just it blew me away it still blows me away yeah but the feeling is
+24:50
+the same as looking at The discus fish in the in Monet's Pet Shop on California Avenue when I'm nine years old so is
+24:56
+that the way to think about it I think yes I think there is there's an awful lot of basic physiological mechanisms
+25:03
+that are that become motivational mechanisms right in in all the senses uh
+25:09
+adaptive mechanisms that we share with all life forms not even just all animals
+25:14
+but all life forms but they look different in different life forms for sure because the Adaptive functions the time scales and everything are different
+25:21
+if you're a tree than if you're a fish then if you're a slime mold or you're me right but I think you're right that what
+25:27
+we basically are doing is taking these very primitive physiological regulatory
+25:32
+capacities that are essentially there to keep you alive and and that's a very Dynamic thing to keep you alive you have
+25:39
+to constantly adjust for the the needs of the internal organism the needs of the external uh you know the the demands
+25:45
+of the external environment on that organism and being able to manage in that space over time is a very complex
+25:50
+Dynamic um kind of kind of iterative process and
+25:56
+we take those process processes and we conjure out of them a form of
+26:02
+Consciousness an awareness of those processes that becomes something that
+26:08
+feels mentally powerful to us and and I think one of the ways that we can know
+26:14
+that what you're saying is right is that you know this is just our first experiment on this but but I think it's
+26:19
+really poignant we we we first started to study um the the ways people would react to
+26:27
+social stimuli right to have emotions like Compassion or or admiration in the
+26:33
+MRI scanner um by telling people uh stories of true people situations that invoked these
+26:39
+emotions in all kinds of piloting and then we ask people how does it make you feel and then we can see whether they
+26:45
+actually feel that way and then we move them into the MRI scanner and ask them again to watch the story and feel it and what we expected we had some very basic
+26:53
+hypotheses that things like I'm watching somebody else under physical pain would
+26:58
+activate the same systems in your brain that allow you to feel physical pain uh and the same with pleasure around
+27:05
+admiration for skill by watching somebody do flips on their bike on a railroad tie or whatever it is right um
+27:11
+or virtue right watching a civil rights leader or somebody who does something that's incredibly virtuously powerful
+27:17
+but not physically skilled um and we had a real surprise in those findings which I I think really went
+27:25
+against the prevailing notion of how emotion works and which is still something which I wrestle with trying to
+27:30
+understand so we hypothesized that feeling emotions about very physical
+27:35
+direct things and feeling emotions about you know I'm like drawing them in space but feeling emotions about a complex
+27:40
+elaborated things like compassion for someone having lost a spouse or something where you don't see any real
+27:46
+physical pain but you can imagine how they're feeling based on your shared experience of loss right or admiration
+27:53
+for virtue um that those things would build uh
+27:59
+neurobiologically the way that they build developmentally the way that they build evolutionarily um and we did find that to be the case
+28:05
+and many other groups and experiments have found that too but what was a real surprise to us is that emotions based in
+28:12
+pain and emotions based in something rewarding or pleasurable like virtue
+28:18
+which is really inspiring as people describe it were actually recruiting the same brain
+28:24
+systems including the hypothalamus right and other systems like the anterior insula which is basically visceral
+28:30
+somatomotor cortex it's cortex that feels the state of how you're digesting your lunch whether your heart's pounding
+28:36
+all these kinds of things right what we found is that these emotions when they
+28:41
+get complex when they're about Stories the valence is no longer the defining
+28:47
+feature the valence doesn't even matter that much instead what matters is does
+28:54
+the emotion pertain to a story that is conjured in our minds or does it mainly
+29:00
+pertain to what you can directly Witness by looking at the person so they step off a curb they break their ankle and
+29:05
+you go oh that looks like it really hurt right versus they're eating dinner alone in a
+29:11
+restaurant and somebody tells you his spouse died just a month ago right where
+29:16
+you have to tell yourself an entire story about how he must be feeling in that situation as compared to just
+29:22
+looking at him and seeing the ankle and going ooh you know and it was that leap
+29:28
+which is really uniquely human which is fully developed really throughout a very
+29:36
+protracted period right little children do not fully appreciate those kinds of mental States yet right and in
+29:43
+adolescence kids are all about trying to conjure and simulate these things and they do it very you know they overdo it
+29:49
+and they do it in these very sort of awkward ways that adults recognize as uh you know uh not likely to correspond
+29:56
+fully to reality right many times um and then we start to build more and more facility more and more sort of
+30:03
+wisdom around Conjuring the story that makes the most direct parsimonious sense
+30:09
+out of the things that you imagine somebody else may have experienced given the complexities of the context in which
+30:15
+they find themselves it becomes more and more Dynamic more and more sort of inferential and so this also goes back
+30:23
+to what you were saying about development this is actually how I see Development Across the lifespan my
+30:29
+little two-year-old loves the arm then she loves me as much as something else
+30:34
+that she really appreciates like daylight and then she goes on from there and when she's 80 God willing someday
+30:41
+right she'll be making a different kind of story picking out things that matter in more subtle ways that other people
+30:48
+may not notice because of the historical context because of her her more lived
+30:53
+experience that she brings to that story right so the things that become Salient the things you learn how to notice and
+31:00
+build a story out of are Developmental and they're learned across time
+31:05
+but the basic fundamental processes around the emotions are always driving
+31:11
+the need to make the story and so just to come back answering what
+31:16
+you said before I think we have this incredibly complex Dynamic set of basic emotions or whatever you want to call
+31:22
+them physiological states that we share with other organisms that are basically action programs that teach you run away
+31:30
+from this right move toward that um eat this don't eat that right but
+31:36
+those things in humans and to a lesser degree in other in other animals become
+31:42
+the fodder for not just action programs in the moment but ideas that transcend
+31:48
+time ideas that become the narratives of the stuff of beliefs of values of uh of
+31:56
+identities um those more ethereal you know Essences
+32:01
+of us that are conjured entirely by us in cultural spaces are fundamentally
+32:08
+grounded into our ability to experience the world in a real physical embodied sense but but allow operated far beyond
+32:15
+that I'd like to take a quick break and acknowledge one of our sponsors athletic greens athletic greens now called ag-1
+Sponsor: AG1
+32:22
+is a vitamin mineral probiotic drink that covers all of your foundational nutritional needs I've been taking
+32:28
+athletic greens since 2012 so I'm delighted that they're sponsoring the podcast the reason I started taking
+32:33
+athletic greens and the reason I still take athletic greens once are usually twice a day is that it gets to be the
+32:40
+probiotics that I need for gut health our gut is very important it's populated by gut microbiota that communicate with
+32:46
+the brain the immune system and basically all the biological systems of our body to strongly impact our
+32:52
+immediate and long-term health and those probiotics and athletic greens are optimal and vital for microbiotic
+32:58
+health in addition athletic greens contains a number of adaptogens vitamins and minerals that make sure that all of
+33:04
+my foundational nutritional needs are met and it tastes great if you'd like to try athletic greens you can go to
+33:10
+athleticgreens.com huberman and they'll give you five free travel packs that make it really easy to mix up athletic
+33:16
+greens while you're on the road in the car on the plane Etc and they'll give you a year's supply of vitamin d3k2
+33:23
+again that's athleticgreens.com huberman to get the five free travel packs and the year supply of vitamin D3 K2
+Hierarchal Emotion Organization, Default Mode Network, Story & Emotion
+33:31
+I started off studying the visual system and I don't want this to turn into a discussion about the visual system but
+33:36
+in the visual system uh we know that there's a what's called a hierarchical organization where the eye encodes and
+33:45
+can respond to edges and light versus dark and red green blue and from that
+33:51
+very basic set of building blocks there's an elaboration or a build up of what's really called the iceberg model
+33:58
+that was developed by my scientific great grandparents David hebronson weasel who won the Nobel Prize for that
+34:03
+work where you can look at somebody's face and recognize it or see a profile moving
+34:11
+at a particular direction and still recognize that person or um see a word written and and
+34:18
+conceptualized in your mind's eye what that word like bird actually looks like like parakeet blue parakeet in other
+34:24
+words there's a hierarchical buildup and what you're describing sounds somewhat similar that there's a hierarchical
+34:30
+organization whereby through development we we first learned I guess earlier I
+34:35
+called them Primitives but basic building blocks of you know when someone steps on my foot it hurts it can hurt a
+34:40
+lot or a little bit depending on who stepped on my foot um whether I have a shoe on so you start
+34:45
+learning context but that there's a build up on top of the basic somatic experience of different examples that
+34:52
+map to pain including emotional pain and physical pain because we know those are interdigitated somewhat
+34:58
+um and that over time this builds up so that we have you know countless examples
+35:04
+but you added you said something else that's that goes beyond the hierarchical organization that we see in the visual
+35:10
+system which is that when there's a narrative or a story that we have to add
+35:16
+it changes something about the representation of emotion I'm I'm so struck by this by this um comparison
+35:23
+between seeing somebody step off a curb and break their ankle like even as I'm describing just like a folding ankle
+35:29
+like ouch yeah that really just look at what you're doing with your face right yeah I mean I broke my I've broken
+35:36
+my left foot five times growing up doing the same Sport and it just I can still
+35:42
+hear and feel the thing going and that means six months in a cast or whatever it is
+35:48
+versus a story you know seeing somebody sitting alone in a cafe writing in their
+35:53
+journal and then you learning that they just lost their spouse of 75 years right
+35:59
+two fundamentally different visual images right the emotion could perhaps be the same
+36:05
+like oh yes that is rough and yet the need to impose story yes
+36:13
+changes it do I understand that correctly that there's something not just more um developmentally mature about adding
+36:20
+in story and adding context but that when we have to do that that there's something that's fundamentally different
+36:27
+about how the emotions are mapped in the brain it I guess the perhaps the the answer I'm looking for is what did you
+36:33
+see in brain scanning experiments where somebody views a
+36:40
+simply a physical break of a somebody's limb versus somebody has to add story is
+36:46
+there something that um that comes out in the subtraction of one from the other that tells us oh there's a whole set of
+36:51
+brain networks that are not just about saying ouch yes but that have to do with the the need to conjure up story and
+36:57
+what what are those brain areas and then perhaps we can we can um digest those a little bit yes and actually that is
+37:03
+exactly what we found a whole system of brain areas that that did this which now many people have described and we're
+37:10
+still trying to understand the full role of these Network works but you know these regions together are called in the
+37:16
+literature of the so-called default mode Network right because they were these
+37:22
+the the co-activation of these characteristic regions of the brain which are in the back middle of the head
+37:28
+and some characteristic regions in the lateral parietal and you know um you know those were first described
+37:35
+uh in neuroimaging experiments where people were asked to just rest right
+37:40
+rest and relax don't think about anything just clear your mind for a few minutes right this is Marcus rackel and
+37:46
+his colleagues back in 2001 um and then and then contrasting that with
+37:52
+um uh tasks where people have to do something very you know attention focus
+37:57
+requiring where you really have to work hard and think and they found that these highly metabolic characteristic regions
+38:04
+of the brain were coming online and activating themselves when the person
+38:09
+was resting and deactivating and decoupling from one another not talking back and forth and
+38:16
+exchanging signal very much um when someone was doing a really effortful mental task and that was a
+38:22
+real conundrum for a long time and what we now know is you know when you ask
+38:29
+somebody to think about nothing or rest you know for a few minutes you're laying in the skin or thinking I'm thinking about nothing I'm thinking about nothing
+38:35
+and then you start daydreaming about all manner of stories you start to imagine yourself into the future here I am
+38:40
+winning the Olympics Tada you know or hey it's my Grandma's birthday next week I wonder if she'd like to go to lunch or if she'd rather have flowers you know
+38:47
+you're imagining other people's mind States you're thinking it's like I'm mad at me at work you know or I wonder if I
+38:52
+should you know change jobs you know you're thinking about all kinds of possible spaces that don't actually
+38:59
+physically exist in the real here and now and and so what we found is that our
+39:04
+findings were I think some of the first if not the first to
+39:10
+to actively demonstrate an increase in activation in these
+39:17
+default mode systems not a decoupling of them but an activation of them when we
+39:24
+ask somebody to do an effortful mental task and what was the task asking people how
+39:31
+do you feel about this story which involves a lot of imposing of
+39:38
+cultural and social and contextual knowledge to be able to appreciate so the story of the guy sitting in the cafe
+39:44
+writing in his journal uh who lost his spouse of 75 years you have to know a
+39:50
+lot to be able to appreciate how he must be feeling how does it make you feel let
+39:56
+me pull up a lot of relevant knowledge personal experiences and memories and then hypothesize generate some kind of
+40:03
+narrative some kind of storyline that would accommodate his situation and
+40:09
+allow me to infer those kinds of stories which are very different from here's
+40:15
+somebody stepping off the curb wow look at that ankle right it's very obvious how you should how that makes the person feel and how you should feel about that
+40:22
+you don't really need to bring a whole lot of cultural knowledge about their you know personal history with their
+40:27
+spouse to be able to understand that's breaking your ankle hurts right and what we found is that it was those kinds of
+40:34
+stories where people had to bring a lot of contextual knowledge to fully
+40:39
+appreciate that activated these default mode systems the spout the losing of the smell losing of the spouse so what we
+40:46
+later showed in a series of experiments um contrasting uh true stories that are
+40:53
+meant to induce admiration for skill right like something physically skillful
+40:59
+somebody can or cognitively skillful and memorize a Rubik's Cube and solve it with your eyes closed right or do flips
+41:05
+on your bicycle and land on a railroad tie right like these incredibly skillful things
+41:11
+um as compared to uh uh the same kind of basic emotion in the sense of feeling
+41:17
+like inspired um like attracted to it like it's pleasurable like it's really cool like
+41:23
+you wish you could do that too but now it's about a state of that person's mind or quality of character or disposition
+41:30
+of self so talking about the incredibly Brave of uh actions of Malala in
+41:38
+Pakistan standing up to the past to the to the Taliban right where it's not about how well she walks down the street
+41:44
+holding her school book there's nothing really physically skillful to see there it's about the conditions under what
+41:51
+she's doing it and what you can infer about her state of mind and her quality of character
+41:57
+to be engaging in these actions under those conditions and those complex kinds
+42:02
+of inferences we found activate these default mode systems
+42:07
+uniquely and in fact we can in trial by trial experiments so literally depending
+42:13
+on what you say about a story whether it inspires you that particular story out
+42:18
+of 50 right in a two-hour interview beforehand if you are inspired by a
+42:23
+particular story as compared to another one which may not resonate with you right um then when we put you in the MRI
+42:30
+scanner we can predict that you will actually activate these neural systems
+42:35
+differentially based on your psychological reaction in the interview so we can actually show that there are
+42:42
+systematic ways in which these large-scale networks of the brain so the
+42:47
+way in which the brain's kind of balancing its activity and its crosstalk around the different parts that are
+42:53
+contributing different kinds of processing those Dynamic balances are are are different when someone is what
+43:01
+we're doing what we're calling now transcending the situation of that person right
+43:07
+and starting to learn something bigger about what it all means or what the story is or the the broader reason why
+43:14
+this inspires me um and not just is about her right so you can look at Malala and you
+43:21
+can say you know oh uh uh I hope she makes it that's that's that's really
+43:26
+unfair and I and and like right or you can look at her and say and kids say this to us and experiments with
+43:32
+teenagers um but wait a minute and they actually wait they cover their face they close their eyes they look away from the from
+43:39
+the Malala video and they look at the plane ceiling and we can actually get coders with the volume off to identify
+43:46
+these periods of time and say that when they come back from that pause their
+43:51
+speech slows their their posture closes right they put their hands down that kind of thing they don't gesture right
+43:57
+and when they come back from that they are talking about two things they're talking about the broader
+44:04
+inferential narrative around what all this means wait I didn't know not everybody in the world doesn't get to go
+44:10
+to you know gets to go to school you know that's not right right and and these ethical interpretations that's not
+44:18
+right and the third thing that comes up is a feeling of self and what it means for you because you're using your own
+44:25
+self and Consciousness as a kind of springboard like a trampoline like we said before to try to appreciate what it
+44:30
+must be like to be her so the next thing people say to us or kids say to us especially is it makes me realize that I
+44:36
+go to school all the time and I kind of take it for granted and maybe I should work harder to try to do something about that for other people you know so we
+44:43
+have this incredible Confluence in the brain and mind this layering of of of of
+44:50
+real physical actions and things that happen that you can directly observe with the visual system right in the
+44:57
+world and then you impose upon those a desire to construct a story or meaning
+45:04
+and you elaborate that meaning and in doing so you also ramp up the internal
+45:12
+sense of self-aware awareness of me being me of conscious systems systems
+45:17
+that support Consciousness in the brain and brain stem very basic things we share with alligators right that become
+45:24
+that kind of inspired state of you know like wait it makes me want to do more
+45:30
+for the world or it makes me inspired to know there are people like her she gives me hope for Humanity one kid told me
+45:36
+right so we've got this incredible Dynamic layering of the feeling of the
+45:42
+body the real physical body the observation and sensation perception of
+45:47
+the world around us in a physical real or social real sense and then the elaboration of that into these cultural
+45:54
+narratives that become feeling States and where valence kinds of disappears right it doesn't matter so much anymore
+45:59
+whether it's painful or pleasurable it's more about does it mean something I'm
+46:05
+suffering because it's helping someone else right and so it becomes something desirable even though it hurts me right
+46:11
+otherwise none of us would go through childbirth right and so it's that meaning process that makes us really
+46:18
+uniquely human and that is the development of these emotions over time I think incredible uh if I'm
+Emotional Development & Lifetime
+46:26
+understanding correctly there's a feeling state in our body when we
+46:31
+experience or observe somebody in in their own feeling state or experience it
+46:39
+may be the same as theirs might be different and frankly as a neuroscientist I'm going to say we'll never know exactly that we won't know
+46:46
+Angel and philosophical depression we won't if I see blue and you see blue is it the same experience it's probably not
+46:52
+based on so from knowledge of color vision and the distribution of cones to
+46:58
+explain why I'm saying that the distribution of cone photo pigments in your eye and my eye are extremely
+47:03
+different uh to the point where we're not working with the same palette cool and I think that makes life interesting
+47:09
+life interesting exactly but assuming that neither of us is colorblind red is similar enough to both of us that we
+47:16
+both look at it and say that's red but one in 80 males is red green colorblind would look at it and would
+47:22
+um see what you and I call Red and call it Orange in any event
+47:28
+when we let's say listen to or watch and listen to Martin Luther King's classic I
+47:35
+Have a Dream speech um or when I hear certain music that I
+47:41
+first heard when I was 14. I was a particularly interesting for me time in my life in part because I was 14 and
+47:49
+we'll get back to that it's 14. we're talking about adolescents right I I'll just say I'll go on record by saying
+47:55
+that the I think that the music that we listen to in our adolescents and teen years
+48:00
+is one of the main ways in which we come to recognize the extremes of these
+48:06
+feeling State templates that you're describing I can one of the ways I prepare for podcasts is
+48:13
+um is to walk and and for my solo podcast is to walk and go through some of the narrative my neighbors think I'm
+48:18
+crazy um but that's okay I think they're crazy too um maybe they're both right okay that's
+48:25
+right exactly and um but I I always know what music to listen to before I do a
+48:31
+solo podcast depending on the state that I happen to be in driving into the studio versus the one I need to be in in
+48:37
+order to deliver that particular material and I know because I it's almost like knowing what palette of
+48:43
+colors or emotional colors I have in me at the moment and which ones are going to be required to deliver that material
+48:49
+um because it's different depending on the on the topic matter for that episode what I'm referring to here is is this
+48:56
+idea that um you know we we come to understand emotions through our own experience and
+49:04
+how observing other people and listening to certain music can influence that and I I realize that some people probably
+49:10
+have more of a buffer between their um experience of the outside world so-called like steroception seeing
+49:16
+things outside us um and their internal landscape um some people I realize have very
+49:23
+little narrative distancing in fact I live with someone who has very little narrative distancing when she watches a
+49:29
+movie if the person gets punched yeah she Ducks she she flinches
+49:34
+um if it's a happy movie she gets happy yeah if somebody in a movie is sad she really feels it and for a while I
+49:39
+thought goodness you know this is like really seems a little extreme but I've talked to professionals about this and
+49:45
+it's something called lack of narrative distancing transportation is another way to say it yeah being transported by
+49:52
+story right and and I think that it has its adaptive utility I'm not being critical I think that's an incredibly
+49:57
+interesting aspect to ourselves some of us I have a lot more narrative distancing especially with violence and
+50:03
+I yeah I think that's because I grew up around a lot more violence than she did and so I see somebody you know get
+50:09
+beheaded in a film and I and I unless it's something where I've really been built into the story of that person and
+50:15
+it was a real world thing that I knew actually happened then I I just kind of
+50:20
+go okay well it's a movie you know there's a movie it's not real even if it's a movie about something that was real that might be a little bit more of
+50:26
+an emotional impact and of course if it's a documentary and it's real footage it's pretty rough yeah but I don't
+50:33
+um I'm not horrified in the in the way that she's horrified I'm horrified but
+50:38
+not to the same extent um so obviously that some of us have
+50:44
+more of a buffer than others and you can see this in a movie or in a classroom full of kids watching a a speech like
+50:52
+the eye of a Dream speech or hearing the Rosa Parks story or for instance or
+50:58
+um listening to and watching a David Goggins social media post which I met David earlier because your son had a
+51:03
+question for me about David Goggins who I happened to um have the Good Fortune of of having met and know a little bit I
+51:09
+don't know him very well but I know um in from some in-person interactions and he is every bit as intense and every
+51:15
+bit as serious about his um ongoing progression as he appears to be there there's there's no false so
+51:21
+there it is 100 data fact genuine he does what he claims to do and more yeah
+51:29
+um that we don't hear about super impressive human being so when we see something like a David Goggins post
+51:37
+or we watch and listen to the I Have a Dream speech and we start to feel something yeah like whoa we're feeling
+51:44
+inspired to use the basic language are we mapping to some subconscious
+51:51
+awareness of that in ourselves um meaning are we mapping to some time
+51:57
+when we felt inspired in another circumstance or are we really you know is this merely a kind of a
+52:04
+return to a feeling state that we have to recognize I don't know if experiments have ever been done on this but is there
+52:09
+any way to to determine whether or not we can truly have novel emotions past
+52:15
+age 15. um or are we really just returning for that matter are we really just doing a
+52:20
+sort of template matching of wow I'm feeling this again and and this makes me feel capable like I can go out and run
+52:26
+today even though I was gonna basically not run today um or you know it's possible to have a a
+52:32
+fantasy view about how the world could be in terms of um equality that um an opportunity and
+52:40
+you know what like I that's subconsciously is my brain saying yeah I remember when I was six and and I didn't
+52:46
+know the difference between some people having an opportunity and other people not having opportunity um is that what's happening or do you
+52:53
+think that we are more sophisticated than that and we are actually really um uh responding to what we think we're
+53:00
+responding to okay so wow there's a lot in there um a couple a couple of things to start
+53:07
+so the the first thing I was thinking before when you were talking about the visual system which I think is relevant now
+53:13
+um is is that as humans the more developed we get the more experience we
+53:18
+have the more um we've adapted to the contexts in which we live you know the
+53:23
+real physical context in this case the visual context included um but also the cultural values of that
+53:29
+context the things we've noticed other people notice right how do you learn when you're living in the jungle that
+53:35
+when you see eyeballs you should you know go stand next to your mommy right um so you learn what to notice you learn
+53:42
+what what you need to attend to in the world and you're so when we are perceiving things
+53:49
+either very basic things like a visual scene or hugely complex elaborate things
+53:54
+like uh Martin Luther King's speech we are as much imposing onto the world our
+54:01
+own expectations of what is there as we are perceiving
+54:07
+what's actually there right so as we impose onto the world we bring what you
+54:13
+might call our cultural ways of seeing and knowing our values and beliefs and we push them onto the experience of what
+54:23
+we notice so even in very basic ways things like cultural values uh change
+54:29
+the way in which people observe and remember scenes right so you know there's classic work by shinobu kirayama
+54:36
+and other people showing that in Japan versus in uh in the U.S uh when you show
+54:42
+people a scene of um you know like an underwater scene with like all the beautiful things that are underwater
+54:47
+rocks and plants and things and the little fish swimming by and then one big fish swimming by right and you ask a Japanese person uh what's this a picture
+54:54
+of they tend to talk about it's a scene of rocks and plants and little fish and
+54:59
+then a big fish swims by um if you ask an American uh Western educated person what is this picture of
+55:06
+they say oh it's a fish swimming through a scene right we we tend to notice first
+55:12
+and you can he's shown that this is you know is very very automatic it's very
+55:17
+low level it's perceptual not just conceptual and it actually changes what people actually notice in the scene and
+55:23
+what they remember later and all that kind of stuff right we learn how to
+55:29
+sort of filter input we're not little you know uh robots or little uh video
+55:35
+cameras walking around observing the world and so when we see something as complex as a social story We impose onto
+55:43
+that all kinds of personal experiences so you said are we ever able to experience new emotions after age 15 I
+55:50
+think no but we are very well able to experience new feelings right which are the complex elaborations of these
+55:57
+physiological States and the stories we tell ourselves about the meaning behind them that is developing all the time and
+56:05
+it's developing through all kinds of quote-unquote cognitive media we do it through our science right by being
+56:11
+inspired and interested in something by being in awe of something we do it through ART through trying to express an
+56:18
+emotion or a feeling or a value State through the way in which we portray something to other people right as
+56:25
+humans we are driven I mean even as cave people we were driven to say I was here
+56:30
+here's my handprint I'm going to spit it onto a rock so forevermore anybody else comes in here is going to see that it
+56:36
+was me who was here and I have a me right and so what we're really doing is
+56:43
+moving through the world not in this kind of receptive passive way but we are
+56:48
+actively imposing ourselves onto the world we're actively bringing our
+56:54
+interpretive power and adapting what we do next relative to the way in which we
+57:01
+accommodate right Piaget talked about this 100 years ago accommodate or assimilate those things into us that we
+57:07
+that that may disagree with our schema that may uh that may align in accord and reinforce them so this matters a lot for
+Narrative & Genocide; Checking Assumptions & Mental Flexibility
+57:16
+the ways that humans experience the world more broadly because think about for example
+57:23
+um a terrible topic like genocide or the Holocaust right how does something like that happen right how is it that people
+57:30
+who have empathy who who love their family who love their neighbors can suddenly turn on each other right what's
+57:37
+happened is they've shifted the way in which they naritize the context of those
+57:44
+events the way in which they impose interpretation on somebody else's pain
+57:49
+has been fundamentally shifted from that's another human suffering too that's not a human that's a a rat a pig
+57:57
+a bug or whatever it is right and that dehumanization process allows us to shift our story set so that we bring
+58:05
+another set of values and beliefs into the space
+58:10
+um can I just say I'm I'm glad that you brought up that dark example yeah because my understanding from my
+58:17
+psychology courses in University where that as much as we would all like to think that we are incapable of being the
+58:24
+committers of genocide that there are studies that were done in the 50s but
+58:29
+then have been repeated over many decades showing that um in certain contexts
+58:34
+um essentially everybody and anybody would respond to an authoritarian figure
+58:40
+and torture somebody else and I'm sure as people are listening to us this they're thinking no I would absolutely
+58:46
+not do that but all the data points to the fact that if the conditions were set in a particular way
+58:52
+um you and I and everybody else most certainly would a very eerie idea that goes back to I think Young's idea that
+58:59
+we have all things inside of us and we certainly have all the neural circuitry components inside of us for um rage and
+59:05
+contempt and um and horrible mistreatment of others as well as all the good stuff
+59:10
+um but I I'm just glad that you brought up this example because um I think that for a lot of people it's
+59:17
+it's inconceivable but I've never heard it framed the way that you're describing it which is that if the story becomes
+59:23
+not about the other person's suffering but primarily about One's Own Story of
+59:28
+suffering and that can suppress or literally inhibit the neural circuits that invoke empathy
+59:35
+uh then it makes perfectly good neurobiological sense as to why that
+59:40
+would at least be possible yeah and of course I don't think it's a good thing it's just like many aspects of our
+59:46
+biology and psychology it just happens to be the way things are it is and I I think it really I think I
+59:54
+mean I'm the ever The Optimist I'm also ever the educator right I I you know I'm
+59:59
+a teacher I'm very also very interested in the ways that we design educational experiences for young people I think the
+1:00:06
+only hope we have to protect ourselves against these possibilities
+1:00:11
+is to systematically develop dispositions in ourselves proclivities
+1:00:17
+within ourselves to question our own motives and to deconstruct our own assumptions about situations and to
+1:00:24
+engage with other people's perspectives systematically and when we develop those
+1:00:31
+dispositions the hope is that we are developing within ourselves a kind of
+1:00:38
+um uh a veto system right a system for checking our own motivations against
+1:00:45
+other people's experiences of those motivations and
+1:00:51
+you know so much of what's leading I think so now we're going in another Direction and kind of a political
+1:00:57
+Direction but so much what's leading us into these very divisive political types for example not just and you know the
+1:01:03
+rise of authoritarianism not just in the U.S uh or the threat of it not just in the U.S but around many places in the
+1:01:10
+world all of which by the way are Western educated um uh is that we are taught that to know
+1:01:17
+something means you own something in yourself and then you take that with you and you impose it on the world forevermore I know how to do algebra two
+1:01:23
+and I can do it whenever you ask me kind of thing and that's what a good student is where when people in learn to engage
+1:01:31
+with their own knowledge States in in more Curious open-minded flexible ways
+1:01:37
+then we dispositionally teach ourselves to to check our assumptions to rethink
+1:01:44
+what we think we know and and this is key developmentally to notice when we
+1:01:49
+need to do that and when we should just play ahead and it's totally fine and and so what we're doing I think right now to
+1:01:57
+ourselves both in the education system and in things like social media is we're reinforcing our own biases by diving
+1:02:03
+down rabbit holes where you re-hear the same thing over and over again that reinforces your own belief systems and
+1:02:09
+then you come to believe those things and those put you on a train toward a
+1:02:14
+particular kind of action or belief system that never becomes deconstructed and it's very comfortable and it's easy to do but the responsibility I think we
+1:02:23
+have as individuals and as groups as humans given the amazing intelligence we have is to rise above that and actually
+1:02:30
+look back on our own selves reflectively and deconstruct our preferences deconstruct our values and our beliefs
+1:02:37
+and systematically query them specifically around how they impact or
+1:02:44
+influence or or or change the situations of those around us or don't right the
+1:02:51
+situations and sustainability of the world that supports us or don't and so it all comes back to the emotions that
+1:02:59
+drive our thinking so we have these very basic primitive physiological states
+1:03:05
+which vary across individuals the degree to which they are you know incredibly powerful easily evoked versus not you
+1:03:11
+know there's a lot of range in that now all of that variation makes things interesting right
+1:03:17
+um but it's our ability to learn to experience those and to know develop wisdom around when
+1:03:24
+we need to query our own emotions and deconstruct the narratives that are that
+1:03:30
+we're using to validate or substantiate those kinds of emotions in order to assess whether we actually
+1:03:40
+are right whether we should continue or whether we should step back and and and
+1:03:47
+and and and reframe right and so that kind of mental flexibility really comes
+1:03:53
+out of an emotional disposition it is our ability so it takes it back to what you're asking at the very beginning it
+1:04:00
+is our ability to not just drive from what feels like the bottom up which of course is always starting in the top
+1:04:05
+down because you've got some interpretation of the world that makes you feel fear and that makes your body do this that makes you right
+1:04:11
+um but also to be able to rise above to transcend
+1:04:16
+and think about what are the broader systemic historical uh uh ethical Civic
+1:04:24
+implications of this narrative I'm telling myself which feels default like
+1:04:29
+the truth and how might I deconstruct those systematically and how might I invite others to give me their version
+1:04:37
+of those events and engage with those systematically in order to be able to really appreciate the implications of my
+1:04:43
+beliefs and so the bottom line is that the emotions
+1:04:48
+that we're talking about today are actually the fundamental drivers of all
+1:04:54
+of our thinking decision-making relationship building right our community lives and our personal
+1:05:01
+well-being all in one mix but that doesn't kind of excuse us for acting on
+1:05:09
+their bequest it actually imbues us with a responsibility to then develop
+1:05:14
+dispositions to systematically query those and reframe them when they are not
+1:05:20
+serving us or the world well exactly what you said so much so that you know I I'm a big
+Social Media, Cognitive Dissonance
+1:05:28
+believer in following lots of different types of social media accounts yeah I've
+1:05:33
+taken some heat here and there yeah because people automatically assume that if you follow an account that you
+1:05:39
+subscribe to that ideology but I follow many accounts to whom I disagree with what they say specifically so that I can
+1:05:46
+learn different perspectives as far as I know we're the same species me and these
+1:05:51
+other people yes as far as we are and sometimes I wonder but um they probably wonder the same way about me they Wonder
+1:05:57
+too um and there's enormous range in in those uh those accounts that I follow
+1:06:05
+um and I follow different accounts for different reasons some for entertainment some for information some for
+1:06:10
+challenging myself some for um my desire to be baffled every now and again but to
+1:06:16
+always return to this idea that we're all we are all basically working with the same building blocks of neurons and
+1:06:21
+neurochemistry some people's dopamine which whether or not you're into Bitcoin
+1:06:26
+or um traditional currency uh the one true currency that's Universal is dopamine
+1:06:32
+everyone's working for dopamine and exchanging their own dopamine with World experiences but this is one of the reasons why I
+1:06:38
+think it's important to not be siled in one's thinking or exposure to different
+1:06:45
+things on social media a somewhat controversial statement actually because I think a lot of people assume that if you follow somebody from a particular
+1:06:53
+political party then that means that you vote that political party Etc um but that to me always seemed crazy
+1:06:59
+I'm fortunate to have a good friend who is on this podcast Rick Rubin who's a extremely accomplished music producer
+1:07:06
+and instead produced music from essentially every genre of music punk rock which is what our story I got my
+1:07:11
+start and still love punk rock music so much but classical and Hip-Hop and everything in between and Rick is
+1:07:16
+somebody who forages so broadly and I've really learned to try and forage broadly in terms of ideas and ideologies and
+1:07:23
+it's I think a lot of people are just scared to be exposed to something that they hate so much because they don't like that feeling in their body of of
+1:07:28
+disagreement um but yeah dissonance is very uh you know that kind of cognitive dissonance
+1:07:34
+we call it is very difficult it takes work to resolve it yeah I I guess is is there I like to think there's a way to
+1:07:40
+step back from that and observe it not from a disconnected stance but from a place of curiosity about what's driving
+1:07:46
+the those mechanisms in people and and maybe where we need to adjust our thinking maybe not to adopt their mode
+1:07:53
+of thinking 100 but maybe you know 10 or 2 I think one of the the reasons things
+1:07:58
+are so divisive right now is because of social media and the siloing or of kind
+1:08:03
+of Orchard very um Divergent trajectories of people only following and listening to and obeying certain
+1:08:09
+kinds of information and other people the other and I think the pandemic is the place where all that really clashed
+1:08:14
+very heavily um and continues to Clash in other areas too
+1:08:19
+um certainly not something that's going to be solved um inside of this conversation and yet I do have
+1:08:25
+um a question that that grows from this aspect of our discussion which is you
+1:08:30
+know what do you think can be done at a concrete level in terms of Education of younger people
+1:08:38
+as well as educational people who are out of high school and and Beyond to try and adopt these
+1:08:46
+more um encompassing modes of of learning and experiencing the world I mean it's one thing to say you know
+1:08:53
+expose yourself to lots of different ideas um it's another to to understand how to
+1:08:58
+how to do that in a way that that is um adaptive and that any ideas you have
+1:09:04
+um I think what I know I and the audience would really appreciate and and feel free to to
+1:09:10
+um make this an editorial um or or map back to data I mean obviously this is your wheelhouse this
+1:09:16
+is this is your expertise so I'm curious what what should we do should should I send my family members who have very
+1:09:23
+Divergent political beliefs from me um information um to the to the contrary they're
+1:09:28
+thinking or should what do I do and what do I do for me what should we all be doing with our 10 year olds and our yeah
+1:09:35
+and ourselves well I won't I won't comment on should you send your family members your
+1:09:41
+there's other people that do that and they they do that work and they know how they're always frustrating each other
+1:09:46
+over text message it's okay it's okay it can't get any worse yeah no okay we all love each other anyway
+Education, Deconstructing Beliefs & Curiosity
+1:09:52
+but one thing I really do think a lot about in this is um the way in which we educate our young
+1:09:58
+people and what do we do with our 10 year olds right and like the first thing I'll say about your time well I don't know if you actually have a 10 year old
+1:10:04
+but is um is is query them about their beliefs when they follow something when they think something's impressive or bad
+1:10:11
+or you know ask them why teach them to unpack their own beliefs that doesn't
+1:10:17
+mean that you that you don't still hold them necessarily it doesn't mean that you adopt the opposite belief right if I
+1:10:24
+talk to someone who has a very different value system than I do and I disagree with them that's legitimate but two it
+1:10:30
+also but but in deciding that I disagree I have sort of Revisited my own belief
+1:10:37
+and queried it I've I've externalized it a little bit made that thinking visible is why we talk about it in education
+1:10:43
+that's David Perkins at Harvard talks about it that way you know making your thinking visible and then examining that
+1:10:49
+thinking and and so I think one really important step that a society
+1:10:57
+will have to take or we won't make it and I know that sounds a little
+1:11:02
+um dramatic but I actually think it's true sadly uh and I'm starting to think
+1:11:08
+it's more and more true is that we need to really get Brave about how we think
+1:11:13
+about the process of educating our young people and what it actually means to
+1:11:18
+expose young people to developmentally appropriate age-appropriate
+1:11:25
+opportunities to grow themselves as thinkers as individuals and as Civic
+1:11:32
+agents and community members I I think that our Western designed
+1:11:38
+education system has in it some very basic beliefs about
+1:11:45
+what counts as knowing and what is worth thinking about and knowing about and how
+1:11:51
+do I know that how do I test you on that that I think
+1:11:57
+is deeply they are deeply problematic and lead us I mean I know this is a
+1:12:03
+strong statement but they lead us to a place where we are we are actively punished not just not
+1:12:10
+encouraged but I would say actively discouraged from really playing with ideas
+1:12:17
+engaging systematically with our own beliefs deconstructing those beliefs and engaging with complex perspectives on
+1:12:24
+topics and ideas that is just not what school is about and it needs to be we need to shift so
+1:12:33
+right now the way in which we think about school is about is basically judged by
+1:12:40
+quote unquote learning outcomes right what have you learned and how do we know that we make you demonstrate it by
+1:12:46
+yourself under time pressure in a particular setting right or you're going to come back and I'm going to give you a
+1:12:52
+question and you're going to give me the answer I had in mind and if you do that in time then I'll say you learned it and now we're done check right
+1:13:00
+as compared to a system and there are Educational Systems like this this is not
+1:13:07
+um there are people for example the performance uh assessment Consortium in New York City is a Consortium of public
+1:13:13
+schools some of which do this extraordinarily well they have a a dispensation from the New York state
+1:13:19
+government uh not to give the Regents exam as their graduation requirements
+1:13:25
+um and their um and and their their benchmarks of learning but instead to have alternative ways of assessing kids
+1:13:31
+where kids work for months to years depending on the project on these
+1:13:36
+in-depth intellectual multi-disciplinary projects where they explore a topic and
+1:13:42
+they engage with their own process of learning about that topic and they bring in teachers and Community experts and
+1:13:49
+other people and they present their work and then they query the work and they talk about their own learning process
+1:13:55
+and what could happen next and what decisions they made and all these kinds of things exactly you have to invent not
+1:14:03
+just the work but the question look at the world and notice what it is
+1:14:08
+we're not understanding that we would benefit from understanding and find a way to to isolate and systematically
+1:14:16
+query that why don't we build education systems from preschool all the way up
+1:14:25
+that in that engage people systematically in that kind of intellectual curiosity we don't do that
+1:14:32
+so we we know that little kids education preschool education if you don't have the water table in the sand table and
+1:14:39
+the cool stuff and the choices and the ways to engage with each other and you know I mean all the stuff being really
+1:14:44
+age appropriate for three-year-olds to touch and smoosh and you know try to taste and whatever else they're going to
+1:14:50
+be a mess on the floor they're just not going to come they're going to refuse to come to school right and they're going to be laying in the in the doorway
+1:14:56
+throwing temper tantrums right but as so we know how to do little kid education well it doesn't mean we always do it but
+1:15:02
+we know that they need to be intrigued they need to be invited to think and
+1:15:07
+they bring their Natural Curiosity and then you expand the range of ways they can leverage that Curiosity to discover
+1:15:14
+new things they hadn't known to think about before right then we get to the standard
+1:15:21
+quote-unquote educational system and we somehow think that that natural human
+1:15:26
+proclivity to engage curiously and meaningfully with deep thinking about
+1:15:32
+ideas and the world is is like inefficient and inappropriate
+1:15:38
+and frightening and we teach kids no no no no no turn that off it's it's it's
+1:15:44
+dangerous if you do it it's considered insubordinate right and what we want to
+1:15:49
+instead to do is just let me give you what I've already figured out for you I'm going to give it to you and you are
+1:15:56
+going to give it back to me so it seems to me that in the way that things actually happen in school what is
+1:16:03
+created is kind of desire for the kid to be a computer not a human and they do have a
+1:16:10
+dopamine system however and so what becomes the the buzz the emotional Buzz is performance yes if it becomes a buzz
+1:16:19
+at all so for the kids that don't get that buzz from performance or they don't or they don't intrinsically love the
+1:16:24
+math or the English or the books that they're being presented with or or whatever the subject happens to be
+1:16:31
+um or maybe they only like one or two things then they emotionally dissociate
+1:16:36
+from the rest of the material I'm actually describing a bit of myself in high school I I was not I barely
+1:16:42
+finished high school um I dropped out of sixth grade for a few months yeah didn't work for me yeah
+1:16:47
+you know I eventually got back to it and and as I imagine you did too um so we ended up as academics but um I think
+1:16:55
+what you're describing is so key um and I never thought about it from the perspective of oh yeah as young kids
+1:17:00
+like we're given all the things that are going to drive our sensory World um in the appropriate ways top watch and
+1:17:05
+sound and um we're trying to build meaning in our mind and that we get to um as students
+1:17:13
+young very Young Learners impose some of our own um intrinsic motivation to do certain
+1:17:18
+things and not others and that that isn't supported as we're adults I'd like to take a quick break and thank our
+Sponsor: InsideTracker
+1:17:24
+sponsor inside tracker inside tracker is a personalized nutrition platform that analyzes data from your blood and DNA to
+1:17:31
+help you better understand your body and help you reach your health goals a long been a believer in getting regular blood
+1:17:36
+work done for the simple reason that many of the factors that impact your immediate and long-term Health can only
+1:17:42
+be assessed with a quality blood test the problem with a lot of blood and DNA tests out there however is that they'll
+1:17:47
+give you information about certain lipid markers or hormone markers but no information about what to do with all of
+1:17:54
+that data inside tracker makes it very easy to look at your levels of hormones metabolic factors lipids Etc and then to
+1:18:00
+assess what sorts of Behavioral nutritional supplementation or perhaps other interventions you might want to use in order to bring those numbers into
+1:18:07
+the ranges that are optimal for your health inside tracker's ultimate plan now includes three new hormone markers
+1:18:12
+that are critical to measure during a woman's reproductive and menopausal years these are estradiol progesterone
+1:18:18
+and thyroid stimulating hormone if you'd like to try inside tracker you can go to insidetracker.com huberman to get 20 off
+1:18:25
+any of inside trackers plans again that's inside tracker.com huberman to get 20 off
+Emotion & Learning; Constructing Meaning
+1:18:32
+what you're describing is so vital what age do you think this um Cliffs off so
+1:18:38
+you okay so in preschool kids are allowed to do this in kindergarten they're allowed to do a first grade they're allowed to do it in most schools
+1:18:45
+but at what point do is the expectation imposed on kids to become little rote
+1:18:50
+um um learning computer machines and to get their dopamine from
+1:18:56
+um performance rather from intrinsic pleasure in what they're learning thinking about you and also how do we
+1:19:02
+address this issue that there are certain basic skills that not everyone is going to perform well at and so for
+1:19:07
+the kid that says I don't like math well you still have to learn it you need to appreciate it how do you so how do you
+1:19:13
+conjure up in a a joy or an appreciation in that kid I mean it seems like a hard
+1:19:19
+thing I mean I eventually set myself along a academic trajectory
+1:19:25
+um to that worked out um but that was initially just out of pure fear because my life was was really
+1:19:31
+bad I made circumstances and myself made it bad and I was rescuing myself from
+1:19:38
+basically becoming more of a loser so I was like okay school's the thing and I just school and that was that was the
+1:19:44
+turn hard right into into academics for me but what do you do for the person who is like really doesn't like math because
+1:19:51
+they're struggling with it or doesn't like biology or psychology I mean how do we how do we evoke a at least an
+1:19:59
+appreciation for that um it sounds like the emotion system is the key system to leverage in order to
+1:20:06
+learn and and so could you talk about the relationship between emotion and learning yeah because I realize this is
+1:20:12
+really the the center of what you do so I mean you could say it this way right
+1:20:17
+so whatever you're having emotion about is what you're thinking about right and whatever you're thinking about
+1:20:24
+you could hope to learn about remember something from right understand differently so the key question for
+1:20:31
+educators is what everybody's always having some kind of emotions all the time if those are dead right or
+1:20:37
+unconscious what are people's emotions about in this space if the emotions because whatever those
+1:20:44
+emotions about that is what you're learning about so if the emotions are about the outcomes did I get it right am I going to flonk and I can make plus I'm
+1:20:49
+so smart I'm so stupid well any one of those right if those are the main drivers then that is what you're
+1:20:56
+learning about if the emotions are about the actual ideas in play the math the physics the
+1:21:04
+why does the ball roll down the ramp wait a minute that's the same as why the moon goes around you know what I mean like there are right when the emotions
+1:21:12
+are about ideas then what you're engaging with is learning about ideas and so what I would argue is that in
+1:21:19
+setting up the kind of accountability system we have we have taught people
+1:21:26
+that their emotion should be about these high-stakes accountability measures
+1:21:31
+which means that's what we're learning how to think about perform perform not
+1:21:37
+how to think about the ideas not the intrinsic power of using math to
+1:21:44
+understand the world in a different way so how do you engage kids right you
+1:21:50
+engage kids by setting out Rich problem
+1:21:56
+spaces that but in problems that invite them to try to engage with something
+1:22:02
+that piques your curiosity that's meaningful to them or have them bring in well the kid who really hates it like
+1:22:08
+what is it that you do find interesting kid right start there start there and start using your your
+1:22:15
+academic skills in a way that will give you power to do what it is you're interested in doing that's the way in
+1:22:21
+use your writing use your math use your persuasive argument skills use your
+1:22:26
+filmmaking skills whatever it is to tell the story of something that you find
+1:22:32
+deeply meaningfully powerful to understand and all of a sudden you need
+1:22:37
+the math kids actually say things like like there's this lovely um there's this lovely uh long quote
+1:22:44
+from a from a Sudanese immigrant kid in one of these New York schools uh with the performance assessments
+1:22:52
+um uh in a in an article I wrote with a colleague named Doug connect um the article is called building
+1:22:57
+meaning builds teens brains you can find it in educational leadership there's a big long quote from this kid at the end
+1:23:02
+and he's basically explaining what math class meant to him which he had never passed a math class before and he says
+1:23:07
+he got this problem called walking to the door which is basically Zeno's Paradox right you get halfway to the
+1:23:13
+door halfway to the door halfway there do you ever get to the door why or why not right and they spent months learning
+1:23:19
+the math that would help them get at that problem and he talks about how I
+1:23:24
+had a problem he says and I had to learn fractions I had to in order to be able
+1:23:31
+to solve the problem I had and as I engaged with fractions and that problem
+1:23:36
+I got fascinated he says by finite and infinite and these ideas were driving my
+1:23:44
+need to learn to do fractions right so we've got the cart before the horse I'm
+1:23:51
+not saying you don't have to learn math or you don't have to learn to read or write or or do all these other kinds of skills but we make those which is in the
+1:23:59
+horse's cart you know what's in the cart we call that the the metric of the education system and the aim of it when
+1:24:06
+in fact it's the quality of the horse can that horse pull the thing right that's the development of the person and
+1:24:13
+what they put in their cart then serves that development it's the toolkit of
+1:24:18
+ways of knowing and understanding that come with you as you move into the world but this this takes real real
+1:24:25
+developmental skill on the part of Educators right who are not supported or or or resourced or trained to think
+1:24:33
+about development in these ways I mean so you asked when does this fall off it really depends on what school system you are and what demographic you are when it
+1:24:40
+falls off but for almost everybody except for the privileged few uh who are in very Progressive alternative schools
+1:24:47
+it falls off by adolescence which is when school gets serious and it's also
+1:24:53
+ironically when developmentally kids are developing the neural capacity and the
+1:25:00
+psychosocial capacity and the drive to infer complex narrative meaning from the
+1:25:07
+things they are doing you know these aren't just my shoes these are a statement about you know what I believe
+1:25:14
+about sustainability and about sports and about adults and Counter Culture
+1:25:19
+right and as we grow into a space where we're driven to try to you know
+1:25:25
+Challenge and think about big meanings and engage with perspectives and emotions and social issues and Broad
+1:25:31
+important existential questions be they in physics or be they in art or be they
+1:25:36
+in the social Civic domain right what do we do
+1:25:41
+we double down on controlling the input and the output transactional mechanisms
+1:25:48
+that count as quote-unquote academic rigor and achievement right we start to
+1:25:54
+ask kids you know what's the name of the the servant who shows up in the scene and and Great Expectations right is it
+1:26:01
+Molly or is it Maria right and it's you know like who the heck knows and that is not the point of reading Great
+1:26:07
+Expectations right we take away because we're afraid as Educators as Society
+1:26:14
+we've got this narrative around young peoples and particular but everyone's propensity to build and
+1:26:22
+construct meaning in these spaces and self in these spaces that agency frightens us
+1:26:29
+because we're worried they're going to take risks they're going to do something stupid they're going to they're going to fall off the track they're gonna not
+1:26:35
+make it in the traditional system and in trying to protect them and shield
+1:26:42
+them from their own Curiosities their own dispositions for meaning making we I
+1:26:48
+would argue actually stunt their ability to grow themselves to the point where we
+1:26:53
+have mental health crises literally crises in in mental health right now in adolescence across demographic groups
+1:27:00
+especially bad in young girls as I understand yes that's right but but after that in everybody and it's worse
+1:27:07
+than girls yes we don't fully understand why that is um uh got some you know suggestions uh
+1:27:14
+you know what we're really doing is actually producing people who are gutted of their
+1:27:23
+own inner drive to become someone who thinks powerfully in the
+1:27:30
+space of the world we are frightened to let our young people have that power which is the role of adults is to wrap
+1:27:38
+around young people and help them learn to to be reflective to be systematic to
+1:27:46
+be rigorous with themselves as they develop the capacities and dispositions
+1:27:53
+to deconstruct their own beliefs to deconstruct their own aims and goals and the ways they understand the world and
+1:27:59
+to rebuild them iteratively over and over in this in this sort of intellectually humble curious way where
+1:28:06
+we're constantly querying ourselves constantly querying other people where we're willing to sit with uncertainty in
+1:28:13
+complex problem spaces and think through the possibilities rather than settle
+1:28:18
+quickly onto one solution what does school expect you to do settle immediately onto one solution which by
+1:28:23
+the way is the solution I already had in mind when I gave you the question right right as compared to
+1:28:29
+sitting with young people and allowing them this in safe and appropriate ways
+1:28:34
+the space in which to actually grapple with complex powerful questions when
+1:28:40
+kids develop the proclivities to do that they learn how to manage those very
+1:28:46
+human capacities that we've been talking about the whole time that can lead to you know terrible evil as well as
+1:28:53
+amazing virtuousness they learn to appreciate and manage those capacities
+1:28:58
+within their own selves I think so much of what we see in terms of these you know quote unquote Failure to Launch
+Good Teachers & Curiosity
+1:29:04
+examples are are because I know some of these the children of friends um really really smart kids that didn't
+1:29:12
+map well to the system and therefore are not doing well really struggling and um clearly have the
+1:29:20
+intellectual power it just wasn't served up to them and uh School wasn't served up to them in a way that worked yeah
+1:29:25
+that says as much about the system as it does about the kid right yeah I I teach a course at um Stanford to the medical
+1:29:32
+students that every first year medical student takes about Neuroscience it's team taught it's a phenomenal course
+1:29:38
+um because of the the range of expertise uh in the teaching um that comes through and one thing I've
+1:29:44
+noticed um is that the they're all phenomenal teachers
+1:29:50
+um but the best instructors um do two things simultaneously when they teach first of all they come to the
+1:29:57
+table with Incredible expertise obviously we understand what you're trying to get at if you want people to
+1:30:03
+engage with ideas yeah they are true luminaries in their respective Fields addiction pain memory uh every system of
+1:30:10
+the of the the body and brain that relates to the nervous system is taught in this course but that I've noticed
+1:30:17
+every once in a while that um there's a subset of them that as they teach from that position of expertise not only are
+1:30:24
+they clear not only are they engaging not only are there slides um sparse enough to understand but Rich
+1:30:31
+enough to include all the relevant detail but they also flip back and forth
+1:30:36
+in from the position of expert to the position of novice learning it for the first time that's almost that
+1:30:42
+intellectual curiosity that they're keeping a lot they have this disposition we're talking about cultivating sorry to
+1:30:48
+cut you off no please do um as academics we're familiar with that right interrupt
+1:30:54
+interrupting in the landscape of academics interrupting me is is a sign of Interest I think Carol I think Carol
+1:31:00
+dweck was the one who told me that she okay she's right and she's right yeah she's right um the great Carol dweck
+1:31:06
+yeah and so um but I've seen this especially so you know there are some topics that um you
+1:31:12
+know I like to think that I'm I might do this reflexively for because like for instance I started off in neural
+1:31:18
+development and I adore the topic so I can't teach neural development without being completely
+1:31:24
+blown away in the positive sense of how a brain develops yeah I've still never talked about this I've done a podcast on
+1:31:31
+it um because it tends to require visuals um and we don't use those in the because
+1:31:36
+the podcast guys most people listen to the podcast but maybe I'll do something just for YouTube at some point but that
+1:31:42
+I think it's this the same experience occurs when I see somebody um like uh Dr Sean Mackey who runs our
+1:31:50
+our pain clinic at Stanford teach about pain and the systems of the body that relate to pain and emotion and how to
+1:31:56
+cure certain forms of pain Etc treat pain it's like he's he's clearly the
+1:32:02
+world expert but the way he describes a system you can tell he's he's learning it again for the first time in parallels
+1:32:09
+all of that and I feel like that ignites the emotional systems of the learner's
+1:32:14
+brain in such a powerful way um that is distinct from just hearing an expert talk about something he's not
+1:32:21
+relaying he's not a squirrel with nuts and giving all the nuts to the kids he's inventing the knowledge in front of them
+1:32:26
+right that's a great way to put it um as usual um others are more succinct in
+1:32:31
+collecting my ideas than and expressing them than I am um so I think that's a that's a powerful
+1:32:37
+thing I went to a high school that's uh has a kind of a split reputation it's
+1:32:42
+known as being one of the best public high schools in the country it's also the high school that at least for a while had one of the highest suicide
+1:32:49
+rates in the country it's written up in various uh newspapers and and so on
+1:32:55
+um and so much so that nowadays they forbid the kids there from meeting uh
+1:33:01
+more than an hour before school to practice for the standardized test by the way when I was at school the only thing that school represented for me in
+1:33:07
+high school was something that came between breakfast and skateboarding and a lot and frankly I wasn't in school a lot and I don't recommend that kids go
+1:33:13
+to school stay in school I I missed a lot of school I had a lot of them did all kinds of weird things there's a lot
+1:33:20
+of making up to do in college um as a consequence so stay in school get the basics um but this is actually
+Inter-disciplinary Education; Development & Culture
+1:33:26
+where I'd like to go you have a very interesting trajectory yeah you're our University Professor you
+1:33:33
+um study emotion and learning and many other things across cultures and um adolescence and and so many other
+1:33:39
+important topics but um you are not a story of of like growing up in an
+1:33:46
+academic family you grew up on a farm um sort of gentleman's Farm my dad was a
+1:33:51
+surgeon but we had animals in a farm and tried my parents tried to have us you know growing the things we ate you've
+1:33:58
+had a number of different experiences that we were talking about before we started recording but but one of the things that you mentioned was getting
+1:34:05
+involved in education um where you were exposed to students of
+1:34:11
+who had very different backgrounds than you um maybe you could just talk a little bit about
+1:34:16
+um sort of the nodes of your experience so you grew up on this farm and then maybe just hit some of the other nodes and and then let's let's take a foray
+1:34:23
+into when you first got exposed to educating others yeah um and because I
+1:34:29
+think that's an important backdrop for what uh what we've been talking about here and service is a jumping off point for where I'd like to go next I'll just
+1:34:36
+jump in I mean it's always hard to talk about yourself I don't know what's interesting and what's not you know to me it's just me I I think what's
+1:34:42
+interesting is knowing you know where you where you've been and the things that that marked that mapped back to
+1:34:48
+your emotional uh uh networks in a way that for you feel like like that
+1:34:54
+mattered in terms of what you're doing now as a little kid I remember
+1:34:59
+even as a little kid not liking school I was a very good kid I was a very well-behaved kid I went to a decent
+1:35:07
+public school um but just the whole idea of it I just always felt like I had two left feet it
+1:35:13
+never felt like it was really me there I was always trying to escape a little bit you know what I mean and thinking about when I first started educating others
+1:35:20
+and like my first memory of educating others like specifically that comes to mind is I was six and I went on a little
+1:35:27
+vacation in the summer to stay with my cousins in Petoskey Michigan which is a
+1:35:32
+place on Lake Michigan where there are these um Stones where there's my understanding
+1:35:38
+from when I was six is that there are these like 200 million year old fossilized worms in these stones and you
+1:35:43
+can see them when you look at there's like little worms and you can see them yeah so I just was fascinated by these
+1:35:50
+stones that these are actual fossilized 200 million year old worms and I don't know if that number is correct that's
+1:35:55
+what I remember from age six so some paleontologists out there can correct me but I looked at these stones and I went
+1:36:01
+to the little local exhibit they had at the library or whatever and I learned about these stones and I brought some
+1:36:06
+back and somehow somebody thought to ask me to teach my second grade class when I started school about these stones and I
+1:36:13
+just remember I don't know how I got asked to do this but I remember standing in front of my class and talking about these stones and just
+1:36:21
+looking around the room and suddenly noticing you know that feeling when you're lecturing and you think oh my God they're fascinated by what I'm saying
+1:36:27
+like every kid is looking at me and like holy crap you know like and I was so I'm
+1:36:32
+like all right I'll keep going I'll tell you some more about these stones and I passed them around whatever and it must have been okay because I was then asked
+1:36:39
+to give that talk all the way up to the fifth graders who were way older than me and you're a professor I was already
+1:36:44
+fascinated by the natural world and able to like make meaning out of something in
+1:36:50
+a way that inspired other people if I can be so blunt doesn't say that and yet I was constantly in trouble at school
+1:36:56
+for not having my homework like I was just I you know the feeling of release on the Friday afternoon and the feeling
+1:37:02
+of dread on Sunday evening is hard to like describe you know and I went to a
+1:37:08
+reasonably well-resourced school you know um anyway fast forward
+1:37:14
+up to when I was older I mean I I was just always fascinated by and I think
+1:37:20
+someone this comes from my mom too um trying to you know speak different languages engage with people who are
+1:37:25
+different than myself just have conversations so from the time I was old enough to barely qualify to do these
+1:37:31
+programs my parents had the the resources luckily to be able to let me to do these things but I you know I went
+1:37:37
+off to France and stayed on a farm there for a summer and went to uh you know
+1:37:42
+Ireland I went to Russia by the time I was 18 I was working with these little kids off the street in in camping with
+1:37:48
+them in southern Siberia and all these kinds of things when I was as cold as they say inside it was gloomy and rainy
+1:37:56
+and muddy and cold yes uh yeah Siberia always sounds so Bleak my parents threatened many times to send me there
+1:38:02
+oh no yeah no that's a real threat I mean it's beautiful in many ways but um
+1:38:07
+yeah that was sad it was a sad sad story um anyway um you know I think what I I was trying
+1:38:15
+to do was actually learn by doing by being by engaging with
+1:38:20
+other people who knew things I didn't learning how to you know build things I was always really interested in
+1:38:26
+wordworking and boat building I went to Kenya and spent eight months there as an undergraduate right documenting this
+1:38:32
+traditional bowel Construction in a northern coast of Canada which are sailboats
+1:38:39
+um sailboat construction where they have no electricity and everything Cabinetry yeah Cabinetry you know what I mean you
+1:38:45
+can actually build Furniture so when people say they built furniture but they basically assembled a Kia Furniture
+1:38:52
+cabinets and and built-in bookshelves and Furniture whatever some of my friends have pieces I made for them I
+1:38:58
+didn't mean anything for myself so I don't have anything um but um yeah I mean I think I was
+1:39:04
+really torn between trying to build things and Learn by engaging with other people and in these different cultural
+1:39:09
+spaces you know being a woman in a cabinet in a cabinet shop in Connecticut is is really not a cultural space that I
+1:39:17
+had grown up in and then go you know what I mean and yet Right Moving myself and changing myself to adapt to these
+1:39:24
+different situations somehow felt like learning to me I think um and I ended up in a strange situation
+1:39:31
+where I cut my hand uh opening a window at a job site and I needed to I was on
+1:39:36
+workers comp and I had to take um some time to let it heal and I couldn't run Machinery so I had to figure out what to
+1:39:42
+do with myself I was 23 years old and I was not going to go back to my parents for more money right so I thought I have
+1:39:47
+to support myself so I um I thought okay I I went to college at a you know a high
+1:39:53
+level Ivy League school and I I I majored in French because I I could that's basically why I was
+1:40:00
+like I don't know I better finish I better not flunk I can do French I know I know I speak French fluently I'll do a
+1:40:05
+French literature manager and done with it quickly then I'm like what am I going to do with myself I never thought I could be a scientist but I loved science
+1:40:12
+so I just went around taking like a year of every science I took a year of astronomy and a year of biology and a
+1:40:18
+year of physics and a year of um you know human anthropology paleoanthropology like all these things
+1:40:24
+psychology and realized holy crap like this is super interesting you can study
+1:40:29
+how babies think and and the natural world and then also uh be be bringing sort of
+1:40:38
+a scientific lens to bear that helps you understand things in a new way so so here I was as a 23 year old with a cut
+1:40:46
+hand and I thought what am I going to do with myself I convinced the Massachusetts Board of Education that I
+1:40:52
+you know uh had the background knowledge to be able to uh to to teach some you
+1:40:59
+know sections of AP biology and physics that they had in their high school so when I got to
+1:41:04
+um uh you know I finally got an interview with this you know Public School District in South Boston where
+1:41:10
+they were desperate for a teacher like I'm noticing in the Boston Globe or two weeks into the school year and you still don't have a teacher you know what I
+1:41:16
+mean why don't you take me and uh you know managed to convince the Massachusetts Board of Education uh to
+1:41:21
+give me provisional teacher certification based on the coursework I'd done and how well I did in that coursework because I did you know I was
+1:41:27
+really super motivated I did extremely well and all that um and when I got there uh they
+1:41:32
+basically said when I showed up for the interview you know um another the high school teacher wants to take those AP classes can you just
+1:41:39
+teach full-time seventh grade so I was like okay so I uh I I you know had my
+1:41:45
+full contingent of 130 kids right seventh graders coming through my classroom and uh the middle school had just been
+1:41:53
+shut down because there wasn't sufficient funding in the town for it so they had taken the middle school kids and pushed them into the high school space uh what that basically meant is I
+1:42:00
+suddenly found myself in a fully equipped high school classroom with microscopes and all kinds of scientific
+1:42:07
+equipment that would be used to teach later courses with my seventh graders and it also happened that the
+1:42:15
+Massachusetts Board of Education had changed the um the uh the requirements
+1:42:21
+for for the way they organized science instruction and curriculum from you know seventh grade life science 8th grade
+1:42:27
+physical science whatever it was you know different Sciences each year they wanted an integrated interdisciplinary
+1:42:32
+science all the way across and of course that was very difficult for the traditional science teachers to do because they've been teaching only
+1:42:37
+biology or only earth science or only physical science um for their whole career and they didn't know how to teach the other
+1:42:43
+subjects and here comes me with like one intensive year of study in each of these
+1:42:50
+domain means I was perfectly situated to like try to pull it together so some of the high school teachers helped me thank
+1:42:56
+you to them um and I built out a new curriculum for seventh grade for that District around
+1:43:02
+this interdisciplinary approach to science um together with other teachers it was
+1:43:07
+very Hands-On very and it was very much like a web of Concepts you know we'd
+1:43:13
+study nuclear fission and atoms and reactions and then the Sun and astronomy and the solar system and then and then
+1:43:18
+how the the energy is being you know shined over onto the onto the planets
+1:43:24
+and then the Earth and then these organisms called plants are actually using those photons to do something chemical let's talk about photosynthesis
+1:43:31
+and where right and then we can talk about chemical reactions and breaking down sugars and molecules right so we
+1:43:36
+built this whole web-like curriculum that I was trying to help the kids appreciate the sort of dynamic
+1:43:41
+complexity of the natural world and some of my professors from Cornell also sent me uh materials and all kinds of cool
+1:43:49
+stuff from the Cornell Museum that that they didn't really need and then I gave it back when I was done right with all
+1:43:54
+these instructions what all this stuff is on hominid Evolution and Ashley and hand axes and all kinds of stuff so I
+1:44:00
+built out a curriculum around all this stuff and I realized for the first time that I was in this amazingly fascinating
+1:44:07
+space because it just so happened that the school I was working in was one of the most diverse culturally in the
+1:44:14
+nation at that time I think we had something like 81 languages spoken out of 1100 kids wow that's a lot of first
+1:44:20
+languages and kids were arriving from all over the world this was right after
+1:44:26
+the Rwandan Genocide so kids were coming in from East Africa there were refugees from uh Kosovo and Eastern Europe there
+1:44:32
+were kids coming in from Jamaica there were kids coming and from Haiti there were kids from Malaysia and uh Myanmar
+1:44:40
+like there were uh there were kids Landing in that class like deer and
+1:44:46
+headlights from very very uh broad ranges of cultural backgrounds and
+1:44:52
+they're Landing in my science class and what I quickly realized is they were
+1:44:57
+using these scientific ways of exploring the world and thinking about questions and and trying to make sense of what
+1:45:04
+they had witnessed to try to understand their own sort of
+1:45:10
+selves their own origin story their own place in the world why different people
+1:45:15
+in this class looked and eat differently than me dressed differently than me like how is it that you look like that and I
+1:45:21
+look like this and there was all this a crazy you know adolescent uh turmoil
+1:45:28
+layered into this space where kids were grabbing on to the scientific ways of
+1:45:34
+knowing as a handle to try to make sense of who they are and those kids started
+1:45:39
+asking questions of me I'll never forget this one girl a black girl raised her hand and all the
+1:45:46
+other kids are looking at her like yeah yeah ask it ask it right um and like you know she was being brave like she talked about it before school
+1:45:52
+like I can't say that no I can't I say it say it and she said Miss immortino why is it that when we're studying
+1:45:58
+hominid Evolution and you show us these in this Nova episode with early hominids
+1:46:04
+in Africa why do they always show those creatures looking like they have dark
+1:46:10
+skin why do they always look like black people and I was like well because they're on
+1:46:15
+the equator and you need that level of melanin in your skin to be able to adapt and live without getting skin cancer in
+1:46:22
+that space right and it opened up this amazing class discussion that actually went on for months like it evolved into
+1:46:30
+a whole curriculum that was biology it was culture it was sociality where we started to really unpack
+1:46:37
+the ways that we as humans are natural beings in the world and the ways in
+1:46:43
+which our cultural experiences our extensions of our natural ways of adapting and that had me hooked I
+1:46:51
+realized then that I could bring science right the science of adolescent
+1:46:56
+development and of learning and of emotion and of culture to this very pressing real world problem
+1:47:03
+of how do we help our kids actually figure out who they are invent
+1:47:09
+themselves in this incredi crazy Multicultural space and become Scholars
+1:47:15
+and intellectuals who engage systematic with the ideas along the way and so I I
+1:47:21
+took those ideas and I started going to night school at Harvard Extension school to study cognitive neuroscience and to
+1:47:28
+study uh language and cognition and you know all these kinds of topics and and
+1:47:33
+quickly realized like I really needed this developmental perspective infused
+1:47:38
+right I wanted to understand not just how these things works but how they got that way and so I took that back to grad
+1:47:44
+school at Harvard and began to study um uh you know social and cultural and
+1:47:50
+emotional and cognitive development in kids and and quickly they are also kind
+1:47:56
+of hit a wall where I was I went back to the school district in which I worked and I went back to the teachers who were
+1:48:01
+my colleagues and I I worked with them and I observed their classes and I interviewed their students and we did
+1:48:07
+all kinds of work around how kids were building scientific Concepts in ways that reflected their cultural Concepts
+1:48:14
+and ways of approaching the world and I I quickly realized you know it seems to
+1:48:19
+me that kids are doing all this meaning making and we as adults are doing all this uh all this supportive you know
+1:48:26
+meaning making we're also engaging and growing and learning in ways that reflect not just you know knowledge bits
+1:48:33
+like little computers but also that reflect the biological substrate on which the learning and the thinking are
+1:48:39
+happening and I wanted very much to understand how we could use and leverage
+1:48:44
+developmental biology as a kind of a constraint
+1:48:50
+to from which to appreciate the kinds of theoretical frames we were inventing in
+1:48:56
+the in the real world sort of anthropological educational space the developmental psychological space how
+1:49:03
+could these two systems you know act as a Venn diagram and how could the inner
+1:49:08
+section between them the places where the theorizing about the natural behaviors and the way kids were making
+1:49:14
+meaning and learning and describing their knowledge and engaging with each other on the one hand and the ways in
+1:49:21
+which the brain and the biology are engaging in or supporting those processes on the other hand the places
+1:49:28
+where those two circles would overlap it seemed to me that was where we could most uh directly Target to start to
+1:49:36
+deeply understand the nature of our developmental psychobiological growth
+1:49:41
+themselves and so I set out to try to study about um the ways in which culture and
+1:49:46
+sociality shape the brain uh and Physiology and and survival mechanisms and development and at that time which
+1:49:53
+wasn't even that long ago you know it's like two decades ago quickly realized um very very little was known you know
+1:50:00
+about the way in which emotions Beyond things like fear you know flash a snake
+1:50:06
+in your face and your amygdala lights up right like I was thinking of something a little more nuanced you know what I mean
+1:50:12
+like what I'm seeing happening in science class among a kid from Kosovo and a kid from Rwanda as they're trying
+1:50:17
+to figure out why they understand how they look different right those deeply emotional
+1:50:23
+conversations they're having but they're not so cut and dry as the things we had been studying and so that's what really
+1:50:29
+drove me to try to start to understand in an integrated way the way in which
+1:50:34
+our our biological development and our psychological development are actually sort of two
+1:50:41
+sides of who we are and of how we're organizing ourselves to build capacity
+1:50:47
+mental capacity as well as sort of physical health and capacity over over
+1:50:53
+the course of Our Lives as we're engaging with living incredible
+Idea Exploration, Tolerance
+1:50:58
+um story and foray into what sounds to me like really
+1:51:03
+um your ability to identify how the universals Among Us
+1:51:09
+like the universal biological features the universal psychological features
+1:51:14
+can really strongly inform specifically what's happening now in a
+1:51:20
+classroom interaction in the mind of an of a of you or somebody else or of any of us but to approach it from the other
+1:51:27
+direction in other words to take what's happening now and say why is What's
+1:51:33
+Happening Now happening yeah as opposed to just saying what is actually happening underneath the surface right of the behavior right as opposed to
+1:51:39
+saying okay this is uh this is the psychology of character structure this is the biology of the hypothalamus but
+1:51:45
+rather say you know is anyone else really um shocked about the school
+1:51:51
+shooting in Nashville and go through the the feeling of shock and and go from
+1:51:57
+there to the biology as a route of learning again and of course I don't want to take away anything from the the
+1:52:03
+real world um seriousness of that yeah but but it
+1:52:08
+sounds to me like you you saw that there's there's a different portal through which to teach and understand
+1:52:13
+experience and that we are all but especially Young people are really tied
+1:52:19
+to our emotional states as the as the main filters which we like that just
+1:52:25
+like that and therefore make decisions and move through life I mean I think it's so key that early on I mean if we
+1:52:30
+like a teacher oftentimes we like the subject if we um
+1:52:36
+happen to fall in love with you know figure 4B in a paper great but that's not as that's not how I went through
+1:52:42
+graduate school I just was blown away by the fact that sperm meets egg you get a
+1:52:47
+bunch of cell duplications and then and then you get a brain and then you get a brain how does that happen I was just
+1:52:52
+like that's crazy amazing and I was blessed with a graduate advisor who literally told me this is how it works
+1:52:58
+in my lab is what she said uh she said um we have everything you need here I'll
+1:53:04
+help you if you need help but basically you're gonna mess around with stuff you're not going to burn down the lab you're not going to kill yourself with
+1:53:10
+any of the poisonous stuff um but then you're gonna like mess some stuff up and and do some stuff and
+1:53:16
+you're gonna figure some stuff out this is literally the description and and I liked her lab because I had green
+1:53:21
+countertops and she had pictures of interesting animals on the wall and then she said and I'm gonna have two kids while you're in graduate school so I'm
+1:53:28
+not gonna be around very much you're gonna have to figure it out on your own and I said well can I play the music I want she said sure and I said can I put
+1:53:35
+tin foil on the Windows because I don't want to be bothered and she said sure and I was like okay this is the place for me in other words she gave me a a
+1:53:42
+room to explore and of course she gave me a lot of guidance along the way she was an amazing amazing garage advisor
+1:53:49
+extremely blessed but it sounds to me like that that
+1:53:55
+identifying what's the what's really going on now is key and that the other thing that's key is in openness to ideas
+1:54:01
+I mean earlier you talked about um kind of the let's just let's just admit where we're at right now we're
+1:54:07
+gonna we're in a culture War right now we're in a weird space right now it's very divisive
+1:54:13
+um and one of the major problems is that we can't really talk about things I mean I think
+1:54:18
+um fear of getting canceled fear of um exploring ideas is real it's very
+1:54:25
+real not just for academics it's just real people are so it's important to be sensitive to the experiences of others
+1:54:31
+absolutely but if we can't actually explore ideas and feel like we can walk out of the room safely then we can't
+1:54:38
+really explore ideas and so um I think right now it's not just social media I
+1:54:44
+think it's the fear of offending anybody um and and probably the fear of of
+1:54:49
+voicing how upset certain people are about their experiences or the experiences of others whatever it is I I
+1:54:56
+don't see a landscape right now where there is true open exploration of ideas anywhere yeah
+1:55:03
+anywhere at least in this country so um what do we do if there if the two if
+1:55:11
+at least two of the requirements are um you know an emotional gripping of of
+1:55:16
+something around the learning um plus an openness to thinking about
+1:55:21
+things that maybe we don't feel right to us as a way to learn how to think something I think we both agree if I may
+1:55:28
+that is really critical um and that the world will be a far better place if people could do that
+1:55:34
+um and how do we navigate this landscape I mean is what has to come first a
+1:55:40
+demonstration of the value of openness of ideas and here I I'll just State my
+1:55:46
+stance I I feel like any idea should be open to at least discussion any idea
+1:55:54
+but then it needs to be systematically dissected with some rigor so that people can't just assume any idea is true
+1:56:01
+yeah because just because it's true for them um and this I actually learned from my graduate advisor you know she used to
+1:56:08
+say you know tolerance has to go both ways like when it comes to thinking about ideas and criticizing it can't
+1:56:13
+just be I'm right there wrong or I don't tolerate that it has to be tolerance for all ideas and then you
+1:56:20
+arrive at hopefully eventually core truths or at least core trajectories I
+1:56:26
+mean what do you think um could support this how early should this start I mean should kids in
+1:56:33
+elementary school be discussing um the current landscape of politics and
+1:56:38
+what they see from a place of like we talk about safe spaces but is a safe space one in which no one gets offended
+1:56:44
+wears a safe space one in which any idea can be discussed I think that's never really been defined for me yeah
+1:56:51
+oh that's a really fraught issue I mean first let me go back to something you said which I would have said it
+Reframing Education, Deconstructing Assumptions
+1:56:57
+differently so you said our emotions are uh a filter right and they do act like a
+1:57:04
+filter but I actually don't think emotions are really filter like
+1:57:09
+so much as they are the drives that are undergirding the impetus to think right
+1:57:15
+they're pushing us to think about particular things and I think I mean as
+1:57:22
+a scientist my disposition is always that to understand something is good
+1:57:28
+and the more complexly the more thoroughly you can interrogate
+1:57:36
+and understand something the better so there's nothing
+1:57:43
+I'm afraid of knowing right and what you're really talking about there is the fear of knowing we
+1:57:50
+why are people so afraid to engage with each other basically because
+1:58:00
+it's deeply threatening to
+1:58:06
+reveal things about your own experience that are not going to land in a in us in
+1:58:13
+a space where we can kind of collectively engage with them as legitimate experience that's the I sort
+1:58:21
+of the opposite of canceling people right it's the opposite of dismissing people it's actually developing
+1:58:27
+spaces of trust where we can engage with ideas and and and take them from
+1:58:35
+ourselves right so that we're they don't they're no longer personal value judgments they become cultural memes or
+1:58:44
+or or or or or models or schemas that we can we can dissect together that we can engage with
+1:58:51
+together and construct understanding around right and and I don't really
+1:58:58
+understand my own position unless I also understand your opposition to my position even if I
+1:59:05
+still disagree with you I think there are really important conversations going on right now I'll take it back to the
+1:59:11
+education system because that's that's what I know it most about there are really important conversations going
+1:59:17
+around on right now around reframing the experience and outcomes and aims of
+1:59:25
+schooling around Civic discourse and reasoning so there's just a major report
+1:59:30
+that was produced by the National Academy of education and uh another academies collaborating with it for
+1:59:37
+example around this topic and helping us to move as a society toward a space
+1:59:44
+where we learn to um kind of lay ideas out and develop
+1:59:52
+skills for reasoning around those ideas including bringing ethical experiential
+1:59:58
+emotional cultural values to Bear but then being willing to deconstruct and
+2:00:05
+engage with those ideas whether they're the ones that are commensurate and fluid with our experience or that appear to be
+2:00:12
+um conflicting or disfluent with our experience we need to develop a a spaces
+2:00:19
+for young people especially but for everyone in in to engage with the
+2:00:25
+deconstruction of our own assumptions like I said before and to engage with the with the deconstruction of others
+2:00:32
+assumptions and to try to reconcile the building blocks and that's where we can build some common ground but we can also
+2:00:38
+disagree we but we don't really understand our own position unless we appreciate someone else's disagreement
+2:00:44
+with our position unless we can actually articulate and appreciate appreciate how it is that person's opinion is opposed
+2:00:52
+to mine I don't really understand mine it's such a key point one of the reasons why I do read all the comments uh on
+2:00:59
+podcasts on YouTube it takes me some time but I do it or on social media is that
+2:01:05
+um oftentimes I'll get a comment or a criticism that makes it very clear that I wasn't clear about something other
+2:01:11
+times I'll get a commentary criticism that makes it clear that my and the other person fundamentally disagree
+2:01:17
+about something both of which are great and for a scientist is a delight so keep
+2:01:22
+it coming um and of course when people agree and um they agree and make it clear that
+2:01:30
+they agree from a stance of understanding that of course is also gratifying um so it's exactly what you're saying
+2:01:36
+and it's one of one of the upsides I think of social media which is that unless people block their comment
+2:01:42
+section and I do occasionally block people if they're being offensive to other people yeah yeah
+2:01:48
+alienating people that's not inviting people into a conversation that's not constructive I actually have a rule um
+2:01:54
+which is I call it classroom rules I've never announced it but I I allow for classroom rules you can swear but you
+2:02:00
+can't swear at people yeah that's what I was taught in graduate school it's where weekends we're at people it's
+2:02:07
+also also our rule at home although we try not to swear it so you can swear but swearing at people is not not okay yeah
+2:02:13
+um and that you know a certain decorum of you know is required in order
+2:02:19
+to have open discourse um so that works for me I think that um
+2:02:26
+it's been a while since I've been in school but I work at a school and I think that the the ability to
+2:02:32
+um not just reinforce but challenge one's own stances which sometimes leads to reinforcing our own stances it may if
+2:02:38
+there will man that's legitimate I mean I have to assume that in high schools they still do debates and things of that
+2:02:44
+sort I mean uh do they allow that I mean Could you um throw kids in a class and say let's debate um something really
+2:02:51
+controversial and then but you have to debate it from the other side I mean just as a experiment of forcing the
+2:02:58
+brain to um try to be effective uh for sake of winning but from the other perspective
+2:03:05
+um uh or stance it seems like a great exercise if I if I were a high school teacher that's the first thing I do we
+2:03:11
+pick the most controversial topic and then I picked I'd ask people to divide along that topic and then I'd swap them
+2:03:17
+into the other one and have them argue from the other one stance yeah learning to appreciate perspectives is very is
+2:03:22
+very and we'd use 14 ounce clothes no I'm kidding it wouldn't be physical it would be purely intellectual yeah yeah I
+Safety, Creativity & Default Mode Network
+2:03:28
+mean let's take can we take it back to the brain for a moment to the conversation that we were having earlier right so we were talking about
+2:03:35
+that in our experiments and now in whole you know whole bodies of neuroscientific
+2:03:40
+knowledge we know that there is this very interesting neurobiological sort of
+2:03:45
+processing difference between emotions and the thoughts that are part
+2:03:51
+of those emotions that are you know the result of those emotions that are also incipitating those emotions right like
+2:03:56
+that whole process when it pertains to uh the direct actions observable
+2:04:03
+characteristics behaviors you know uh of another person or situation that you can
+2:04:09
+actually directly pretty much directly and learn or infer as compared to when you have to bring a
+2:04:16
+whole lot of conceptual content knowledge to Bear experiential knowledge uh simulation capacity to Bear to be
+2:04:25
+able to fully appreciate the nature of a situation and we talked about how that second kind of processing that I called
+2:04:32
+Transcendent is is in essence about um distancing yourself from the
+2:04:37
+immediate physical you know situation the observable perceivable situation in a direct sense
+2:04:43
+and instead constructing a narrative in your mind that's built from that but that then brings to Bear all these other
+2:04:49
+kinds of of um information that allow you to elaborate this into a narrative that
+2:04:54
+takes on emotional meaning and and psychological power as a narrative it becomes part of identity beliefs all
+2:05:00
+that kind of stuff and we talked about that kind of thinking being associated with the so-called default mode which is
+2:05:07
+deactivated systematically and decoupled from itself right the
+2:05:12
+different regions aren't talking to each other to each other when you are in the world acting doing a task paying
+2:05:18
+attention inferring the direct things that you need to notice around you you know you're in the middle of playing a soccer game the ball's coming at your
+2:05:24
+head that's not a time to stop and Muse about you know Title IX and girls access to sports right you're gonna you're
+2:05:30
+gonna trip and fall or you're gonna miss your shot at the goal or are you going to hit get hit with the ball right so we
+2:05:35
+need to sort of manage that space in order to have these conversations and I I think what's important here is to
+2:05:42
+remember that the default mode Network that is the substrate that's that is playing out your own sense of self and
+2:05:50
+inner Consciousness and self-awareness and is also the basis on which we construct these broader inferential
+2:05:56
+narratives that are the elaborative stuff of stories and beliefs are fundamentally incompatible the
+2:06:03
+activation of those systems is fundamentally incompatible with uh
+2:06:08
+needing to be vigilant into the immediate physical or social situation around you so if you feel physically
+2:06:14
+emotionally culturally socially unsafe and you feel that you're you need to
+2:06:21
+watch your back either literally or metaphorically as you're thinking about
+2:06:26
+things neurobiologically that situation is in
+2:06:32
+conducive it is not conducive to being able to actually conjure an alternative
+2:06:38
+perspective in which you construct a meaningful narrative with alternate
+2:06:45
+ethical implications with alternate prospective possible future outcomes
+2:06:50
+with alternate views of the historical precedent or context being able to sort
+2:06:56
+of mentally time travel into the space of those ideas is only really possible when people feel
+2:07:04
+safe to think together so is it it sounds like it's anti-creative yes
+2:07:09
+creativity is also associated with the activations of these networks yeah causally so in some recent work I had
+2:07:18
+the Good Fortune of having dinner last year with um somebody I won't reveal who it is but he he runs a major so uh
+2:07:26
+social media platform and he told me that in Japan
+2:07:32
+it's common for people to have two or three or even as many as seven
+2:07:37
+different social media handles yeah um and that they do this in order to
+2:07:42
+embody different versions of themselves safely yeah so these are not troll
+2:07:47
+accounts these are not the accounts and by the way I see you troll accounts that say whatever and then you go to their
+2:07:53
+accounts as some private account where they hide rather these are individuals who have multiple accounts
+2:08:00
+um in one account they might be a bit aggressive maybe even a bully online dare I say in another account they might
+2:08:06
+be very fawning and um show up as the person that everyone knows them to be in the real world in another account they
+2:08:12
+might be a university professor and another they're an athlete and it's fabricated in the sense that the the
+2:08:19
+posts that they put up often don't accurately represent who they are in the real world yeah but it's accurate in the
+2:08:25
+sense that it represents the different dimensions of their Persona that are driving their real world decision making
+2:08:31
+at some level it's kind of like pretend play for little kids it's pretend play but it's it's not pretend because it's
+2:08:37
+in cyberspace um I'll just go back to Rick Rubin who
+2:08:44
+um in addition to being this incredible music producers is a enormous fan of professional wrestling for many years
+2:08:49
+and I've asked him you know from a perplexians like why professional wrestling is it the athleticism he says
+2:08:55
+it's the only thing that's real because everyone agrees it's not real and so
+2:09:01
+these are characters right so you're you're agreeing for it to not be real and yet it allows these characters to
+2:09:07
+fully embody these different personas and and I had the experience um years
+2:09:13
+ago I was at Cold Spring Harbor laboratory summer camp for scientists where I attended and taught and I was in
+2:09:19
+a cab driving out to Cold Spring Harbor from the train station so I lost it and I got into a discussion with the cab
+2:09:25
+driver and he said Okay you're from California he said a New York accent I won't try and imitate you said you're
+2:09:30
+from California and he said you know your governor who at the time was Schwarzenegger he said he's great and I
+2:09:36
+and I said tell me more I I happened to like Schwarzenegger for a number of reasons he actually signed my PhD
+2:09:42
+because he was [Music] yes and and he said well because if
+2:09:49
+terrorists show up in California he's gonna go out there with a machine gun and take
+2:09:56
+them down so in his adult life the Terminator he's the Terminator he's the
+2:10:01
+Terminator and I realized in that moment this was a was a smart guy this cab driver a smart guy that that it wasn't a
+2:10:07
+lack of narrative distancing no he had conflated the actor with the roles he played yeah and I realized in that
+2:10:14
+moment that this was not a reflection of him being unintelligent it was a reflection of the
+2:10:20
+fact that the brain often collapses identities absolutely of others and makes these I think it's just an
+2:10:27
+official sufficient it's an efficient way to to parse the world yeah we decide and then that's that kind of this person
+2:10:33
+and we put them over there on a shelf right yeah so so to return to the discussion that that we're having I I
+2:10:38
+think that the ability to embody different aspects of self but also the
+2:10:43
+ability to transiently embody the personas of other people and to do that
+2:10:49
+in a way that allows for really thorough exploration of idea space yeah I feel like can only be a good thing yeah
+2:10:55
+provided it doesn't get physically violent or something um but that to me seems like the exact
+2:11:02
+opposite of what's happening now which is that um people are siloing off into their
+2:11:07
+camps where specific language and specific ideas are accepted and others are not I mean it's it's it's
+2:11:15
+so interesting and perplexing and disturbing to me that the way that
+2:11:20
+certain things that have nothing to do with politics get lumped with one group
+2:11:25
+or the other you know that um it's so crazy to me on the one hand and um and
+2:11:31
+yet I I think what you're describing seems to me the route out of all of this I really mean that I feel like you the
+2:11:37
+the education system starting Young And getting people emotionally engaged
+2:11:43
+learning what they like what they don't like but then also teaching them about their emotional systems and how it helps
+2:11:49
+them parse the world is really the solution so that when we're upset we can realize like yeah I'm upset it makes
+2:11:56
+sense why I'm upset but let me explore it from the other side it also makes sense why they're upset and that seems
+2:12:03
+to be what humans have done somewhat throughout history never perfectly well but it seems like it ought to be
+2:12:10
+possible I mean the forebrain is there for a reason so could you um in
+Civic Discourse & Education; Deconstructing Ideas
+2:12:15
+in wanting to go back to a little bit of the biology and the research what have you seen in terms of cross-cultural
+2:12:21
+consistency yeah about the role of emotions in it in our ability to parse
+2:12:28
+and learn and um because obviously we're not going to solve these problems today but although
+2:12:34
+I think you've shine light on some some potential Solutions I mean what do we know for sure about human beings and
+2:12:40
+their capacity to do what you're describing to to Really um learn differently uh it worked in the
+2:12:48
+classroom where you were teaching but how could each and every one of us do this I mean how would we approach this I
+2:12:54
+guess I want to take this to the Practical um what can we do when we read a newspaper article what can we do when we
+2:13:01
+we're on social media what can we do uh when our kid is like refusing to do
+2:13:07
+something um because they simply don't like it or that the teacher they don't like the
+2:13:12
+teacher are are there paths through that that you've identified or that you can
+2:13:18
+sense work I can get funny examples of my own kids when they didn't like things at school right this isn't licensed yeah what
+2:13:25
+tools do you use licensed to not well yeah so so my my son when he was in third grade he was he was very upset
+2:13:31
+about the behavior chart that his teacher had at school right so he had a he had a
+2:13:37
+behavior chart they had a behavior Charter back the room that the principal didn't agree with this but that teacher was there for a year and okay so there's
+2:13:43
+this behavior chart and you have green you start on green with your little clip and then there's yellow and then there's red which is like call your parents
+2:13:49
+which I I never understood why they don't put call your parents on the green but anyway right so you know you start on the green and then you get you get
+2:13:56
+down to the yellow and they get around to red and you know there's Ted's little friend is always getting on the red by 9
+2:14:02
+A.M it's like can we just get it over with you know and and he tried to talk with his teacher about why this behavior
+2:14:07
+chart made him so uncomfortable because and she couldn't she could not understand his perspective because she kept saying but you're always on green
+2:14:14
+you're always doing what you're supposed to be doing and you're respectful and you're well behaved so why is it a
+2:14:19
+problem and what he was trying to say was that somehow it just made him uncomfortable
+2:14:27
+to have that there so he was constantly bothering me with this I finally told
+2:14:33
+him I was trying to work one day and he was home from school because I would let him work from home some days because we
+2:14:38
+needed to to kind of buffer a little bit and uh you know he'd bring all his work home and he'd do it himself I'd be working he'd be working right it's fine
+2:14:44
+he had all kinds of projects going on you know and this is a kid who does a little Side Story there's a kid who went to first
+2:14:50
+grade and about two weeks into first grade good first grade class he he was crying on a Sunday night to me like I
+2:14:56
+can't go to school I don't want to go to school I'm like well what's you know what's wrong I'm thinking he's getting bullets and he's talking he's like I
+2:15:01
+don't know he finally looks at me and he goes I have so much work to do how do you expect me to get my work done if I'm
+2:15:08
+sitting in school all day I can relate right I can relate can you
+2:15:13
+relate because you're actually a motivated right we take kids motivations and the things they're interested in and
+2:15:19
+we sideline them and try to structure them into something so back there are Legos yeah oh he was he was way into
+2:15:26
+building armor at that time he would yeah I know we're probably terrible parents but we gave him some safety glasses and we taught him how to use it
+2:15:32
+and we explained how Metals sharp and we gave him some shoes that is super cool and some tin snips and he made a whole
+2:15:38
+set of armor in the backyard at you know in second grade anyway it took him months and months I mean it chained mail
+2:15:43
+the whole bit he was super into amazing you know anyway and he made airplane he did all kinds of things
+2:15:50
+um but so here's this kid and he's bugging me about his teacher in this paper Trend I said Ted go write a letter
+2:15:56
+to your teacher if it bothers you that much you go write a letter about why it bothers you right because in doing so
+2:16:01
+he's first of all helping to solve the problem secondly he was he was formulating his understanding of what
+2:16:08
+this behavior chart is and why specifically it bothers him and in so doing it helps him not be so bothered by
+2:16:14
+it right so that's an example of something you could do right so he wrote this letter to his teacher which ended
+2:16:20
+up being published in the National Academy of Science engineering and Matt's book how people learn volume two
+2:16:27
+because I was on the committee of people that wrote it and we needed an example of kids making sense out of motivational
+2:16:32
+things and actually took his name and the teacher's name off and put the letter in the book it basically is a
+2:16:38
+little kid saying listen teacher when you put up this behavior chart he called it a bad behavior chart which it wasn't
+2:16:44
+it was just a behavior chart but he interprets it as bad behavior when you put that up it's as if your you're
+2:16:50
+daring me to do something bad you're you're basically he doesn't say it like this he says you're basically making me
+2:16:55
+uncomfortable because you are laying out a perspective on me a possibility space
+2:17:02
+for me that you're now bringing into the conversation that I could be like that
+2:17:09
+and let's see if you're going to be oh not today oh we're still on green right and so where does this go it goes back
+2:17:15
+to the idea that kids are and all of us are interpreting the interactions and the
+2:17:21
+structures around us not only for what they are but for what they represent as
+2:17:26
+somebody else's interpretation of what we are or are not
+2:17:31
+capable of and he saw that behavior chart as a marker
+2:17:37
+that his teacher assumed that all kids in that class are capable of being badly
+2:17:43
+behaved and that their main aim of being in school is to be well behaved right and so he writes all about saying saying
+2:17:50
+dear teacher every day I come to school every single day and every single day is new that's what he says and I could
+2:17:56
+learn something new except then I see dot dot dot the bad behavior chart right he's saying school
+2:18:03
+is supposed to be about learning and and US engaging and you're making it about something so low level and basic as are
+2:18:12
+you going to behave yourself today we're we are insulting him by the way we frame
+2:18:18
+the context so take it back to the bigger issues of Civic discourse and all these things I think so much of the way
+2:18:25
+that we're organizing our lives our social relationships our community our
+2:18:30
+Civic structures right now is mirroring that teacher's behavior
+2:18:36
+chart right she take the chart down I don't no I don't think so and and what and I asked because I'm not sure that it
+2:18:43
+matters I think what probably matters is that he had the chance to voice he voices his understanding yeah his
+2:18:48
+understanding of the chart yeah that's right and now you know anybody can read his understanding of the story because
+2:18:54
+in like uh you know the most you widely read textbook on learning right um and motivation
+2:18:59
+I mean first is that we're structuring the way we structure our environment can
+2:19:05
+unwittingly impose our mental models of other people's
+2:19:11
+possibility spaces onto them and people find that inherently abhorrent right so
+2:19:16
+think about how we're doing that in many contexts not simply in schools
+2:19:21
+um and then the second thing is from the kids perspective deconstructing exactly why and something
+2:19:30
+bothers you by understanding how it is that you are interpreting that thing
+2:19:36
+then opens you up to be able to manage those spaces in a
+2:19:41
+new way and to engage in them in a new way so if we take the conversation back to the idea of Civic discourse of Civic
+2:19:47
+reasoning of engaging with with any idea right there are ideas that are deeply
+2:19:53
+problematic there are ideas that are deeply hurtful that have long histories of trauma associated with them of long
+2:20:01
+histories of power dynamics uh and oppression associated with them the way
+2:20:07
+in which I think we deconstruct those ideas is going to be critical to how
+2:20:13
+those ideas live on implicitly in our social relationships and our society if
+2:20:18
+we cancel them if we negate them and pretend they don't exist all we're doing
+2:20:24
+is burying them in a place where they can't be deconstructed and only by
+2:20:30
+actually taking them apart and appreciating the pain the the
+2:20:36
+relationship structures the limitation the resource allocations the inequities
+2:20:42
+that are implicit in those Concepts only by deconstructing and deeply
+2:20:47
+understanding those can we rebuild them in a different way
+2:20:52
+so it's very difficult because on the one hand we have a space created for ourselves
+2:21:00
+right now in society that is deeply unsafe for many people and when you're
+2:21:05
+in an unsafe space you are not in a space that is conducive to constructing
+2:21:10
+and deconstructing meaning using those default mode systems and other systems just to be crass about the brain right
+2:21:16
+and kind of oversimplify it that are the substrate of autobiographical self of
+2:21:21
+possibility spaces of ethics of deep uh moral and ethical emotions so on the one
+2:21:27
+hand we have a space that is deeply unsafe for individuals to think together and genuinely so there are real
+2:21:33
+implications for people to reveal certain kinds of identities to engage with certain kinds of ideas in
+2:21:40
+culturally uh culturally um formulated spaces right that we've
+2:21:46
+constructed together and the irony is that we can only fix that and create a different way of
+2:21:53
+interacting with one another by actually boldly going in there together so it's a
+2:21:58
+very nuanced line where we need to develop skills and this is where I think and many people think now that schools
+2:22:06
+should be focused across disciplinary domains whether it's Math Science Social Studies history art the Arts right
+2:22:12
+Sports should be focused on helping young people and teachers
+2:22:17
+develop capacities and dispositions for deconstructing and constructing again
+2:22:23
+safe uh safe cultural spaces to think
+2:22:28
+together about you know interpretations about narratives about stories about
+2:22:34
+assumptions about ideas because as we engage in those thoughts together we
+2:22:39
+call that Civic discourse right we learn kind of rules for not triggering and
+2:22:47
+sensibilities for not endangering another person's ability to engage on equal footing with us because if we
+2:22:54
+trigger those unsafe right dangerous places for people they can't
+2:22:59
+neurobiologically then engage with us deeply around sharing their perspective and deconstructing hours together to
+2:23:07
+build something where we have a shared understanding in the middle we have to trust one another and Trust trusting one
+2:23:13
+another really means we have to have a space established in which we can
+2:23:20
+feel safe to deconstruct our own beliefs and
+2:23:26
+to allow others to do the same and to assure them that we can engage with those beliefs no matter what they are
+2:23:33
+and then actually exteriorize them and evaluate them
+2:23:40
+together and think about them around core values we probably both hold like well-being like sustainability of
+2:23:48
+society and of cultures and of groups right these things are core everyone wants to be well everyone wants to have
+2:23:54
+a sustainable life and a Life future and a cultural set of values and so when we all appreciate that we're bringing those
+2:24:01
+things to the table but then are systematic about constructing a space for civic discourse in which we are
+2:24:10
+supporting one another and deconstructing our own beliefs rather than each other's bullies right then we
+2:24:16
+are at a space where we can start to construct some kind of understanding some kind of nuanced more
+2:24:24
+um uh adaptive more pro-social and the true sense way of engaging with one
+2:24:31
+another with not necessarily a way of agreeing with one another but way of engaging and constructing and
+2:24:36
+deconstructing meaning together so that we can be adaptive so that we can build a society where everyone can flourish so
+2:24:41
+that we can build a society where everyone can belong and can uh can actually have the resources they need I
+2:24:48
+would argue as long as free speech is not possible for everybody yeah that nobody yes that's right then nobody is
+2:24:54
+safe nobody's safe and that there's an illusion of safety around the idea that um people who
+2:25:01
+um who have voice uh are going to get what they want simply because they are
+2:25:07
+the ones who are allowed to talk and other people aren't yeah I mean I think he said it perfectly when he said that anytime ideas get buried there's no way
+2:25:13
+they can be solved yeah we know this from the scientific literature for instance the results within social science and biological science that are
+2:25:20
+deeply troubling yeah um you know I can think of experiments that were done uh
+2:25:26
+in the realm of neurosurgery on humans in the 1960s people stimulating different brain areas and seeing Rage or
+2:25:33
+seeing very politically controversial ideas emerge from the person's mouth in real time as a function of stimulating
+2:25:39
+that brain area and then you say well did they really believe that and they just never were saying it and the person doesn't even recall that happening
+2:25:46
+during the surgery or I mean this idea that Jung had that we have all things inside of us yeah I think can be seen as
+2:25:52
+a very dangerous notion and territory that we have all these Shadows but the the I'm also an optimist and I feel that
+2:26:00
+the the optimistic view of it is that by knowing that we have all things inside of us potentially and by
+2:26:06
+embracing that fact that we can manage that to steal what you just said we can
+2:26:13
+manage that and that we can function so much better when we see something in the world that we think that's not me I'm
+2:26:18
+not that and I hate that when if we understand that that also lives inside
+2:26:24
+of us but that we just don't realize it uh and I realize some people hear this
+2:26:29
+and they'll go that's not true you know I have my stances and I disagree with other things I would say absolutely yes
+2:26:34
+but the difference between one person's stance and another person's
+2:26:39
+stance is could be purely developmental wiring it could be
+2:26:44
+um it could be a difference of having read different childhood books and oriented towards one book versus another
+2:26:50
+I mean I don't I think that we are very similar at the level of core wiring and core algorithms that we run but somehow
+2:26:58
+these days we have the perception that we've diverged so much I think the only thing that's really missing is what
+2:27:04
+you're describing is is a place where any and all ideas can be explored freely not to establish consensus or validity
+2:27:13
+of certain kinds of ideas but to actually exteriorize them and and deconstruct them for what they actually
+2:27:19
+are absolutely um thank you for working through that that space because it's a tricky one
+2:27:26
+it's very it's very fresh yeah it's very fraught um but so so very important I have a
+“Mirror” Neurons, Shared Social Experiences
+2:27:32
+question that's very basic yeah um but I've never gotten a good answer on um I was raised thinking that mirror
+2:27:40
+neurons were a real thing that there are these neurons that exist in the in the brains of Us and other Old World
+2:27:46
+primates um like macaque monkeys um but especially in humans the the
+2:27:53
+so-called mirror neurons that are activated when we see somebody experience something and it evokes a
+2:27:59
+sort of empathic understanding um in US I've also seen some reviews
+2:28:04
+written recently in some popular press saying that mirror neurons are perhaps not playing the the critical role that
+2:28:11
+we thought they were um what's the story on mirror neurons um and uh we're not going after
+2:28:17
+anybody's work in particular I just want to know whether or not there's real validity to this notion of mirror
+2:28:23
+neurons I'm not an expert on it but I can tell you what I know about it and the way
+2:28:28
+that um I think about it so I mean I think it's pretty clear now that there
+2:28:34
+are no such things as mirror neurons like some special kind of cell type
+2:28:39
+that's in the brain that they've not been found they were predicted but they were not found
+2:28:44
+um but something else was also predicted back in the late 1980s
+2:28:50
+um uh by Antonio DiMaggio um where he talked about the brain
+2:28:59
+um in terms of being organized in terms of what he called convergent and Divergent zones so he talked about
+2:29:07
+um the brain being organized as networks converging and then diverging again back
+2:29:13
+out so you have places where processing is kind of coming together and then then
+2:29:19
+what happens in there then determines how things get spread back out and you've got these sort of Loops happening
+2:29:25
+in the brain and and his his thinking on that was very much
+2:29:31
+um commensurate with others thinking about the notion of uh of goal directed
+2:29:38
+action and perception so if you think back to developmental Scholars who had knew nothing about the brain very much
+2:29:44
+like Jean Piaget right back in the early uh 20 20th century
+2:29:50
+um where he was observing young children and noticing that they were interacting
+2:29:56
+with the world and they expected certain things and they were he thought imposing theories
+2:30:02
+or schemas onto the world and then and then accommodating was the word he used
+2:30:08
+uh the world with their actions what it didn't act the way they expected and
+2:30:13
+then assimilating that back right to change what they expected next time so
+2:30:19
+that he had this model that he built from from systematically observing children uh three in particular right
+2:30:27
+um where he what he realized is that kids are not just flailing around sort of discovering things haphazardly
+2:30:33
+they're imposing a certain logic onto the world and then they're systematically testing that logic so
+2:30:38
+their hypothesis basically yes right they they're expecting things and then when the world does what they want that
+2:30:45
+reinforces and when it does something different that's surprising and then they have to accommodate and make sense
+2:30:50
+and then they have to expect differently in the future so what does this have to do with mirror and irons I think when you bring these
+2:30:57
+different ideas together that the psychological observational ideas and then the neurobiological ideas
+2:31:03
+um what we basically have and I I wrote about this a little bit in like I think 2008 I have a paper called something
+2:31:08
+like the smoke around mirror neurons and I forget the second half of the title but it has the word goals and and uh and
+2:31:15
+directed actions and things right um the idea I think is is it's not that
+2:31:21
+there are special neurons that are firing when we see another person do the thing right that but that we are it goes
+2:31:28
+back to the notion of us imposing our expectations onto the world you have to share and understand intuitively the
+2:31:34
+goal of the other one's action in order to activate these mirror regions right
+2:31:39
+um uh where and what are those mural regions they are basically regions that
+2:31:45
+are deeply interconnected with each other right they're thoroughly interconnected with each other in terms of white matter fiber tracts and they
+2:31:51
+are regions involved in um Acts uh planning you know goal-oriented
+2:31:57
+actions and perceiving the outcomes of those actions so it's a kind of a loop between acting
+2:32:05
+and perceiving and acting and perceiving and and I argued at the time right that
+2:32:10
+goals are emergent like high-level goals are emergent from the dynamic feedback
+2:32:18
+loops of acting and perceiving right so I was really taking a very piagetian view but imposing that on the
+2:32:24
+Neuroscience so I think you take what I'm saying together with like a piagetian constructivist view there are
+2:32:30
+many other constructivist neuroscientists all a constructive psychologists also and and then also the neural data what we see is that we don't
+2:32:38
+have these special neurons built into our head what we have is a natural proclivity and I don't know where that
+2:32:43
+comes from right but we have a natural proclivity to try to appreciate another
+2:32:49
+person's actions feelings experiences
+2:32:54
+by leveraging our own similar actions feelings experience variances and so
+2:33:01
+when we can share goals or experiences that becomes more facile right and
+2:33:07
+that's been shown over and over in these mirror type papers right and when you uh
+2:33:13
+distance yourself from those goals and actions or don't have an intuitive sense of them then you don't get these
+2:33:19
+mirroring activations you don't get these kind of ramped up um uh sharing of of of of of goals right
+2:33:26
+or of of experience so I think it really comes back to
+2:33:32
+the way the nervous system is wired to be inherently social we are cultural
+2:33:38
+Learners we are situated in Social spaces from the moment we're conceived
+2:33:43
+and certainly from the moment we're born and that social space observing others
+2:33:49
+interacting with others co-regulating each other's physiology each other's attention each other's um emotion right
+2:33:57
+as we do those things we accommodate to each other and we wire ourselves to
+2:34:03
+expect certain kinds of feelings and then to recognize those same things in
+2:34:08
+other people and so as we share constructed experience together we start
+2:34:14
+to appreciate the sameness right the the parallels between other peoples and our
+2:34:19
+own emotions thoughts goals and and we can also uh dehumanize them you
+2:34:26
+know make the other the other person not share our thoughts emotions goals and
+2:34:32
+then we are capable of all kinds of horrible things we've talked about before right um where you're where you've actually
+2:34:38
+distanced yourself so what's the scope on mirror neurons I don't think mirror neurons exist I think
+2:34:44
+that's the consensus but our propensity to engage with other people by simulating on the substrate of our own
+2:34:51
+self and then inferring the goals and the feelings and the outcomes and the experiences of those experiences that
+2:34:59
+we've simulated that's what is very essential to being a human but keeping in mind that there's also this layer of
+2:35:06
+learned lived cultural developed expectations we impose onto the world
+2:35:13
+and we not filter but we um we steer our attention we steer our
+2:35:19
+perception to accommodate to align with our expectations so it's never just the
+2:35:25
+reality of what the person experienced or what happened it's always our perception of that reality as we
+2:35:32
+expected it to happen so there's this very Dynamic cultural co-construction happening that is um that is messy that
+2:35:39
+is iterative that you can learn learn to do in different ways in different contexts and and that's kind of how I
+2:35:47
+understand this notion of mirroring before we conclude I do want to answer
+Cold Exposure & Sickness; Role of Education
+2:35:52
+your son's question oh so so prior to recording
+2:35:57
+um there was a text message that came we don't have to read it verbatim but the text message um
+2:36:03
+uh Mary Ellen's son uh is uh late teenage years and he's been doing uh
+2:36:09
+deliberate cold exposure cold showers on on a daily basis and reported that he's not get it he hasn't had any colds since
+2:36:16
+starting this this is actually a pretty common experience because the pulse and adrenaline that is inevitable with a
+2:36:24
+uncomfortably cold but safe in the morning does a whole bunch of exercises to get warm and then jumps in
+2:36:31
+a freezing cold shower amazing um that Spike of adrenaline we know is neuroprotective if it's a short-lived
+2:36:37
+spike in Adrenaline you know what chronically no you don't want chronic stress that's not good that's not good we know that from the beautiful worker
+2:36:42
+Bruce McEwen and Bob sapolsky and others yeah so um but then he asked
+2:36:48
+um should he get sick should he continue the cold showers and and the answer is no I think that um
+2:36:55
+then it would be hot showers and hot baths and sauna type stuff is probably better but not so hot that it's
+2:37:01
+stressful yeah you really want to reduce stress on a on an ill system yeah so um
+2:37:06
+he sounds uh for many reasons like a remarkable young man as as is your daughter it sounds like a remarkable and
+2:37:13
+listen and you're remarkable and I I really mean that I feel like we could go
+2:37:18
+on forever exploring these ideas I I absolutely uh would love to have you back for another discussion or or many
+2:37:26
+um about your research I want to thank you for taking the time of your research schedule your teaching
+2:37:33
+schedule to come educate us today these ideas are so vitally important and and
+2:37:38
+you provide so many real world examples in fact it's one of the things that I love so much about your work is that it's really nested in real world
+2:37:44
+applications thank you and your thoughts and perspectives on the education and
+2:37:49
+how it could be better at the level of educating kids at home teaching ourselves teachers and the education
+2:37:57
+system I I hope will ring far and wide um because they they really can be
+2:38:04
+implemented we're not talking about the need to purchase a bunch of stuff no we need to start with a different disposition we need to start with a
+2:38:10
+different goal yeah the goal of Education needs to not learning is not the goal it's not the outcome it needs
+2:38:16
+to be the development of the person right how is a person changing themselves Having learned this and then you design
+2:38:23
+the learning opportunities to change who people are capable of becoming right so
+2:38:28
+the learning is there but it's not the end point it's just the means to something else which we haven't been
+2:38:34
+attending to enough and that's the development of the person who they become Having learned that
+2:38:39
+beautifully but um well thank you so much for your time thank you so much for the work you do
+2:38:45
+and I can't wait to have another discussion with you about the emerging research great I'll be back thank you
+Zero-Cost Support, YouTube Feedback, Spotify & Apple Reviews, Sponsors, Momentous, Social Media, Neural Network Newsletter
+2:38:51
+thank you for joining me today for my discussion about emotions social interactions and learning with Dr Mary
+2:38:57
+Helen immordino Yang I hope you found the conversation to be as informative and enriching as I did if you'd like to
+2:39:04
+learn more about Dr amordino Yang's research please find the link to her laboratory website in the show note
+2:39:09
+captions in addition Dr emeraldino Yang authored an incredible book called emotions learning in the brain it's a
+2:39:16
+book designed for the general public it's incredibly informative and has a lot of practical tools as well we've
+2:39:21
+provided a link to that book in the show note captions if you're learning from and or enjoying this podcast please
+2:39:27
+subscribe to our YouTube channel that's a terrific zero cost way to support us in addition please subscribe to the
+2:39:33
+podcast on both Spotify and apple and on both Spotify and apple you can leave us up to a five star review if you have
+2:39:39
+questions for me or comments about the podcast or guests that you'd like me to include on the huberman Lab podcast please put those in the comment section
+2:39:46
+on YouTube I do read all the comments please also check out the sponsors mention at the beginning and throughout
+2:39:52
+today's episode that's the best way to support this podcast not on today's episode but on many previous episodes of
+2:39:58
+The huberman Lab podcast we discuss supplements while supplements aren't necessary for everybody many people
+2:40:03
+derive tremendous benefit from them for things like enhancing sleep for hormone support and for Focus the uberman Lab
+2:40:09
+podcast is proud to have partnered with momentous supplements to see the supplements discussed on the huberman Lab podcast go to live momentous spelled
+2:40:16
+ous so that's livemomentis.com huberman again that's livmentis.com huberman if
+2:40:22
+you're not already following us on social media I am huberman lab on Instagram Twitter Facebook and Linkedin
+2:40:28
+and at all those places I discuss science and science related tools some of which overlaps with the content of
+2:40:33
+the huberman Lab podcast but much of which often does not overlap with the content of the Hebrew and Lab podcast so
+2:40:39
+again it's huberman lab on all social media Platforms in addition if you haven't subscribed to our neural network
+2:40:45
+newsletter it's a zero cost monthly newsletter that provides summaries of podcast episodes as well as toolkits for
+2:40:52
+instance tool kits for optimizing sleep or toolkits for Learning and neuroplasticity or for deliberate cold exposure for dopamine and on and on to
+2:40:59
+sign up for the neural network newsletter simply go to hubermanlab.com go to the menu scroll down to newsletter and provide your email we do not share
+2:41:06
+your email with anybody thank you once again for joining me for today's discussion with Dr Mary Helen immortino
+2:41:12
+Yang and last but certainly not least thank you for your interest in science [Music]
