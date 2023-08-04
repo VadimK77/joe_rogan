@@ -1,0 +1,1016 @@
+0:00
+today I want to show you how can you use
+0:02
+GPT to automate boring data entry job so
+0:05
+last week I spent almost a whole weekend
+0:08
+doing the tax reimbursement and it was
+0:10
+such pain as I reviewed around 60 to 100
+0:13
+different invoice extra which company it
+0:15
+is how much it is and then manually put
+0:18
+into zero for the reimbursement I feel
+0:20
+so exhausted about this process on the
+0:22
+outside I also feel lucky because I only
+0:24
+needed to do this once a year but in the
+0:27
+business setup this process happened
+0:29
+every single day any operating companies
+0:31
+especially traditional business like
+0:33
+retail or manufacturing you receive tons
+0:36
+of documents every day they normally
+0:38
+have one or two people doing the data
+0:40
+entry job into different systems they
+0:42
+are using and this whole process was not
+0:44
+possible to be automated because every
+0:46
+company's document format is different
+0:48
+there are literally millions of
+0:49
+different formats for even just invoice
+0:51
+so there's no standard way to process
+0:53
+all those information but with large
+0:55
+language models like qpt it's actually
+0:57
+possible now as long as we can extract
+0:59
+tax data accurately from this PDF file
+1:02
+we can feed those tax data to gbt let
+1:04
+extra structured information and then
+1:06
+automatically syncs into different
+1:08
+Business Systems like zero Salesforce
+1:10
+but one problem you will quickly find is
+1:13
+that it's very hard to extract tags from
+1:15
+PDF file accurately because the PDF file
+1:17
+is not just text part of the PDF file
+1:20
+could be image from scanned documents or
+1:22
+screenshots and the text can be in a
+1:24
+table format or with two columns inside
+1:26
+so it is not easy job but luckily after
+1:29
+a bunch of research I finally found a
+1:32
+kind of bulletproof way and this is what
+1:33
+I want to show you today you will be
+1:35
+able to create an AI app where you can
+1:38
+Define the list of data points drag and
+1:40
+drop PDF files extract all the
+1:42
+structured information and send those
+1:44
+data to integration platform like
+1:46
+make.com to trigger different workflow
+1:48
+in bin assistance like zero Salesforce
+1:50
+and many others and if you don't know
+1:52
+what maker.com is it's one of the most
+1:54
+flexible integration platform that allow
+1:57
+you to connect to business apps that you
+1:59
+already use you if you don't have
+2:00
+account on making integration platform
+2:02
+yet click on the link in my description
+2:03
+below to sign up the first thing we're
+2:05
+gonna do is extract hacks from PDF files
+2:08
+accurately as I mentioned before it is
+2:10
+not as easy as we saw but luckily I
+2:13
+learned a lot from a media article
+2:15
+written by zomanna about how to extract
+2:17
+text from any PDF file accurately so
+2:20
+definitely go give it if you want to
+2:22
+dive deep but at high level the message
+2:25
+we're gonna use is a combination of two
+2:27
+different python libraries pet vm2 which
+2:30
+return any PDF file into image file and
+2:33
+then we'll use pass react which did a
+2:35
+really good job extracting tags from
+2:37
+images so our process is basically
+2:39
+convert all the PDF file in image and
+2:41
+extract tags from it this might sound a
+2:44
+lot of unnecessary work but it works the
+2:46
+best with all the methodologies we try
+2:48
+lynchings default PDF loader or
+2:51
+unstructured fire loader did a really
+2:53
+bad job in terms of extracting
+2:55
+information from images and same as the
+2:57
+other Library called Pi PDF but with
+2:59
+this messes it gets almost 99 of text so
+3:03
+let's get it as always let's create a
+3:05
+folder in Visual Studio code and create
+3:07
+a DOT EMV file where you will add your
+3:09
+open AI API key here once you did that
+3:12
+we will create a second file called
+3:13
+app.py and let's break down how we're
+3:15
+gonna implement this there will be four
+3:17
+steps we will firstly convert all those
+3:20
+PDF files into images and we will
+3:22
+extract the text from those images while
+3:24
+some OCR python Library extract
+3:27
+structured information from those texts
+3:29
+using large language model like GPT and
+3:32
+in the end we will send the data to
+3:34
+make.com Via webhook and the first thing
+3:36
+we will need to do is we will import a
+3:38
+list of different libraries I'll explain
+3:40
+later how we're going to use each
+3:42
+Library here but once you did that the
+3:44
+first thing is convert PDF files into
+3:46
+images while a library called Pi PDF if
+3:49
+you haven't installed this Library yet
+3:51
+click on the button on top right corner
+3:52
+and type in PIP install pdfm 2. and this
+3:56
+should install this libraries that we're
+3:58
+gonna use so let's create a function
+4:00
+that converges PDF files into image so
+4:03
+the way this function works is it
+4:05
+basically breaks down our PDF files into
+4:07
+different pages and then for each page
+4:09
+we are converting it into images with
+4:12
+the python library that we are using and
+4:14
+once that's done we will create a second
+4:15
+function extract tags from images and
+4:18
+give this list of images that we got
+4:20
+from previous function it basically runs
+4:23
+through each image and try to extract
+4:25
+text from it and in the end it will
+4:27
+return the whole content and for this
+4:29
+function we will need to use another
+4:31
+python Library called pits rack and
+4:33
+again if you don't have page rack
+4:35
+installed you can open the terminal and
+4:37
+then do pip install pay this rack once
+4:40
+we finish this two functions it
+4:42
+basically give us everything we need to
+4:44
+extract information from any PDF file so
+4:46
+in the end I will create a final
+4:48
+function that will connect as two
+4:50
+functions together called extract
+4:51
+content from URL where we will give it a
+4:54
+URL pass of the PDF file and it will
+4:57
+firstly generate a list of images from
+4:59
+the first function and then extract the
+5:01
+text from the second function and return
+5:03
+the content that we extracted that's
+5:05
+pretty much it let's try this out I have
+5:07
+this invoice PDF from GitHub so I can
+5:10
+drag and drop this file into the folder
+5:12
+once you did that we will move down to
+5:14
+the button and create if name equal to
+5:17
+main you will need to add this
+5:18
+multi-processing free support and then
+5:20
+call a function Main and inside main
+5:22
+function is where you already write the
+5:24
+execution code so we'll create a
+5:26
+variable called content call this
+5:27
+function that we just created point to
+5:29
+the PDF file URL that we uploaded and
+5:32
+then print it so let's try this python
+5:35
+app.v1 okay so we got results and as you
+5:39
+can see it successfully extract all the
+5:41
+information that inside my PDF file if
+5:44
+you compare it extract almost everything
+5:46
+including the money I paid the data I
+5:48
+paid and the item that I paid we will
+5:51
+also try something like this which is
+5:53
+screenshots image inside the PDF file
+5:55
+and as you can see even for this image
+5:57
+it extracts all the information in
+5:59
+including the receipt number the amount
+6:02
+of payment date so this is working
+6:04
+really well the next thing is we will
+6:06
+feed those information to large language
+6:08
+model like GPT and let's extract
+6:10
+structured information like invoice ID
+6:13
+the amount of payment so we will create
+6:15
+a new function here called extract
+6:17
+structured data wherever pass on two
+6:19
+variables one is a Content that will
+6:21
+extract from PDF file and the second is
+6:23
+data points so data points basically
+6:25
+allow users to Define what kind of data
+6:28
+points that they want to extract so it
+6:30
+can be a bit more flexible for example
+6:32
+users will be able to define a data
+6:34
+structure like this that they want to
+6:36
+extract invoice item the amount of money
+6:39
+which company issues invoice and invoice
+6:41
+date so we will pass on these two
+6:43
+variables create a variable large
+6:44
+language model equal to chat open AI
+6:46
+with temperature 0 and GPD 3.5 turbo
+6:49
+June 13 model then I will create a
+6:52
+prompt template you are an expert in
+6:54
+many people who will extract core
+6:56
+information from documents and will pass
+6:58
+on the content that we extract it above
+7:01
+is the content please try to extract all
+7:03
+the data points from the content above
+7:05
+and Export it into a Json array format
+7:08
+and we will pass on the state points
+7:10
+that the users will be passing on and
+7:12
+now Place extra details from the content
+7:14
+and export in a Json array format return
+7:17
+only the Json array and we'll create a
+7:19
+prompt template from there and create a
+7:21
+variable called chain equal to large
+7:23
+language model chain and then we will
+7:25
+run this by passing on the content and
+7:27
+data points and we will return the
+7:29
+readouts so our move down to our main
+7:32
+function here and add a new variable
+7:34
+called data which equal to extract
+7:36
+structure data passing on the content
+7:38
+and the default data points and we will
+7:40
+print out data so let's try this all
+7:42
+right so we got this results which is a
+7:45
+Json format the extract invoice item
+7:47
+payment to launch house among the 2500
+7:50
+as a company name and invoice date it is
+7:53
+working really well okay so now let's
+7:55
+try to add a UI layer while stream list
+7:57
+if you don't know what a streamlined is
+7:59
+it it's a framework that allow you to
+8:01
+create a web app from your python code
+8:03
+very easily as they provide a wide range
+8:05
+of different UI components so we import
+8:08
+the streamlit as St and move down to the
+8:11
+Min function and I will replace this
+8:13
+part to the streamlined app UI so we
+8:15
+reversely try to set up the title for
+8:17
+your website do
+8:19
+streamlit.setpageconfig page title equal
+8:21
+to Doc extraction and then I will give a
+8:23
+header and I will create a text error
+8:26
+where users can change the data points
+8:28
+but there will be a default value that
+8:30
+we Define above and then second is we
+8:32
+will have a component for user to upload
+8:34
+files and I will turn on this accept
+8:37
+mobile files and then if uploaded files
+8:39
+is not known and data points is known we
+8:42
+will trigger the function to extract
+8:44
+information so we'll create a results
+8:46
+which is array in case people upload
+8:48
+multiple different PDF files and for
+8:51
+each file we will create a temporary
+8:53
+file first so that we can get a
+8:56
+temporary URL that we can pass on to our
+8:58
+functions so are do F write file get
+9:01
+buffer and then we'll create the
+9:03
+variable content to extract content from
+9:05
+the URL from app.name which is file pass
+9:08
+then do the extra structured data and we
+9:11
+will also try to convert the data into
+9:13
+Json format because even though the
+9:16
+results large language model return
+9:17
+looks like Json is actually a string
+9:20
+which means just text so we will need to
+9:22
+convert it into proper Json format and
+9:25
+we will do results equal to results plus
+9:28
+Json data which means we will combine
+9:30
+all the structured data that we
+9:32
+extracted together and put into results
+9:34
+okay and once we did all those things we
+9:37
+want to also have a UI component to
+9:39
+display the structured information I
+9:41
+plan to use data editor which is one
+9:43
+type of UI component that streamlably
+9:45
+provide is basically a table that is
+9:47
+interactive our given header St
+9:49
+subheader results and then as the data
+9:52
+editor DF which is data frame object
+9:54
+that we created from the results also do
+9:57
+the error handling here so this should
+9:58
+create a web app that we can upload a
+10:01
+file and review the results but let's
+10:03
+try that I will click on the top right
+10:04
+corner and then to streamlit run app.py
+10:07
+alright so we got this web app running
+10:10
+and you can see there are two parts one
+10:12
+is data points and I can modify it so if
+10:15
+I don't want invoice data I can just
+10:16
+remove it and then I can upload a file
+10:19
+here this time I will try another
+10:21
+invoice that is a lot more complicated
+10:23
+that it has a few different items so I
+10:26
+will drag and drop this file in and on
+10:29
+the top right corner you can see it is
+10:31
+running all right great you can see it
+10:33
+extract the list of all the invoiced
+10:35
+item as well as the amount of money each
+10:37
+item cost so this is doing really well
+10:40
+and if I want to change I can also just
+10:42
+click on then change the name if I need
+10:45
+all right so we got everything working
+10:47
+the last thing is we want to add a
+10:49
+button here at a bottom which will
+10:51
+create invoice in xero or in Salesforce
+10:54
+automatically and to do that you can use
+10:57
+xero or Salesforce API and points they
+11:00
+both provide documentations where you
+11:01
+can take a look and set up the
+11:03
+Integrations however it is quite a bit
+11:05
+of work those systems normally have
+11:06
+complicated authentication process which
+11:08
+makes the integration a lot more
+11:10
+difficult than just calling an API
+11:12
+endpoint that's why I prefer to leverage
+11:14
+platform like make.com if you don't have
+11:16
+account yet click on the link in the
+11:18
+description below you will get a one
+11:20
+month per plan for free after you sign
+11:22
+up account click on create new scenario
+11:24
+button on the top right corner and click
+11:26
+on this plus button start searching for
+11:29
+webhook and we will choose custom web
+11:31
+hook and I will click on this create a
+11:32
+web hook button you can rename that to
+11:34
+Doc extraction GPT and click save so now
+11:37
+we have this API endpoint that we can
+11:40
+send data to so click on this copy
+11:42
+address to clipboard and return to our
+11:44
+python code and we will write a function
+11:46
+to send data to make.com to do that we
+11:49
+will need to use a library called
+11:51
+requests which allow us to send API
+11:53
+requests I will move down here before
+11:56
+the streamlined app and create one
+11:58
+function called send to Main with one
+12:00
+variable data or create a webhook URL
+12:02
+that we copy from the webhook on
+12:04
+make.com then create a Json data and try
+12:07
+send out a post request to the webcook
+12:09
+URL with our data once it's finished
+12:11
+we'll print out a message that data sent
+12:13
+successfully otherwise we will have the
+12:15
+arrow handling here the last thing is I
+12:17
+will move down to the streamlit app and
+12:20
+just after this data editor table I will
+12:23
+add a new component called streamlit
+12:25
+button with the title sync to make and
+12:27
+if this button is click to trigger the
+12:29
+send to make function that we created
+12:31
+above and once it's finished to show a
+12:33
+message called sync to make successfully
+12:35
+let's run this again streamlined wrong
+12:37
+app.py and this time I will change the
+12:39
+data point a little bit because I wanted
+12:42
+to match the information that the zero
+12:45
+API will need to create those invoice
+12:46
+which is item description quantity and
+12:49
+unit price drag and drop on the invoice
+12:52
+I have here and once it's finished you
+12:54
+will see new button here called sync to
+12:56
+make but before you click on this making
+12:58
+sure go back to to make.com and then try
+13:00
+to click on this wrong ones button and
+13:03
+we will come back here click on this
+13:04
+sync to make.com button once it's
+13:06
+finished and you will see a little
+13:08
+bubble on top right corner here that
+13:10
+means it actually receive a new data and
+13:12
+if you click on that it is exactly the
+13:14
+invoice data that we send so we have
+13:16
+successfully built up the connection so
+13:18
+next we're gonna build out the whole
+13:20
+workflow on make.com to create invoice
+13:22
+on xero so click on this flow control
+13:24
+which is a geo button at bottom and add
+13:27
+an iterator so the reason we end
+13:28
+iterator is because more likely you will
+13:31
+drag multiple different invoice files so
+13:33
+it will be array of invoice to be
+13:35
+created and iterator is basically as a
+13:37
+way for you to run a for Loop for an
+13:39
+array so we will click on this and our
+13:41
+choose array to be data and click save
+13:43
+and then I will click on this plus
+13:44
+button choose zero and the first thing
+13:47
+we want to do is search if the company
+13:49
+name of the invoice actually exists in
+13:51
+our system if it didn't exist out then
+13:53
+it will create a contact in zero first
+13:55
+our select search by field choose name
+13:58
+equal to use company name at top and
+14:00
+click OK and then next thing we will
+14:02
+create a if condition so you will click
+14:05
+on this little tool icon and then select
+14:08
+add a router and this is basically a if
+14:10
+condition so you can add two router one
+14:12
+router is if contact exists and that
+14:15
+would be the total number of bundles
+14:18
+from the search which means the search
+14:20
+results is greater than or equal to one
+14:22
+that means the content exists and for
+14:24
+the other one you can click on ADD and
+14:26
+click and choose setup a filter and give
+14:28
+a label that if contact doesn't exist
+14:31
+and for the first one here if the
+14:33
+content does exist or choose create
+14:35
+invoice and then select either it is
+14:37
+build or sales invoice and I will put in
+14:40
+the content in or choose Content ID and
+14:42
+then add a line item and this is where
+14:44
+our map to the invoice information I
+14:46
+received from our web app description
+14:48
+quantity and unit amount and I will
+14:51
+click save and the other one if contact
+14:53
+doesn't exist then I will choose create
+14:55
+a contact and then the name of content
+14:57
+that we're going to create will be a
+14:59
+company name click OK and after that we
+15:01
+would repeat that process of creating
+15:03
+invoice except this time the content ID
+15:06
+will be from the Creator contact option
+15:08
+and I will choose a contact ID we're
+15:10
+going to do the same thing of mapping
+15:12
+and click ok so this simple workflow
+15:14
+should do the job of sending the data
+15:16
+from webhook to your xero and let's try
+15:19
+this I will click on this wrong ones
+15:21
+button go back to our web app we can
+15:23
+actually add a few more invoice items
+15:26
+click on sync to make and this time you
+15:28
+can see here it actually trigger two
+15:30
+different paths one pass for the GitHub
+15:32
+which will already have the contact the
+15:35
+other it will create a contact first and
+15:37
+then create invoice and if you go back
+15:39
+to the zero there are two new invoice
+15:41
+items created already confusing all
+15:43
+those details so this example of how you
+15:46
+can automatically create zero invoice
+15:48
+from those data that you extracted but
+15:50
+they are normal system that you can
+15:51
+integrate like Salesforce HubSpot
+15:54
+Dropbox and many others pretty Keen to
+15:56
+see what kind of things that you start
+15:58
+building only I hand another quick tip I
+16:00
+want to share is for this specific type
+16:02
+of document extraction use case you
+16:04
+actually don't have to build this whole
+16:06
+python code and streamlined app because
+16:08
+there are no whole platforms like Realms
+16:10
+AI they handle the document extraction
+16:12
+extremely well so in the randoms AI
+16:14
+platform I can click on new chain called
+16:16
+document extraction and then we'll add
+16:19
+some inputs first to create a file to
+16:21
+URL inputs which will allow us to upload
+16:24
+a file and then I will create a table
+16:25
+input that allow me to add in different
+16:28
+data points okay so I just quickly fill
+16:30
+in those data points and I can save
+16:32
+those at default value as well and then
+16:34
+I'll move down here and a step that can
+16:36
+convert PDF to text and I will choose
+16:39
+PDF URL to be the file URL that we
+16:42
+upload here and below here you will see
+16:43
+this option called use OCR and I will
+16:46
+turn this on as yes this basically means
+16:48
+it will automatically do the converting
+16:50
+from PDF to image and then do the
+16:52
+scanning the next thing I would do is
+16:53
+create a large language model step with
+16:56
+this prompt you are an expert at Main
+16:58
+people who can track for information
+16:59
+from documents please try to extract all
+17:02
+the data points from the content below
+17:04
+and output the results in Json format so
+17:06
+this is a data point to be extracted
+17:08
+which will point to the date to table
+17:10
+data that we're putting above and this
+17:12
+is content which point to the text that
+17:14
+we extract from PDF and then export
+17:16
+extract data points in a Json array
+17:18
+format like below for each data point so
+17:21
+I will give example which is array and
+17:23
+inside array there could be multiple
+17:24
+different Json format for different
+17:26
+invoice items now please extract details
+17:28
+from the content and exporting a Json
+17:30
+array format return only the Json array
+17:32
+and once we did this the last part we
+17:34
+will do is we use the API step and use
+17:37
+the URL that we get from the webhook on
+17:39
+make.com with post request and our ad
+17:42
+header to be the content type J
+17:44
+application slash Json and for the body
+17:46
+I will select edit as object click on
+17:48
+this button where it will enable us to
+17:51
+input the variable this will send the
+17:53
+large language model data in a Json
+17:55
+format so let's try this click around
+17:57
+all once we finish we go back to to
+17:59
+make.com you can see it successfully
+18:01
+send out the results and it actually
+18:03
+created invoice in the zero the good
+18:05
+thing about using relevance AI is that
+18:07
+once you finish you actually already
+18:09
+have a deployed app you can click on
+18:11
+this button to share with others as well
+18:12
+so this is a quick example of how can
+18:15
+you automate those data entry job by
+18:17
+leveraging large language model and
+18:19
+platform like make.com I'm really Keen
+18:21
+to see what kind of use case you created
+18:23
+so please comment below as I mentioned
+18:25
+if you don't have make.com account yet
+18:28
+click the link in my description below
+18:29
+and you can get a one month Pro Plan for
+18:31
+free I will continue sharing different
+18:33
+type of AI experiments I'm doing so
+18:36
+please subscribe and I see you next time
